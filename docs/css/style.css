@@ -214,7 +214,7 @@ iframe {
     outline: 1px solid;
     outline-offset: 3px;
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 15px;
   }
 
   img {
@@ -223,7 +223,7 @@ iframe {
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
-    max-width: 20rem;
+    max-width: 30rem;
   }
 
 }
