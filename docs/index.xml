@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph C</title>
+    <link>https://joseph-c100.github.io/</link>
+    <description>Recent content on Joseph C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="https://joseph-c100.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>starfish.systems</title>
+      <link>https://joseph-c100.github.io/writing/tunnel_systems/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://joseph-c100.github.io/writing/tunnel_systems/</guid>
+      <description>::starfish.systems activated ::
+A tiny, experimental design studio exploring the realms of spacial interfaces, virtual spaces and the transference of visual information through digital applications.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joseph-c100.github.io/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/contact/contact/</guid>
+      <description>contadt</description>
+    </item>
+    
+    <item>
+      <title>Black Hole</title>
+      <link>https://joseph-c100.github.io/work/black_hole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/black_hole/</guid>
+      <description>Each dot = 50,000 data records collected by ‘Black Hole’ GCHQ program each day.
+(This includes: search history, social media posts and messages, call logs, emails and more)
+Coptic book binding by hand.</description>
+    </item>
+    
+    <item>
+      <title>Election by Communication</title>
+      <link>https://joseph-c100.github.io/work/election/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/election/</guid>
+      <description>drawingmachine.py
+Python program that draws based on live tweets on the 2016 US election depending on specific keywords.
+The bottom image depicts just a snapshot of the constant stream of content that was being used to draw these shapes.</description>
+    </item>
+    
+    <item>
+      <title>Elevator pitch</title>
+      <link>https://joseph-c100.github.io/work/elevator_pitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/elevator_pitch/</guid>
+      <description>Self-published zine on non-verbal communication and anxiety.</description>
+    </item>
+    
+    <item>
+      <title>Exhibitions/Residencies/Publications</title>
+      <link>https://joseph-c100.github.io/work/exhibitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/exhibitions/</guid>
+      <description>Joya: Artist in Residence (2022)
+University College London - Multimedia Anthropology Lab collaborative exhibition (virtual) - uclmal.com/exhibition
+&amp;lsquo;Open Fragments&amp;rsquo; - Pragamata Collective (online)
+&amp;lsquo;Gaps between gaps&amp;rsquo; - Solo Exhibition Stallan-Brand Architects (Glasgow)
+&amp;lsquo;Fantôme/Aave&amp;rsquo; - Vaapan Taiteen Tila (Helsinki)/Galerie au Medicis (Paris)
+‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
+‘Rooted’ - Where People Sleep (Glasgow)
+‘Sobremesa’ - Wasps Studios (Glasgow)
+‘More is Less’ - Laurieston Arches (Glasgow)
+‘Feedback Loop’ - GSA Photography studio</description>
+    </item>
+    
+    <item>
+      <title>Fantôme/Aave</title>
+      <link>https://joseph-c100.github.io/work/fantome_aave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/fantome_aave/</guid>
+      <description>&amp;lsquo;This is Fiction&amp;rsquo; - Single Channel Video Projection (First Image)
+In collaboration with Mensonge Collectif, co-curated with Cesar Kaci and Aliha Thalien
+Vapaan Taiteen Tila Helsinki/Galerie au Medicis
+Helsinki - 2019
+Link to full video </description>
+    </item>
+    
+    <item>
+      <title>Gaps between gaps</title>
+      <link>https://joseph-c100.github.io/work/gaps_between_gaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/gaps_between_gaps/</guid>
+      <description>Stallan-Brand (Glasgow)
+March 12 - April 3 2020
+An exhibition on conspiracy and world-building.</description>
+    </item>
+    
+    <item>
+      <title>Generated glitch model paintings</title>
+      <link>https://joseph-c100.github.io/work/ggm_paintings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/ggm_paintings/</guid>
+      <description>Generated, Glitch, Model (GGM) Paintings - 3D Digital Render - Ongoing
+Experimenting with a visual medium developed using a variety of online AI text generators, picture editing phone apps and Maya software which I named Generated, Glitch, Model (GGM) paintings.
+blue systems, 2022
+spacing, 2022</description>
+    </item>
+    
+    <item>
+      <title>Generated Worlds</title>
+      <link>https://joseph-c100.github.io/work/generated_worlds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/generated_worlds/</guid>
+      <description>Python script that generates random terms for world building - making use of terms from politics, philosophy, ecology, computing, psychology and geography.</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://joseph-c100.github.io/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/info/</guid>
+      <description>If you&amp;rsquo;re looking for a creative generalist with a stack of design, tech and some marketing skills then reach out to me. I&amp;rsquo;m particularly interested in working with independent galleries, small press publishers, digital product developers, web3 organisations/businesses, fashion brands and record labels.
+Currently working at BookMachine, a small design and marketing agency in London, building digital products, automating workflows and building a company Operating System.
+Elsewhere, I&amp;rsquo;m a digital designer, artist and writer working on my own series of projects including building starfish.</description>
+    </item>
+    
+    <item>
+      <title>Keywords - Poster Series</title>
+      <link>https://joseph-c100.github.io/work/keywords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/keywords/</guid>
+      <description>A series of five posters on leaked keywords used in NSA Surveillance software.</description>
+    </item>
+    
+    <item>
+      <title>Pretend Ai, Pretending to be People</title>
+      <link>https://joseph-c100.github.io/work/pretend_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/pretend_ai/</guid>
+      <description>Collaborative exhibition with UCL&amp;rsquo;s Multimedia Anthropology Lab (2021)
+This virtual space presents an ongoing conversation and collaboration between artists Zach Mason and Joseph Clark both who are interested in data collection, visualisation and the transformations of artificial intelligence.
+In a bedroom, inspired by the setting that many conversations between us have taken place, we will take on the role of AI where we limit ourselves to responding only to what has been said through the information present in the room, without the context of each others prior intentions or personal lives.</description>
+    </item>
+    
+    <item>
+      <title>Starfish</title>
+      <link>https://joseph-c100.github.io/work/starfish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseph-c100.github.io/work/starfish/</guid>
+      <description>Self-published zine - 2021
+Starfish Press began as a continuation to the publication of &amp;lsquo;Starfish&amp;rsquo; in 2021.
+Still in the process of being established, the aim of Starfish is to create visual work which encounters new ideas that bridge print and digital culture.
+Co-editor and photographer - Annie Joy Boothroyd</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+baseURL = "https://joseph-c100.github.io"
+title = "Joseph C"
+theme = "hugo-starter-theme"
+publishDir = "docs"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "writing"
+    name = "Writing"
+    url = "/writing"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "info"
+    name = "Info"
+    url = "/info"
+    weight = 20
+
+[markup.goldmark.renderer]
+unsafe= true
