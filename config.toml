@@ -2,6 +2,8 @@ baseURL = "https://joseph-c100.github.io"
 title = "Joseph C"
 theme = "hugo-starter-theme"
 publishDir = "docs"
+description = 'Interface designer, artist and curator'
+images = ['/images/election1.png']
 
 
 [menu]
