@@ -1,4 +1,4 @@
-# joseph-c100.github.io
+# josephc.net
 
 Portfolio site of Joseph C
 
