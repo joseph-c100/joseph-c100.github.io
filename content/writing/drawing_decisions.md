@@ -3,7 +3,7 @@ title: "drawing decisions"
 date: 2020-10-04T22:05:00+07:00
 ---
 
-![image]("/images/drawing_decisions.png")
+<img src="/images/drawing_decisions.png" alt="">
 
 
 
