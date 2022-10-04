@@ -3,7 +3,7 @@ title: "On being ok with other people being at different stages in their lives t
 date: 2022-08-14T18:05:00+07:00
 ---
 
-<img src="/images/being_ok.jpg" alt="">
+<img src="/images/being_ok.jpeg" alt="">
 
 Much like how light can be a particle or a wave, other people’s life trajectories can be both parallel to yours and inhabit a completely different dimension. Since reading this article called ‘Instead of your life’s purpose’, I’ve been considering a new perspective of life being non-linear — life that doesn’t move in a straight line, is not scalable and is not an easily dividable experience. Accepting this perspective has eased a lot of rigidity that I’d been feeling, days flow a bit easier now and there’s more space for meaning to shine through.
 
