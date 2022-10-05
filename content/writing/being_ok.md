@@ -2,9 +2,6 @@
 title: "On being ok with other people being at different stages in their lives than you"
 date: 2022-08-14T18:05:00+07:00
 ---
-
-<img src="/images/being_ok.jpg" alt="">
-
 Much like how light can be a particle or a wave, other people’s life trajectories can be both parallel to yours and inhabit a completely different dimension. Since reading this article called ‘Instead of your life’s purpose’, I’ve been considering a new perspective of life being non-linear — life that doesn’t move in a straight line, is not scalable and is not an easily dividable experience. Accepting this perspective has eased a lot of rigidity that I’d been feeling, days flow a bit easier now and there’s more space for meaning to shine through.
 
 But there’s a frustration that comes from sharing your life with people (which comes with the natural urge to feel that you are moving in a parallel trajectory with them) and accepting them as they really are which is a person on a non-linear journey through life that may not parallel yours. They could be moving in the same direction, but in a different form, like a spectrum of light, one frequency is blue and one is red but they’re both part of the same wave of light. They’ve got different value systems, different interests, think in different frameworks than you do but generally you want to feel that you are moving together in the same direction. (Does this make sense?)
