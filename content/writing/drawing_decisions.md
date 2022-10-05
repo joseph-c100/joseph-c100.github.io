@@ -1,6 +1,6 @@
 ---
 title: "drawing decisions"
-date: 2020-10-04T22:05:00+07:00
+date: 2022-10-04T22:05:00+07:00
 ---
 
 <img src="/images/drawing_decisions.png" alt="">
