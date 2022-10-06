@@ -60,10 +60,11 @@ h4{
 }
 
 section {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .site-header{
+  z-index: 999;
   padding: 1.5rem;
   display:block;
   position: sticky; top: 0;
@@ -140,7 +141,6 @@ a:hover {
 .work-list{
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
-  margin-bottom: 25px;
   font-family: Space Grotesk; sans-serif
 }
 
@@ -169,7 +169,7 @@ a:hover {
 
 .starfish-section {
   border-bottom: solid 1px #ccc;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .footer-section {
@@ -186,7 +186,9 @@ iframe {
   z-index: 0;
 }
 
-
+twitter-tweet {
+  z-index: 0;
+}
 
 
 
