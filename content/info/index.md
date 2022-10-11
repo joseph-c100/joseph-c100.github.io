@@ -10,7 +10,7 @@ img {
 
 ![image](/images/profile.jpg)
 
-If you're looking for a creative generalist with a stack of design, tech and some marketing skills then reach out to me. I'm particularly interested in working with independent galleries, small press publishers, digital product developers, web3 organisations/businesses, fashion brands and record labels.
+If you're looking for a creative generalist with a stack of design, tech and some marketing skills then reach out to me. I'm particularly interested in working with independent galleries, small press publishers, digital product developers, fashion brands, record labels and non-profits.
 
 Currently working at BookMachine, a small design and marketing agency in London, building digital products, automating workflows and building a company Operating System.
 
@@ -30,7 +30,6 @@ You'll also find some of my writing here where I'll upload works in progress, up
 
 - Designing a calendar app that encourages slowness
 - 'Pre-server' - narrative about lichen computer interfaces, planetary intelligence, and ghosts
-- Learning about DAOs and Web3 organisations
 
 #### Recent work
 
