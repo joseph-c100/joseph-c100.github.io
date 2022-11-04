@@ -149,9 +149,14 @@ a:hover {
 
 /* MAIN CONTENT SECTIONS */
 
-.work-list{
+section {
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
+}
+
+.work-list{
+  /* padding-bottom: 50px;
+  border-bottom: solid 1px #ccc; */
   font-family: Space Grotesk; sans-serif
 }
 
