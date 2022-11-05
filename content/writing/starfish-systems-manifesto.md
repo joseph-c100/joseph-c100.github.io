@@ -1,6 +1,6 @@
 ---
 title: "Late night manifesto for starfish.systems"
-date: 2022-11-05T13:11:00+07:00
+date: 2022-05-11T13:11:00+07:00
 ---
 
 OK so a few ideas are starting to come together like a water droplet running down a car window. The form it’s taking is as a tiny, experimental design studio called 'starfish.systems'. How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -
