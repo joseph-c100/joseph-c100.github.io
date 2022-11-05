@@ -40,8 +40,3 @@ You'll also find some of my writing here where I'll upload works in progress, up
 [UCL MAL](https://www.uclmal.com)
 
 [Exhibitons/Residencies/Publications](/work/exhibitions)
-
-<div class="kinopio-embed" style="height: 420px; width: 100%;">
-  <iframe src="https://kinopio.club/embed/?spaceId=Lnliwj8NjtF8HUiu2qWS0&zoom=100" style="height: 100%; width: 100%; border: 0; border-radius: 5px;">
-  </iframe>
-</div>
