@@ -33,6 +33,11 @@ body {
   border-width: 2px;
 }
 
+span {
+  font-family: Space Grotesk, sans-serif;
+  font-style: italic;
+}
+
 img {
   display: block;
   margin-left: auto;
