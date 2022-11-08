@@ -28,8 +28,8 @@ body {
   color: #333;
   line-height: 1.5;
   max-width: 720px;
-  margin-left:auto;
-  margin-right: auto;
+  /* margin-left:auto; */
+  /* margin-right: auto; */
   border-width: 2px;
 }
 
@@ -118,10 +118,13 @@ section {
 
 a {
   color: inherit;
+  text-underline-offset: 3px;
+  text-decoration-color: blue;
 }
 
 a:hover {
   color: #ccc;
+  text-decoration-color: #ccc;
 }
 
 .intro a {
@@ -139,7 +142,7 @@ a:hover {
 
 .site-nav .logo {
   margin-bottom: 5px;
-  font-size: 52px;
+  font-size: 34px;
   font-style: italic;
   color: inherit;
 }
