@@ -179,11 +179,11 @@ a:hover {
 
 /* contact section links */
 .contact-section a {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   outline: 1px solid;
-  outline-offset: 5px;
+  outline-offset: 3px;
   text-decoration: none;
-  margin-right: 20px;
+  margin-right: 15px;
 }
 
 .starfish-section {
