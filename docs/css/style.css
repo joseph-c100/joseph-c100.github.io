@@ -118,11 +118,12 @@ section {
 
 a {
   color: inherit;
-  text-underline-offset: 3px;
+  text-underline-offset: 4px;
   text-decoration-color: blue;
 }
 
 a:hover {
+  transition: all 0.3s;
   color: #ccc;
   text-decoration-color: #ccc;
 }
@@ -221,8 +222,15 @@ twitter-tweet {
   }
 
   .site-nav a {
-    padding: 0.5rem;
+    padding: 0.3rem;
     padding-left: 0;
+  }
+
+  .site-nav .logo {
+    margin-bottom: 3px;
+    font-size: 34px;
+    font-style: italic;
+    color: inherit;
   }
 
   .site-header {
