@@ -3,7 +3,7 @@ title: "Late night manifesto for starfish.systems"
 date: 2022-11-05T13:11:00+07:00
 ---
 
-OK so a few ideas are coming together and it's starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I've called 'starfish.systems' (name after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -
+OK so a few ideas are coming together and it's starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I've called 'starfish.systems' (named after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -
 
 1 - build components not complete designs
 
