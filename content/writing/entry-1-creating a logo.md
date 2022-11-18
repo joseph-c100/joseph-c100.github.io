@@ -11,7 +11,7 @@ I've started designing my logo and word mark for starfish.systems. Inspired by r
 
 <img src="/images/illustrations.png" alt="">
 
-A bit late to the party, I used AI image generation for the first time to create illustrations. Incredible how quickly it's developed in the last year and messing around with it here got me excited about how it could be used for creating new looks, styles and inspiration in future projects. 
+A bit late to the party, I used AI image generation for the first time to create illustrations. Incredible how quickly it's developed in the last year and messing around with it here got me excited about how it could be used for creating new looks, styles and inspiration in future projects.
 
 <img src="/images/starfish-home.png" alt="">
 
