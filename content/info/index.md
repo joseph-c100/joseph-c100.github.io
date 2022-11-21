@@ -5,6 +5,7 @@ title: "Info"
 <style>
 img {
   max-width:200px;
+  margin-left: 0;
 }
 </style>
 
