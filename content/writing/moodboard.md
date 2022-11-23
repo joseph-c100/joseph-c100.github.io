@@ -11,7 +11,7 @@ I was looking for retro, low poly shapes mixed with high tech 'clean' sci-fi tec
 <img src="/images/colour-pallet.png" alt="">
 <img src="/images/colour pallet-1.png" alt="">
 
-Next was the logo/symbol and word mark. Inspired by retro video games, I wanted a 'low-poly' shape that looked good solo or with text. I thought it looked like a rock or a diamond which I liked as the idea of connecting organic matter and tech was a theme I wanted to explore. It also acted as an arrow pointing to the word mark, and could be dynamic component - stretching across the word mark to create a background.
+Next was the logo/symbol and word mark. Inspired by retro video games, I wanted a 'low-poly' shape that looked good solo or with text. After experimenting a bit with different forms I found this pentagon - I thought it looked like a rock or a diamond when turned on it's side. It also looked like a glitch or fracture, a break in your computer screen - which I liked as the idea of connecting organic matter and tech was a theme I wanted to explore. It also acted as an arrow pointing to the word mark, and could be dynamic component - stretching across the word mark to create a background.
 
 
 <img src="/images/logo.png" alt="">
