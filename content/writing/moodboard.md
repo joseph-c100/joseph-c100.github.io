@@ -1,5 +1,5 @@
 ---
-title: "Entry #1 - Moodboard and colour pallets"
+title: "Entry #1 - Moodboard and colour palettes"
 date: 2022-11-18T16:43:00+07:00
 ---
 First step was to put together a moodboard which I had already partly accumulated on are.na.
