@@ -22,7 +22,6 @@ I used an AI image generation plugin in Figma for the first time to create illus
 Some prompts I used were 'sci-fi landscape' 'black and white' 'desert' 'low detail' 'simple'
 
 ![image](/images/illustrations-1.png)
-![image](/images/illustrations-2.png)
 
 #### Typography
 
