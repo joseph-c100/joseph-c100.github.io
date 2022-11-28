@@ -55,9 +55,6 @@ A couple quick wireframes before building a mockup of the site. The site is very
 ![image](/images/desktop1.png)
 ![image](/images/desktop2.png)
 
-![image](/images/phone1.png)
-![image](/images/phone2.png)
-
 
 #### Final mockups
 
