@@ -9,16 +9,16 @@ OK so a few ideas are coming together and it's starting to take a shape. The for
 
 2 - video games are true art and should be integrated as much as possible into visual design
 
-4 - dispersion, liminal and conversion are equal parts of the process
+3 - dispersion, liminal and conversion are equal parts of the process
 
-5 - if it begins, it should end, nothing should be an infinite scroll except God’s grace
+4 - if it begins, it should end, nothing should be an infinite scroll except God’s grace
 
-6 - websites should have effects, haptics, motion and ambient sound where possible
+5 - websites should have effects, haptics, motion and ambient sound where possible
 
-7 - the past it to be explored and built upon without any sense of nostalgia
+6 - the past it to be explored and built upon without any sense of nostalgia
 
-8 - higher dimensionality is good
+7 - higher dimensionality is good
 
-9 - design by writing, write to design - narrative is a tool
+8 - design by writing, write to design - narrative is a tool
 
-10 - you are not separate from the world, speak from where you are
+9 - you are not separate from the world, speak from where you are
