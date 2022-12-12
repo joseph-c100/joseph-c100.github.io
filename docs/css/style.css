@@ -49,6 +49,7 @@ img {
 /* main image displayed on desktop moved to right hand side of screen */
 .display-image {
   height: 400px;
+  background-image: url("images/gaps1.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   transition: all .3s linear;
