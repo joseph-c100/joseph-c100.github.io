@@ -88,6 +88,34 @@
 <body>
 
 
+<div class="display-image">
+  
+  <script>
+    const images = [
+    'url("images/gaps1.jpg")',
+    'url("images/fantome.JPG")',
+    'url("images/savvy3-n.png")',
+    'url("images/gaps2.jpg")',
+    'url("images/savvy9-n.png")',
+    'url("images/savvy3-n.png")',
+    'url("images/logo2.png")',
+];
+
+    const image = document.querySelector('.display-image');
+
+    function showImage() {
+    var a = Math.floor(Math.random() * images.length);
+    var img = images[a];
+    image.style.backgroundImage = img;
+
+
+}   
+
+    setInterval(showImage, 4000);
+
+  </script>
+</div>
+
 
 <div class ="intro">
   <h2>Digital designer, artist and researcher.</h2>

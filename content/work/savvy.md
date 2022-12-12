@@ -49,4 +49,4 @@ Our logo can be separated out into just the arrow, just the wordmark, or all tog
 ![image](/images/savvy32-n.png)
 
 
-![image](/images/savvy-mockup-n1.png)
+![image](/images/savvy_mockup-n1.png)

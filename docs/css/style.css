@@ -46,6 +46,14 @@ img {
   margin-bottom: 20px;
 }
 
+/* main image displayed on desktop moved to right hand side of screen */
+.display-image {
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: all .3s linear;
+}
+
 p {
   font-family: Space Grotesk, sans-serif;
   line-height: 1.8;
@@ -161,7 +169,7 @@ a:hover {
 .work-list{
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
-  font-family: Space Grotesk; sans-serif
+  font-family: Space Grotesk, sans-serif;
 }
 
 .work-item {
@@ -186,11 +194,6 @@ a:hover {
   text-decoration: none;
   margin-right: 15px;
   margin-left: 3px;
-}
-
-.starfish-section {
-  border-bottom: solid 1px #ccc;
-  padding-bottom: 10px;
 }
 
 .footer-section {
