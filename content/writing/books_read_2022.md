@@ -6,7 +6,7 @@ date: 2022-12-26T11:04:00+07:00
 ### Zen Training - Katsuki Sekida
 Bought this book to study when I wanted to learn how to meditate properly. A simple and elegant style of writing explains mediation, breath work and posture clearly and eloquently. After practicing in between reading chapters of this book, I felt much more confident to meditate and would often practice in the park. 
 
-### A Nation in Pain
+### A Nation in Pain - Judy Foreman
 Bought this book after recovering from a long term neck and shoulder pain. I wanted to understand more about what pain is - this book was incredibly revealing, describing in detail how different sorts of pain are viewed by western society, different treatments etc.
 
 ### Radical Friends
@@ -31,5 +31,5 @@ A collection of essays from the students of the MA Fine Arts Program at ZHdk whi
 
 ### Down and Out in Paris and London - Orwell
 
-Shiatsu Japanese Massage for health and fitness - Elaine Liechti
+### Shiatsu Japanese Massage for health and fitness - Elaine Liechti
 Shiatsu massage is a Japanese technique of massage that involves placing pressure on very specific parts of the body. I liked the melding of body and mind in this technique and was fun to practice on friends. 
