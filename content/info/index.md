@@ -19,12 +19,12 @@ Elsewhere, I'm a digital designer, artist and writer working on my own series of
 
 You'll also find some of my writing here where I'll upload works in progress, updates on my sci-fi book, design work, thoughts, ideas, links etc.
 
-##### Orbits
+Orbits - 
 [Trust](https://trust.support)
 [UCL MAL](https://www.uclmal.com)
 [The New Design Congress](https://newdesigncongress.org/en/)
 
-[Exhibitons/Residencies/Publications](/work/exhibitions)
+
 
 
 #### Reading

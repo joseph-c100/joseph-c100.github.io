@@ -1,9 +1,7 @@
 ---
 title: "some books I read in 2022 w/ notes"
-date: 2022-12-26 T11:04:00+07:00
+date: 2022-12-26T11:04:00+07:00
 ---
-
-Some books I read in 2022 w/ notes
 
 ### Zen Training - Katsuki Sekida
 Bought this book to study when I wanted to learn how to meditate properly. A simple and elegant style of writing explains mediation, breath work and posture clearly and eloquently. After practicing in between reading chapters of this book, I felt much more confident to meditate and would often practice in the park. 
