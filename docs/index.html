@@ -87,6 +87,47 @@
 
 <body>
 
+<div class="times">
+  <div data-timezone="Europe/London">
+    <h4>London</h4>
+    <output>00:00:00</output>
+  </div>
+  <div data-timezone="Europe/Helsinki">
+    <h4>Helsinki</h4>
+    <output>00:00:00</output>
+  </div>
+  <div data-timezone="Europe/Paris">
+    <h4>Paris</h4>
+    <output>00:00:00</output>
+  </div>
+  <div data-timezone="America/New_York">
+    <h4>New York</h4>
+    <output>00:00:00</output>
+  </div>
+  <script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
+  <script>
+    const locations = document.querySelectorAll("div.times div")
+
+    const updateTimes = function() {
+    locations.forEach (location => {
+      const output = location.querySelector("output")
+      const timezone = location.getAttribute("data-timezone")
+      const now = luxon.DateTime.now().setZone(timezone)
+      output.innerHTML = now.toFormat("HH:mm:ss")
+    })
+    }
+
+    
+    updateTimes()
+
+    
+    setInterval(function() {
+      updateTimes()
+    }, 1000)
+
+  </script>
+</div>
+
 
 <div class="display-image">
   
