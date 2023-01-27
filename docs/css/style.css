@@ -47,6 +47,7 @@ img {
 
 .times div {
   font-family: Space Grotesk, sans-serif;
+  font-size: 12px;
   color: #bbb;
   padding: 0.6px;
   margin-top: 2px;
@@ -75,9 +76,9 @@ h3{
 }
 
 /* small bold headers */
-h4{
+/* h4{
   font-size:1rem;
-}
+} */
 
 section {
   padding-bottom: 10px;
