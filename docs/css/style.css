@@ -5,25 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 
 @font-face {
-  font-family: Redaction;
-  src: url('/fonts/Redaction_35-Regular.woff2') format('woff2');
+  font-family: JetBrains;
+  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
 }
-
-@font-face {
-  font-family: Redaction;
-  src: url('/fonts/Redaction_35-Italic.woff2') format('woff2');
-  font-style:italic;
-}
-
-@font-face {
-  font-family: Redaction;
-  src: url('/fonts/Redaction_50-Bold.woff2') format('woff2');
-  font-style:bold;
-}
-
 
 body {
-  font-family: Redaction, serif;
+  font-family: JetBrains, sans-serif;
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
@@ -80,16 +67,16 @@ p {
 }
 
 h2{
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 h3{
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 
 /* small bold headers */
 h4{
-  font-size:0.9rem;
+  font-size:1rem;
 }
 
 section {
@@ -114,6 +101,7 @@ section {
 .intro {
   border-bottom: solid 1px #ccc;
   padding-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .content {
@@ -130,8 +118,8 @@ section {
 
 .row {
   border-bottom: solid 1px #ccc;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 
 .row h4 {
@@ -166,7 +154,7 @@ a:hover {
   /* padding: 1rem; */
   margin-right:20px;
   text-decoration: none;
-  font-family: Redaction;
+  font-family: JetBrains;
 }
 
 .site-nav .logo {
@@ -242,7 +230,8 @@ twitter-tweet {
 @media screen and (max-width: 48rem){
 
   .display-image {
-    display: none;
+    /* display: none; */
+    height: 200px;
   }
 
   .site-nav,
