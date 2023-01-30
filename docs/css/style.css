@@ -14,7 +14,7 @@ body {
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
-  max-width: 740px;
+  max-width: 700px;
   /* margin-left:auto; */
   /* margin-right: auto; */
   border-width: 2px;
@@ -65,14 +65,15 @@ img {
 p {
   font-family: Space Grotesk, sans-serif;
   line-height: 1.8;
+  max-width: 600px;
 }
 
 h2{
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
 
 h3{
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 /* small bold headers */
@@ -160,7 +161,7 @@ a:hover {
 
 .site-nav .logo {
   margin-bottom: 5px;
-  font-size: 34px;
+  font-size: 30px;
   font-style: italic;
   color: inherit;
 }
@@ -237,7 +238,7 @@ twitter-tweet {
 
   .site-nav,
   .main-menu {
-    flex-direction: column;
+    flex-direction: block;
   }
 
   .site-nav a {
@@ -247,9 +248,13 @@ twitter-tweet {
 
   .site-nav .logo {
     margin-bottom: 3px;
-    font-size: 34px;
+    font-size: 24px;
     font-style: italic;
     color: inherit;
+  }
+
+  h2{
+    font-size: 1.1rem;
   }
 
   .site-header {
