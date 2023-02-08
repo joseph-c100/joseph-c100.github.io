@@ -5,7 +5,16 @@
     <link>https://joseph-c100.github.io/</link>
     <description>Recent content on Joseph C</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 10:27:00 +0700</lastBuildDate><atom:link href="https://joseph-c100.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 16:25:00 +0700</lastBuildDate><atom:link href="https://joseph-c100.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>building a web app</title>
+      <link>https://joseph-c100.github.io/writing/building_an_app/</link>
+      <pubDate>Wed, 08 Feb 2023 16:25:00 +0700</pubDate>
+      
+      <guid>https://joseph-c100.github.io/writing/building_an_app/</guid>
+      <description>Trying to build a web app has taught me about understanding a problem, patience, managing complexity. I listened to music while attempting to implement a database, learning the queries, how specific data connects together and a picture started to emerge.</description>
+    </item>
+    
     <item>
       <title>Staying organised when I don’t want to </title>
       <link>https://joseph-c100.github.io/writing/staying_organised/</link>

@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joseph-c100.github.io/</loc>
-    <lastmod>2023-01-27T10:27:00+07:00</lastmod>
+    <loc>https://joseph-c100.github.io/writing/building_an_app/</loc>
+    <lastmod>2023-02-08T16:25:00+07:00</lastmod>
   </url><url>
-    <loc>https://joseph-c100.github.io/writing/staying_organised/</loc>
-    <lastmod>2023-01-27T10:27:00+07:00</lastmod>
+    <loc>https://joseph-c100.github.io/</loc>
+    <lastmod>2023-02-08T16:25:00+07:00</lastmod>
   </url><url>
     <loc>https://joseph-c100.github.io/writing/</loc>
+    <lastmod>2023-02-08T16:25:00+07:00</lastmod>
+  </url><url>
+    <loc>https://joseph-c100.github.io/writing/staying_organised/</loc>
     <lastmod>2023-01-27T10:27:00+07:00</lastmod>
   </url><url>
     <loc>https://joseph-c100.github.io/writing/underline-systems/</loc>
