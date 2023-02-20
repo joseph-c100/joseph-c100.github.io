@@ -13,7 +13,7 @@ I felt inspired by EFVS displays (Enhanced Flight Vision Systems) and their use 
 <br>
 <br>
 
-It made me think how an interface such as this can be used in day to day activities. I started breaking down the EFVS visual components and separating them out and bringing them back together in different forms - as a sort of graphic exercise. 
+It made me think how an interface such as this can be used in day to day activities. I started breaking down the EFVS visual components, separating them out and bringing them back together in different forms - as a sort of graphic exercise. 
 
 ![image](/images/efvs_comps.png)
 ![image](/images/diagrams.png)
