@@ -2,22 +2,19 @@
 title: "Info"
 ---
 
-<style>
+<!-- <style>
 img {
   max-width:200px;
   margin-left: 0;
 }
-</style>
+</style> -->
 
-![image](/images/profile.jpg)
+Interface Designer, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and speculative world building/planetary intelligence. 
 
-If you're looking for a creative generalist with a stack of design, tech and some marketing skills then reach out to me. I'm particularly interested in working with independent galleries, small press publishers, digital product developers, fashion brands, record labels and non-profits.
+My professional work is as a creative technologist and web designer. Currently working at BookMachine, a small design and marketing agency in London specialising in Publishing. 
 
-Currently working at BookMachine, a small design and marketing agency in London, building digital products, automating workflows and building a company Operating System.
+If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with independent galleries, small press publishers, digital product developers, fashion brands, record labels and non-profits.
 
-Elsewhere, I'm a digital designer, artist and writer working on my own series of projects including building starfish.systems an independent design studio and writing a short science fiction story on planetary intelligence.
-
-You'll also find some of my writing here where I'll upload works in progress, updates on my sci-fi book, design work, thoughts, ideas, links etc.
 
 Orbits - 
 [Trust](https://trust.support)
@@ -25,6 +22,37 @@ Orbits -
 [The New Design Congress](https://newdesigncongress.org/en/)
 
 
+
+  <div class="row">
+  <h2>Abilities</h2>
+    <div class="column">
+      <h4>Specialisms</h4>
+      <p>Digital design, web development, type and graphics, visual curation.</p>
+    </div>
+    <div class="column">
+      <h4>Interests</h4>
+      <p>Spatial interfaces, science-fiction, calm computing, digital proximity.</p>
+    </div>
+    <div class="column">
+      <h4>Values</h4>
+      <p>Transparency, flat structure, purpose, intention, good vibes, tolerance.</p>
+    </div>
+    <div class="column">
+      <h4>Skills</h4>
+      <p>HTML/CSS, Figma, Photoshop, InDesign, Affinity, Webflow, Typography, layout, wireframing, project management, research, info architecture, client communication, collaboration</p>
+    </div>
+  </div>
+
+  <section>
+    <h2>Services</h2>
+    <div class="services">
+      <p>Digital design, type and graphics</p>
+      <p>Web development</p>
+      <p>Interface design and pattern libraries</p>
+      <p>Pitch Decks and Brand Guidelines</p>
+      <p>Visual operations and aesthetic development<p>
+    </div>
+  </section>
 
 
 #### Reading
