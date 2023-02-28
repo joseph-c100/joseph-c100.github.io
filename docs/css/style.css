@@ -10,11 +10,12 @@
 }
 
 body {
-  font-family: JetBrains, sans-serif;
+  /* font-family: JetBrains, sans-serif; */
+  font-family: Space Grotesk, sans-serif;
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
-  max-width: 740px;
+  max-width: 840px;
   /* margin-left:auto; */
   /* margin-right: auto; */
   border-width: 2px;
@@ -49,9 +50,10 @@ p {
 }
 
 h2{
-  font-size: 1.1rem;
-  color: white;
-  background-color: rgb(37, 37, 37);
+  font-size: 1rem;
+  color: rgb(27, 27, 27);
+  background-color: rgb(249, 255, 168);
+  background-size: auto;
   padding-left: 8px;
   border-radius: 4px;
 }
@@ -93,7 +95,7 @@ section {
 }
 
 .content img {
-  width: 700px;
+  width: 800px;
   margin-left: 0;
 }
 
@@ -140,8 +142,8 @@ a:hover {
 
 .site-nav .logo {
   margin-bottom: 5px;
-  font-size: 24px;
-  font-style: italic;
+  font-size: 20px;
+  /* font-style: italic; */
   color: inherit;
 }
 
