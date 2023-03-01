@@ -3,7 +3,7 @@ title: "Enhanced Vision Systems"
 date: 2023-02-20T09:27:00+07:00
 ---
 
-I felt inspired by EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot's peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.  
+Interested in EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot's peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.  
 
 ![image](/images/efvs1.jpeg)
 ![image](/images/efvs2.jpeg)
