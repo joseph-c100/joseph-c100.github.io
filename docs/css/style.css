@@ -68,7 +68,7 @@ section {
 
 .site-header{
   z-index: 999;
-  padding: 1.5rem;
+  padding: 0.6rem;
   display:block;
   /* position: sticky; top: 0; */
   background-color: #fff;
@@ -88,7 +88,7 @@ section {
 }
 
 .content {
-  padding: 1.5rem;
+  padding: 0.6rem;
   /* margin-bottom: 2rem; */
   background-color: #fff;
   line-height: 1.8;
