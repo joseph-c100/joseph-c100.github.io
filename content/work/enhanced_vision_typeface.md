@@ -2,7 +2,7 @@
 title: "Enhanced Vision.OTF"
 ---
 
-Enhanced Vision is a typeface (Uppercase only) built from the components of Enhanced Vision Flight System screens
+Enhanced Vision is a typeface (Uppercase only) built from the components of Enhanced Flight Vision System screens.
 
 [Download](/EnhancedVisionSans-Regular.otf)
 
