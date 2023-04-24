@@ -48,11 +48,11 @@ Orbits -
   <section>
     <h2>Services</h2>
     <div class="services">
-      <p>Digital design, type and graphics</p>
+      <p>Digital design</p>
       <p>Web development</p>
       <p>Interface design and pattern libraries</p>
-      <p>Pitch Decks and Brand Guidelines</p>
-      <p>Visual operations and aesthetic development<p>
+      <p>Data visualisation</p>
+      <p>Data mining and research</p>
     </div>
   </section>
 
