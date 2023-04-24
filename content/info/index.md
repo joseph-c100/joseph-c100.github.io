@@ -9,17 +9,19 @@ img {
 }
 </style> -->
 
-Interface Designer, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and speculative world building/planetary intelligence. 
+Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and speculative world building/planetary intelligence. 
 
 My professional work is as a creative technologist and web designer. Currently working at BookMachine, a small design and marketing agency in London specialising in Publishing. 
 
-If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with independent galleries, small press publishers, digital product developers, fashion brands, record labels and non-profits.
+If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with charities and non-profits, newspapers/magazines, think tanks and activist groups and cooperatives.
 
 
 Orbits - 
 [Trust](https://trust.support)
 [UCL MAL](https://www.uclmal.com)
 [The New Design Congress](https://newdesigncongress.org/en/)
+[Campaign Lab](https://www.campaignlab.uk/)
+[g0v.london](https://www.meetup.com/g0v-london/)
 
 
 
@@ -27,11 +29,11 @@ Orbits -
   <h2>Abilities</h2>
     <div class="column">
       <h4>Specialisms</h4>
-      <p>Digital design, web development, type and graphics, visual curation.</p>
+      <p>Digital design, web development, data vis, data mining, visual curation, research</p>
     </div>
     <div class="column">
       <h4>Interests</h4>
-      <p>Spatial interfaces, science-fiction, calm computing, digital proximity.</p>
+      <p>Spatial interfaces, data visualisation, calm computing, digital proximity.</p>
     </div>
     <div class="column">
       <h4>Values</h4>
@@ -39,7 +41,7 @@ Orbits -
     </div>
     <div class="column">
       <h4>Skills</h4>
-      <p>HTML/CSS, Figma, Photoshop, InDesign, Affinity, Webflow, Typography, layout, wireframing, project management, research, info architecture, client communication, collaboration</p>
+      <p>HTML/CSS, Figma, InDesign, Affinity, Webflow, Typography, RAWGraph, Orange3 data mining, layout, wireframing, project management, research, info architecture, client communication </p>
     </div>
   </div>
 
