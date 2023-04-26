@@ -9,7 +9,7 @@ img {
 }
 </style> -->
 
-Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and speculative world building/planetary intelligence. 
+Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and civic tech. 
 
 My professional work is as a creative technologist and web designer. Currently working at BookMachine, a small design and marketing agency in London specialising in Publishing. 
 
@@ -59,17 +59,17 @@ Orbits -
 
 #### Reading
 
-- A New Program for Graphic Design - David Reinfurt
-- Tales of Earthsea - Ursula Le Guin
-- Radical Friends Decentralised Autonomous Organisations and the Arts
+- White Noise - DeLillo
+- Civic tech practice guide - Cyd Harrell
 
 #### Working on
 
 - Learning Javascript and Advanced CSS
-- Building starfish.systems - a tiny experimental design studio
+- Exploring Orange3 textual data analysis
 - 'Pre-server' - narrative about lichen computer interfaces, planetary intelligence, and ghosts
 
 #### Recent work
 
+- Campaign Lab - Remember to Vote reminder tool
 - 'Pretend AI, Pretending to be People' UCL Multimedia Anthropology Lab
 - Resident at Joya AiR, Spain
