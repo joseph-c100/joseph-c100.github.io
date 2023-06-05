@@ -10,7 +10,7 @@ Windows can be dragged around, resized and possibly even connected to one anothe
 
 Initially this could open up the pandoras box of trading/finance software into a more experimental-interactive mode. Could even be collaborative? 
 
-I took elements from Figma but was also inspired by Berkely Graphics ethos of information density. I wanted this to be a portal for high level information transfer not a simple dashboard and white space. The user has control of his/her terminal - multiple windows can be stacked, dragged side by side and connected. Windows open up new windows depicting different levels of detail. There could be plugins similar to Figma which I indicated simply here with a clock and post-it note but it could be much more complex. 
+I took elements from Figma but was also inspired by [Berkely Graphics](https://berkeleygraphics.com/) ethos of information density. I wanted this to be a portal for high level information transfer not a simple dashboard and white space. The user has control of his/her terminal - multiple windows can be stacked, dragged side by side and connected. Windows open up new windows depicting different levels of detail. There could be plugins similar to Figma which I indicated simply here with a clock and post-it note but it could be much more complex. 
 
 Windows could be saved as templates and opened up again in one click. 
 
@@ -21,9 +21,12 @@ In terms of UI I took some ideas from Figma of course but also games like Eve On
 ![image](/images/ck2_ui.png)
 ![image](/images/eveonline.jpeg)
 
-What's key here is the high information density available to our eyes. With modern design trends dashboards are too simple and I believe not what users want or is in their best interest. Think of the Bloomberg Terminal, why is that available to the financial brokers but not to every day users? Are their finances more important than ours? Are we forever confined to Excel or patronisingly simple dashboards? 
+What's key here is the high information density available to our eyes. With modern design trends dashboards are too simple, limited and I believe not what users want or is in their best interest. Think of the Bloomberg Terminal, why is that level of info density available to the financial brokers (or eve online players) but not to every day users? Are their finances more important than ours? Are we forever confined to Excel or patronisingly simple dashboards? 
 
 I want more software to be like a desk, or a house - you move things around, grab what you need and put it back later. Make it yours. 
+
+![image](/images/spatial_finance3.png)
+
 
 
 
