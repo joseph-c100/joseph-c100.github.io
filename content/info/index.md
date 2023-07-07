@@ -11,9 +11,9 @@ img {
 
 Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and civic tech. 
 
-My professional work is as a creative technologist and web designer. Currently working at BookMachine, a small design and marketing agency in London specialising in Publishing. 
+My professional work is as a creative technologist and data visualiser. Recently worked at BookMachine, a small creative agency in London specialising in publishing now working as a freelance data vis designer. 
 
-If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with charities and non-profits, newspapers/magazines, think tanks and activist groups and cooperatives.
+If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with non-profits, newspapers/magazines, think tanks, activist groups and cooperatives.
 
 
 Orbits - 
@@ -41,18 +41,16 @@ Orbits -
     </div>
     <div class="column">
       <h4>Skills</h4>
-      <p>HTML/CSS, Figma, InDesign, Affinity, Webflow, Typography, RAWGraph, Orange3 data mining, layout, wireframing, project management, research, info architecture, client communication </p>
+      <p>HTML/CSS, D3, Figma, InDesign, Affinity, Webflow, Typography, RAWGraph, Orange3 data mining, layout, wireframing, project management, research, info architecture, client communication </p>
     </div>
   </div>
 
   <section>
     <h2>Services</h2>
     <div class="services">
-      <p>Digital design</p>
+      <p>Data Visualisation and Infographics</p>
       <p>Web development</p>
       <p>Interface design and pattern libraries</p>
-      <p>Data visualisation</p>
-      <p>Data mining and research</p>
     </div>
   </section>
 
@@ -64,7 +62,7 @@ Orbits -
 
 #### Working on
 
-- Learning Javascript and Advanced CSS
+- Building Datum Graphics - 
 - Exploring Orange3 textual data analysis
 - 'Pre-server' - narrative about lichen computer interfaces, planetary intelligence, and ghosts
 
