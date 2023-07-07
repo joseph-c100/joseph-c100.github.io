@@ -1,0 +1,16 @@
+<header class="site-header">
+  <nav class="site-nav">
+    <a class="logo" href="{{ .Site.BaseURL }}">
+      {{ .Site.Title }}
+      <!-- logo png image in nav bar -->
+    </a>
+    <!-- <h3><span>Interface designer, artist and curator.</span></h3> -->
+    <ul class="main-menu">
+      {{ range.Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

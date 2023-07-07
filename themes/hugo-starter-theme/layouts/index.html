@@ -1,0 +1,224 @@
+<html>
+
+  {{ partial "header.html" . }}
+
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding-right:30px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+  </style>
+  </head>
+
+<body>
+
+<div class ="intro">
+  <h2>Interface & Data Visualisation Designer</h2>
+  <p>Interested in software interfaces, data collection and visualisation and civic tech.  I also post my writing, thoughts and notes <a href="https://josephc.net/writing/">here.</a></p>
+</div>
+
+<section>
+  <!-- randomly displays image of work on desktop -->
+  <div class="display-image">
+    <!-- javascript code inserts image here -->
+    <script>
+      const images = [
+      'url("images/gaps1.jpg")',
+      'url("images/fantome.jpg")',
+      'url("images/DSC_1164.jpg")',
+      'url("images/gaps2.jpg")',
+      'url("images/gw_patterns.png")',
+      'url("images/gw_mockup2.png")',
+      'url("images/diagrams.png")',
+      'url("images/efvs_comps.png")',
+      'url("images/popdensity-asia.png")',
+      'url("images/spatial_finance3.png")',
+
+  ];
+
+      const image = document.querySelector('.display-image');
+
+      function showImage() {
+      var a = Math.floor(Math.random() * images.length);
+      var img = images[a];
+      image.style.backgroundImage = img;
+
+
+  }   
+      showImage();
+      setInterval(showImage, 4000);
+
+    </script>
+  </div>
+</section>
+
+
+
+<!-- 
+
+  <div class="row">
+    <div class="column">
+      <h4>Specialisms</h4>
+      <p>Digital design, web development, type and graphics, visual curation.</p>
+    </div>
+    <div class="column">
+      <h4>Interests</h4>
+      <p>Spatial interfaces, science-fiction, calm computing, digital proximity.</p>
+    </div>
+    <div class="column">
+      <h4>Values</h4>
+      <p>Transparency, flat structure, purpose, intention, good vibes, tolerance.</p>
+    </div>
+    <div class="column">
+      <h4>Skills</h4>
+      <p>HTML/CSS, Figma, Photoshop, InDesign, Affinity, Webflow, Typography, layout, wireframing, project management, research, info architecture, client communication, collaboration</p>
+    </div>
+  </div>
+
+  <section>
+    <h2>Services</h2>
+    <div class="services">
+      <p>Digital design, type and graphics</p>
+      <p>Web development</p>
+      <p>Interface design and pattern libraries</p>
+      <p>Pitch Decks and Brand Guidelines</p>
+      <p>Visual operations and aesthetic development<p>
+    </div>
+  </section> -->
+
+  <!-- WORK SECTION -->
+
+<!-- <section>
+  <h2>Projects</h2>
+  <div class='work-list'>
+
+
+    <div class='work-item'>
+      <a href = "https://www.bookmachine.org/agency">BookMachine Creative Agency - Rebrand</a><span> Wireframing and Web Dev<span>
+    </div>
+    <div class='work-item'>
+      <a href = "/work/savvy">Savvy</a><span> Brand Guidelines<span>
+    </div>
+    <div class='work-item'>
+      <a href = "https://teacherportal.ihlondon.com/">The Teacher Portal - IH London</a><span> Web Dev and Project Management<span>
+    </div>
+    <div class='work-item'>
+      <a href = "https://eur-exchange.netlify.app/#">Simple Euro exchange</a><span> Web Dev<span>
+    </div>
+  </div>
+</section> -->
+<section>
+  <h2>Data Visualisation</h2>
+  <div class='work-item'>
+    <a href = "/work/pop_density">Population Density Maps</a><span> QGIS</span>
+  </div>
+  <div class='work-item'>
+    <a href = "https://discovertheworld.netlify.app/">Discover the World</a><span> D3, HTML/CSS</span>
+  </div>
+  <div class='work-item'>
+    <a href = "https://citypopulation.netlify.app/">City Population</a><span> D3, HTML/CSS</span>
+  </div>
+  <div class='work-item'>
+    <a href = "/work/keywords">Keywords</a>
+  </div>
+  <div class='work-item'>
+    <a href = "/work/black_hole">Black Hole</a>
+  </div>
+  <div class='work-item'>
+    <a href = "https://observablehq.com/d/11e7a132e9865238">Tech Layoffs 2023</a><span> Observable Plot</span>
+  </div>
+</section>
+  <section>
+    <h2>Tools, websites, other</h2>
+    <div class='work-item'>
+      <a href = "/work/enhanced_vision_typeface">EnhancedVision.OTF</a>
+    </div>
+    <div class='work-item'>
+      <a href = "/work/spatial_finance">Spatial Finance</a></a><span> UI<span>
+    </div>
+    <div class='work-item'>
+      <a href = "/work/generated_worlds">Generated Worlds</a>
+    </div>
+    <div class='work-item'>
+      <a href = "https://remembertovote.org.uk">Remember to Vote for Campaign Lab</a><span> UI<span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Artwork & Curation</h2>
+      <div class='work-list'>
+        <div class='work-item'>
+          <a href = "/work/pretend_ai">Pretend AI, Pretending to be People</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/fantome_aave">Fantôme/Aave</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/election">Election by Communication</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/gaps_between_gaps">Gaps between gaps</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/starfish">Starfish</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/ggm_paintings">Generated Glitch Model Paintings</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/elevator_pitch">Elevator pitch</a>
+        </div>
+        <div class='work-item'>
+          <a href = "/work/starfish-systems">starfish.systems - design studio</a><span> Case Study<span>
+        </div>
+      </div>
+  </section>
+
+  <section>
+    <a href = "/work/exhibitions">Exhibitons/Residencies/Publications</a>
+  </section>
+
+  <section>
+    <div class="starfish-section">
+        <a href="https://www.instagram.com/starfish__press/">Starfish Press</a>
+    </div>
+  </section>
+
+  <section>
+    <div class="contact-section">
+      <h2>Contact</h2>
+      <a href="mailto:jfclark.work@gmail.com">Email</a>
+      <a href="https://www.are.na/joseph-c">Are.na</a>
+      <a href="https://read.cv/calm_computer">Read.CV</a>
+      <a href="https://twitter.com/josephc_100">Twitter</a>
+      <!-- <a href="https://github.com/joseph-c100">Github</a> -->
+    </div>
+  </section>
+
+</body>
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}
