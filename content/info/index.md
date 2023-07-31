@@ -33,7 +33,7 @@ Orbits -
     </div>
     <div class="column">
       <h4>Interests</h4>
-      <p>Spatial interfaces, data visualisation, calm computing, digital proximity.</p>
+      <p>Spatial interfaces, data visualisation, calm technology, digital proximity.</p>
     </div>
     <div class="column">
       <h4>Values</h4>
@@ -57,14 +57,13 @@ Orbits -
 
 #### Reading
 
-- White Noise - DeLillo
-- Civic tech practice guide - Cyd Harrell
+- The Dawn of Everything - David Graeber and David Wengrow 
 
 #### Working on
 
-- Building Datum Graphics - 
-- Exploring Orange3 textual data analysis
-- 'Pre-server' - narrative about lichen computer interfaces, planetary intelligence, and ghosts
+- Building Datum Graphics 
+- Experimenting with Three.js and Deck.gl
+- 'Pre-server' - short sci-fi about lichen computer interfaces, planetary intelligence, and ghosts
 
 #### Recent work
 
