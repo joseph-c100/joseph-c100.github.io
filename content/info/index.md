@@ -11,9 +11,7 @@ img {
 
 Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and civic tech. 
 
-My professional work is as a creative technologist and data visualiser. Recently worked at BookMachine, a small creative agency in London specialising in publishing now working as a freelance data vis designer. 
-
-If you're looking for a creative generalist with a stack of design and development skills then reach out to me. I'm particularly interested in working with non-profits, newspapers/magazines, think tanks, activist groups and cooperatives.
+My professional work is as a creative technologist and data visualiser. Currently I'm working as an Interactive Visual Journalist at The Economist.
 
 
 Orbits - 
