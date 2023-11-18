@@ -112,7 +112,7 @@ section {
 }
 
 a {
-  color: inherit;
+  color: blue;
   text-underline-offset: 4px;
   text-decoration-color: blue;
 }
@@ -159,9 +159,9 @@ a {
   font-family: Space Grotesk, sans-serif;
 }
 
-.work-item {
+/* .work-item {
   margin-left: 20px;
-}
+} */
 
 /* .work-item:hover{ */
   /* border-bottom: solid 1px #30de00; */
@@ -173,15 +173,6 @@ a {
   margin-top: 20px;
 }
 
-/* contact section links */
-.contact-section a {
-  font-size: 1.2rem;
-  outline: 1px solid;
-  outline-offset: 3px;
-  text-decoration: none;
-  margin-right: 15px;
-  margin-left: 3px;
-}
 
 .footer-section {
     margin-top: 40px;
@@ -241,14 +232,6 @@ twitter-tweet {
   .work-item {
     margin:5px;
     margin-left: 20px;
-  }
-
-  .contact-section a {
-    font-size: 1rem;
-    outline: 1px solid;
-    outline-offset: 3px;
-    text-decoration: none;
-    margin-right: 8px;
   }
 
   img {
