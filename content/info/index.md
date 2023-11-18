@@ -43,14 +43,14 @@ Orbits -
     </div>
   </div>
 
-  <section>
+  <!-- <section>
     <h2>Services</h2>
     <div class="services">
       <p>Data Visualisation and Infographics</p>
       <p>Web development</p>
       <p>Interface design and pattern libraries</p>
     </div>
-  </section>
+  </section> -->
 
 
 #### Reading
@@ -65,6 +65,6 @@ Orbits -
 
 #### Recent work
 
-- Campaign Lab - Remember to Vote reminder tool
+- Detailed structural damage map of Gaza Strip for The Economist
 - 'Pretend AI, Pretending to be People' UCL Multimedia Anthropology Lab
 - Resident at Joya AiR, Spain
