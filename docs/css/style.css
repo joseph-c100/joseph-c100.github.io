@@ -185,9 +185,11 @@ twitter-tweet {
 
 @media screen and (max-width: 48rem){
 
-  .display-image {
-    /* display: none; */
-    height: 200px;
+
+
+  .display-image img {
+    height: auto;
+    width: 100%;
   }
 
 
