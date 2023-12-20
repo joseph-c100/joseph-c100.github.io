@@ -1,48 +1,49 @@
 <html>
-
   {{ partial "header.html" . }}
 
   <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-  * {
-    box-sizing: border-box;
-  }
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-  /* Create two equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 50%;
-    padding-right:30px;
-  }
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 50%;
+        padding-right: 30px;
+      }
 
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
 
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-    }
-  }
-  </style>
+      /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+      @media screen and (max-width: 600px) {
+        .column {
+          width: 100%;
+        }
+      }
+    </style>
   </head>
 
-<body>
+  <body>
+    <div class="intro">
+      <p>Visual Journalist at The Economist</p>
+      <p>
+        Design and Engineering for data visualisations, digital tools, mapping,
+        open source intelligence, civic tech.
+      </p>
+    </div>
 
-<div class ="intro">
-  <p>Visual Journalist at The Economist</p>
-  <p>Design and Engineering for data visualisations, digital tools, mapping, open source intelligence, civic tech.</p>
-</div>
-
-<section>
-  <div class="display-image">
-    <img src="images/fantome.jpg" alt="">
-    <!-- <script>
+    <section>
+      <div class="display-image">
+        <img src="images/fantome.jpg" alt="" />
+        <!-- <script>
       const images = [
       'url("images/fantome.jpg")',
       'url("images/DSC_1164.jpg")',
@@ -66,93 +67,92 @@
       setInterval(showImage, 4000);
 
     </script> -->
-  </div>
-</section>
+      </div>
+    </section>
 
-
-<section>
-  <h2>Data</h2>
-  <!-- <div class="work-item">
+    <section>
+      <h2>Data</h2>
+      <!-- <div class="work-item">
     <a href="https://drive.google.com/file/d/1Gsjer--Z-yH288PHMu_I9yUVONWHNk2S/view?usp=sharing">Full Portfolio</a>
   </div> -->
-  <div class="work-item">
-    <a href="https://www.economist.com/interactive/israel-gaza-building-damage-map">Structural damage in Gaza</a>
-  </div>
-  <div class="work-item">
-    <a href="https://www.economist.com/interactive/2024-taiwan-election">Taiwan Election Tracker</a>
-  </div>
-  <div class='work-item'>
-    <a href = "/work/pop_density">Population Density Maps</a>
-  </div>
-  <div class='work-item'>
-    <a href = "/work/keywords">Keywords</a>
-  </div>
-  <div class='work-item'>
-    <a href = "/work/black_hole">Black Hole</a>
-  </div>
-  <!-- <div class='work-item'>
+      <div class="work-item">
+        <a href="/work/gaza_damage">Estimated building damage in Gaza</a>
+      </div>
+      <div class="work-item">
+        <a href="https://www.economist.com/interactive/2024-taiwan-election"
+          >Taiwan Election Tracker</a
+        >
+      </div>
+      <div class="work-item">
+        <a href="/work/pop_density">Population Density Maps</a>
+      </div>
+      <div class="work-item">
+        <a href="/work/keywords">Keywords</a>
+      </div>
+      <div class="work-item">
+        <a href="/work/black_hole">Black Hole</a>
+      </div>
+      <!-- <div class='work-item'>
     <a href = "https://observablehq.com/d/11e7a132e9865238">Tech Layoffs 2023</a>
   </div> -->
-</section>
-  <section>
-    <h2>Tools, websites, other</h2>
-    <div class='work-item'>
-      <a href = "/work/enhanced_vision_typeface">EnhancedVision.OTF</a>
-    </div>
-    <div class='work-item'>
-      <a href = "/work/generated_worlds">Generated Worlds</a>
-    </div>
-  </section>
+    </section>
+    <section>
+      <h2>Tools, websites, other</h2>
+      <div class="work-item">
+        <a href="/work/enhanced_vision_typeface">EnhancedVision.OTF</a>
+      </div>
+      <div class="work-item">
+        <a href="/work/generated_worlds">Generated Worlds</a>
+      </div>
+    </section>
 
-  <section>
-    <h2>Artwork & Curation</h2>
-      <div class='work-list'>
-        <div class='work-item'>
-          <a href = "/work/pretend_ai">Pretend AI, Pretending to be People</a>
+    <section>
+      <h2>Artwork & Curation</h2>
+      <div class="work-list">
+        <div class="work-item">
+          <a href="/work/pretend_ai">Pretend AI, Pretending to be People</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/fantome_aave">Fantôme/Aave</a>
+        <div class="work-item">
+          <a href="/work/fantome_aave">Fantôme/Aave</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/election">Election by Communication</a>
+        <div class="work-item">
+          <a href="/work/election">Election by Communication</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/gaps_between_gaps">Gaps between gaps</a>
+        <div class="work-item">
+          <a href="/work/gaps_between_gaps">Gaps between gaps</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/starfish">Starfish</a>
+        <div class="work-item">
+          <a href="/work/starfish">Starfish</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/ggm_paintings">Generated Glitch Model Paintings</a>
+        <div class="work-item">
+          <a href="/work/ggm_paintings">Generated Glitch Model Paintings</a>
         </div>
-        <div class='work-item'>
-          <a href = "/work/elevator_pitch">Elevator pitch</a>
+        <div class="work-item">
+          <a href="/work/elevator_pitch">Elevator pitch</a>
         </div>
       </div>
-  </section>
+    </section>
 
-  <section>
-    <a href = "/work/exhibitions">Exhibitons/Residencies/Publications</a>
-  </section>
+    <section>
+      <a href="/work/exhibitions">Exhibitons/Residencies/Publications</a>
+    </section>
 
-  <!-- <section>
+    <!-- <section>
     <div class="starfish-section">
         <a href="https://www.instagram.com/starfish__press/">Starfish Press</a>
     </div>
   </section> -->
 
-  <section>
-    <div class="contact-section">
-      <h2>Contact</h2>
-      <a href="https://www.are.na/joseph-c">Are.na</a>
-      <a href="https://twitter.com/calm_computer">Twitter</a>
-      <a href="https://github.com/joseph-c100">Github</a>
-    </div>
-    <p>jfclark.work@gmail.com</p>
-  </section>
+    <section>
+      <div class="contact-section">
+        <h2>Contact</h2>
+        <a href="https://www.are.na/joseph-c">Are.na</a>
+        <a href="https://twitter.com/calm_computer">Twitter</a>
+        <a href="https://github.com/joseph-c100">Github</a>
+      </div>
+      <p>jfclark.work@gmail.com</p>
+    </section>
+  </body>
 
-</body>
-
-{{ .Content }}
-
-{{ partial "footer.html" . }}
+  {{ .Content }} {{ partial "footer.html" . }}
+</html>
