@@ -1,6 +1,6 @@
 ---
 title: "some books I read in 2023 w/ notes"
-date: 2023-01-03T11:24:00+07:00
+date: 2024-01-03T11:24:00+07:00
 ---
 
 I didn't get around to reading that much this year at all but managed a few. It was personally a transitional and exciting year with travelling and career change so I suppose reading wasn't on my mind as I was very up in the air but hoping this year I float down to the ground again.
