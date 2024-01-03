@@ -5,115 +5,92 @@
     <link>https://joseph-c100.github.io/writing/</link>
     <description>Recent content in Writings on Joseph C</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 11:45:00 +0700</lastBuildDate><atom:link href="https://joseph-c100.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Mar 2023 11:45:00 +0700</lastBuildDate>
+    <atom:link href="https://joseph-c100.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VR Waiting Room</title>
       <link>https://joseph-c100.github.io/writing/vr_waiting_room/</link>
       <pubDate>Fri, 03 Mar 2023 11:45:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/vr_waiting_room/</guid>
       <description>I dig into the earth with my fingers, the soil grips and feeds its way into my pores and takes shelter underneath my nails. I know this isn’t real. The soil is soaked with rain water, roots uprooted and micro insects flee from the disruption I’ve caused to their universe. I know that this is not real but it’s so peaceful, there is no sound but the occasional bird song. The clouds parted above me to reveal a flight departure screen hovering above, its opacity changing so that it wouldn’t be a distraction to the experience unless you were directly looking at it to check your flight.</description>
     </item>
-    
     <item>
       <title>Enhanced Vision Systems</title>
       <link>https://joseph-c100.github.io/writing/efvs_displays/</link>
       <pubDate>Mon, 20 Feb 2023 09:27:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/efvs_displays/</guid>
-      <description>Interested in EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot&amp;rsquo;s peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.
-It made me think how an interface such as this can be used in day to day activities.</description>
+      <description>Interested in EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot&amp;rsquo;s peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.&#xA;It made me think how an interface such as this can be used in day to day activities.</description>
     </item>
-    
     <item>
       <title>Staying organised when I don’t want to </title>
       <link>https://joseph-c100.github.io/writing/staying_organised/</link>
       <pubDate>Fri, 27 Jan 2023 10:27:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/staying_organised/</guid>
-      <description>In no way did I want to ‘level up my productivity’ or whatever capitalist nonsense has filtered into my brain through hustle culture twitter. My aim was to find a way to stay organised but in a way that is calm, adaptable and lightweight.
-I started experimenting with a technique called interstitial journalling on a computer app called Obsidian. This system has so far turned out very well, it allows me to breath and focus, which I feel goes against 99% of mainstream productivity advice.</description>
+      <description>In no way did I want to ‘level up my productivity’ or whatever capitalist nonsense has filtered into my brain through hustle culture twitter. My aim was to find a way to stay organised but in a way that is calm, adaptable and lightweight.&#xA;I started experimenting with a technique called interstitial journalling on a computer app called Obsidian. This system has so far turned out very well, it allows me to breath and focus, which I feel goes against 99% of mainstream productivity advice.</description>
     </item>
-    
+    <item>
+      <title>some books I read in 2023 w/ notes</title>
+      <link>https://joseph-c100.github.io/writing/books_read_2023/</link>
+      <pubDate>Tue, 03 Jan 2023 11:24:00 +0700</pubDate>
+      <guid>https://joseph-c100.github.io/writing/books_read_2023/</guid>
+      <description>I didn&amp;rsquo;t get around to reading that much this year at all but managed a few. It was personally a transitional and exciting year with travelling and career change so I suppose reading wasn&amp;rsquo;t on my mind as I was very up in the air but hoping this year I float down to the ground again.&#xA;This Is How You Lose the Time War - Amal El-Mohtar and Max Gladstone Read this while travelling around Korea - beautiful sci-fi romance, very poetic and deeply moving.</description>
+    </item>
     <item>
       <title>some books I read in 2022 w/ notes</title>
       <link>https://joseph-c100.github.io/writing/books_read_2022/</link>
       <pubDate>Mon, 26 Dec 2022 11:04:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/books_read_2022/</guid>
-      <description>Zen Training - Katsuki Sekida Bought this book to study when I wanted to learn how to meditate properly. A simple and elegant style of writing explains mediation, breath work and posture clearly and eloquently. After practicing in between reading chapters of this book, I felt much more confident to meditate and would often practice in the park.
-A Nation in Pain - Judy Foreman Bought this book after recovering from a long term neck and shoulder pain.</description>
+      <description>Zen Training - Katsuki Sekida Bought this book to study when I wanted to learn how to meditate properly. A simple and elegant style of writing explains mediation, breath work and posture clearly and eloquently. After practicing in between reading chapters of this book, I felt much more confident to meditate and would often practice in the park.&#xA;A Nation in Pain - Judy Foreman Bought this book after recovering from a long term neck and shoulder pain.</description>
     </item>
-    
     <item>
       <title>Generated Worlds - an app concept</title>
       <link>https://joseph-c100.github.io/writing/generated_worlds/</link>
       <pubDate>Sat, 10 Dec 2022 14:43:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/generated_worlds/</guid>
-      <description>On the train from Lancaster to London I designed an app on Figma based on an art piece that I created two years ealier. This piece was called &amp;lsquo;Generated_worlds&amp;rsquo; and was a python program that I wrote which essentially combined lots of different words randomly and put them together to create a new way of describing a world.
-For example the words: &amp;lsquo;Nano&amp;rsquo; &amp;lsquo;Ecology&amp;rsquo; and &amp;lsquo;Condition&amp;rsquo; would create &amp;lsquo;Nano-ecology Condition&amp;rsquo;. Or &amp;lsquo;Relapse&amp;rsquo; &amp;lsquo;Planetary&amp;rsquo; and &amp;lsquo;Language&amp;rsquo; would create &amp;lsquo;Relapse Planetary Language&amp;rsquo;.</description>
+      <description>On the train from Lancaster to London I designed an app on Figma based on an art piece that I created two years ealier. This piece was called &amp;lsquo;Generated_worlds&amp;rsquo; and was a python program that I wrote which essentially combined lots of different words randomly and put them together to create a new way of describing a world.&#xA;For example the words: &amp;lsquo;Nano&amp;rsquo; &amp;lsquo;Ecology&amp;rsquo; and &amp;lsquo;Condition&amp;rsquo; would create &amp;lsquo;Nano-ecology Condition&amp;rsquo;. Or &amp;lsquo;Relapse&amp;rsquo; &amp;lsquo;Planetary&amp;rsquo; and &amp;lsquo;Language&amp;rsquo; would create &amp;lsquo;Relapse Planetary Language&amp;rsquo;.</description>
     </item>
-    
     <item>
       <title>life in sections</title>
       <link>https://joseph-c100.github.io/writing/life-in-sections/</link>
       <pubDate>Wed, 30 Nov 2022 09:15:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/life-in-sections/</guid>
       <description>I divide up my life into a lot of sections. Big sections, small sections - weeks, days, months, eras, periods, bits, weekends, holidays, afternoons. Self structured sections - “this is a time when I need to focus, work a job, settle into a routine for a bit.” “These next few weeks I’m able to take a break - slow down and clear my head.’ Thinking back to the Summer of 2019, maybe it was 2018, I went to Montreal for a month and worked in a hostel then the plan was to get a bus to Boston to visit my cousins.</description>
     </item>
-    
     <item>
       <title>Late night manifesto for starfish.systems</title>
       <link>https://joseph-c100.github.io/writing/starfish-systems-manifesto/</link>
       <pubDate>Sat, 05 Nov 2022 13:11:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/starfish-systems-manifesto/</guid>
-      <description>OK so a few ideas are coming together and it&amp;rsquo;s starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I&amp;rsquo;ve called &amp;lsquo;starfish.systems&amp;rsquo; (named after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -
-1 - build components not complete designs</description>
+      <description>OK so a few ideas are coming together and it&amp;rsquo;s starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I&amp;rsquo;ve called &amp;lsquo;starfish.systems&amp;rsquo; (named after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -&#xA;1 - build components not complete designs</description>
     </item>
-    
     <item>
       <title>Where&#39;s the slime?</title>
       <link>https://joseph-c100.github.io/writing/wheres_the_slime/</link>
       <pubDate>Sat, 15 Oct 2022 12:03:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/wheres_the_slime/</guid>
-      <description>Thought experiment - what if visual designs, components and websites weren’t clean with gradients, fluid animations, pixel perfect serif fonts? What if they were dirty, yucky, grew within your viewport like fungus? Images and text decayed over time. Link rot was encouraged. Sections that were separate gradually meld together to create new forms.
-Not the wisest idea for client work but I might start researching if any one else is exploring this area.</description>
+      <description>Thought experiment - what if visual designs, components and websites weren’t clean with gradients, fluid animations, pixel perfect serif fonts? What if they were dirty, yucky, grew within your viewport like fungus? Images and text decayed over time. Link rot was encouraged. Sections that were separate gradually meld together to create new forms.&#xA;Not the wisest idea for client work but I might start researching if any one else is exploring this area.</description>
     </item>
-    
     <item>
       <title>Narrative as a design tool</title>
       <link>https://joseph-c100.github.io/writing/narrative-as-a-design-tool/</link>
       <pubDate>Tue, 11 Oct 2022 15:39:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/narrative-as-a-design-tool/</guid>
-      <description>Recently I have been interested in the possibility of narrative as a design tool/research process. My story, currently with no working title, is the ‘coming-into-life’ a number of ideas, relationships, beliefs and personal experiences of mine put into a semi-coherent narrative.
-With writing I have found that ideas that I once thought were very much separate were in fact deeply connected while others that I felt had more important were placed in the periphery.</description>
+      <description>Recently I have been interested in the possibility of narrative as a design tool/research process. My story, currently with no working title, is the ‘coming-into-life’ a number of ideas, relationships, beliefs and personal experiences of mine put into a semi-coherent narrative.&#xA;With writing I have found that ideas that I once thought were very much separate were in fact deeply connected while others that I felt had more important were placed in the periphery.</description>
     </item>
-    
     <item>
       <title>2Advanced Studios</title>
       <link>https://joseph-c100.github.io/writing/2advanced_studios/</link>
       <pubDate>Thu, 06 Oct 2022 22:28:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/2advanced_studios/</guid>
-      <description>The golden age of web design
-2Advanced Studios v2 flash website in 2001#WebDesignHistory pic.twitter.com/HI9YbyVGIL
-&amp;mdash; Web Design Museum (@WebDesignMuseum) September 22, 2022 I saw this post from the Web Design Museum captioned &amp;lsquo;The golden age of web design&amp;rsquo;.
-It made me think of the fusion between games and digital design, there&amp;rsquo;s an energy and a coherent form. The internet arrived and provided a path forwards, code provided the means for a new aesthetic.</description>
+      <description>The golden age of web design&#xA;2Advanced Studios v2 flash website in 2001#WebDesignHistory pic.twitter.com/HI9YbyVGIL&#xA;&amp;mdash; Web Design Museum (@WebDesignMuseum) September 22, 2022 I saw this post from the Web Design Museum captioned &amp;lsquo;The golden age of web design&amp;rsquo;.&#xA;It made me think of the fusion between games and digital design, there&amp;rsquo;s an energy and a coherent form. The internet arrived and provided a path forwards, code provided the means for a new aesthetic.</description>
     </item>
-    
     <item>
       <title>On being ok with other people being at different stages in their lives than you</title>
       <link>https://joseph-c100.github.io/writing/being_ok/</link>
       <pubDate>Sun, 14 Aug 2022 18:05:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/being_ok/</guid>
       <description>Much like how light can be a particle or a wave, other people’s life trajectories can be both parallel to yours and inhabit a completely different dimension. Since reading this article called ‘Instead of your life’s purpose’, I’ve been considering a new perspective of life being non-linear — life that doesn’t move in a straight line, is not scalable and is not an easily dividable experience. Accepting this perspective has eased a lot of rigidity that I’d been feeling, days flow a bit easier now and there’s more space for meaning to shine through.</description>
     </item>
-    
   </channel>
 </rss>
