@@ -21,4 +21,8 @@ I think it's up there with Le Guin in terms of worldbuilding. Wasn't keen on the
 
 Conspiracy political thriller with old school investigative journalism mixed with sci-fi simulations, twists, mystery, personal tradegy. Jackson's style of writing was difficult to digest at first as it was so descriptive but the pinpoint accuracy of his observations and intepretations of events around him were so skillful and enjoyable that I read through this book quicker than all the rest despite it being the longest. Snappy dialogue which felt a bit like reading a West Wing script then sometimes the dialogue turned into full monologues which felt like reading an essay. Strange but incredible book.
 
+### The Dawn of Everything - David Graeber and David Wengrow
+
+Completely made me rethink my conditioned beliefs about human history. Confident in its arguments, profoundly interesting and I couldn't stop talking about it to my friends for several months after reading it.
+
 ### No Longer Human - Osamu Dazai
