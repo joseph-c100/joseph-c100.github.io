@@ -9,19 +9,16 @@ img {
 }
 </style> -->
 
-Interface designer, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in software interfaces, data collection and visualisation and civic tech. 
+Visual journalist, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in visual storytelling, data collection, visualisation and OSINT.
 
-My professional work is as a creative technologist and data visualiser. Currently I'm working as an Interactive Visual Journalist at The Economist.
+Currently I'm working as an Interactive Visual Journalist at The Economist.
 
-
-Orbits - 
+Orbits -
 [Trust](https://trust.support)
 [UCL MAL](https://www.uclmal.com)
 [The New Design Congress](https://newdesigncongress.org/en/)
 [Campaign Lab](https://www.campaignlab.uk/)
 [g0v.london](https://www.meetup.com/g0v-london/)
-
-
 
   <div class="row">
   <h2>Abilities</h2>
@@ -39,7 +36,7 @@ Orbits -
     </div>
     <div class="column">
       <h4>Skills</h4>
-      <p>HTML/CSS, D3, Figma, InDesign, Affinity, Webflow, Typography, RAWGraph, Orange3 data mining, layout, wireframing, project management, research, info architecture, client communication </p>
+      <p>HTML/CSS, D3, Svelte, Observable, Figma, Typography, Orange3 data mining, layout, wireframing, project management, research, info architecture</p>
     </div>
   </div>
 
@@ -52,14 +49,13 @@ Orbits -
     </div>
   </section> -->
 
-
 #### Reading
 
-- The Dawn of Everything - David Graeber and David Wengrow 
+- The Dawn of Everything - David Graeber and David Wengrow
 
 #### Working on
 
-- Building Datum Graphics 
+- Building Datum Graphics
 - Experimenting with Three.js and Deck.gl
 - 'Pre-server' - short sci-fi about lichen computer interfaces, planetary intelligence, and ghosts
 
