@@ -20,7 +20,7 @@ Orbits -
 [Campaign Lab](https://www.campaignlab.uk/)
 [g0v.london](https://www.meetup.com/g0v-london/)
 
-  <div class="row">
+  <!-- <div class="row">
   <h2>Abilities</h2>
     <div class="column">
       <h4>Specialisms</h4>
@@ -38,7 +38,7 @@ Orbits -
       <h4>Skills</h4>
       <p>HTML/CSS, D3, Svelte, Observable, Figma, Typography, Orange3 data mining, layout, wireframing, project management, research, info architecture</p>
     </div>
-  </div>
+  </div> -->
 
   <!-- <section>
     <h2>Services</h2>
@@ -51,16 +51,16 @@ Orbits -
 
 #### Reading
 
-- The Dawn of Everything - David Graeber and David Wengrow
+- Stoner - Williams
 
 #### Working on
 
-- Building Datum Graphics
-- Experimenting with Three.js and Deck.gl
+- A film about undersea internet infrastructure
 - 'Pre-server' - short sci-fi about lichen computer interfaces, planetary intelligence, and ghosts
 
 #### Recent work
 
 - Detailed structural damage map of Gaza Strip for The Economist
-- 'Pretend AI, Pretending to be People' UCL Multimedia Anthropology Lab
-- Resident at Joya AiR, Spain
+- Visuals for a investigative piece on the Barclay brothers
+
+I also occasionally write some art criticism on my blog [Generated Worlds](https://generated-worlds.tumblr.com/)
