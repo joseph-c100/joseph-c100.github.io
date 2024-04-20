@@ -51,7 +51,7 @@ Orbits -
 
 #### Reading
 
-- Stoner - Williams
+- The Signal and the Noise - Nate Silver
 
 #### Working on
 
