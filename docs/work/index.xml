@@ -4,221 +4,155 @@
     <title>Works on Joseph C</title>
     <link>https://joseph-c100.github.io/work/</link>
     <description>Recent content in Works on Joseph C</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://joseph-c100.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://joseph-c100.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;Begin&#39; Exhibition Poster&#39;</title>
       <link>https://joseph-c100.github.io/work/begin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/begin/</guid>
       <description>Poster designed for a group painting exhibition at Ballymaloe Grainstore.</description>
     </item>
-    
     <item>
       <title>Black Hole</title>
       <link>https://joseph-c100.github.io/work/black_hole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/black_hole/</guid>
-      <description>Each dot = 50,000 data records collected by ‘Black Hole’ GCHQ program each day.
-(This includes: search history, social media posts and messages, call logs, emails and more)
-Coptic book binding by hand.</description>
+      <description>Each dot = 50,000 data records collected by ‘Black Hole’ GCHQ program each day.&#xA;(This includes: search history, social media posts and messages, call logs, emails and more)&#xA;Coptic book binding by hand.</description>
     </item>
-    
+    <item>
+      <title>Economist US election forecast</title>
+      <link>https://joseph-c100.github.io/work/us_forecast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joseph-c100.github.io/work/us_forecast/</guid>
+      <description>Worked as part of a team to design and build the interactive visualisations of the Economist&amp;rsquo;s 2024 US election forecast.&#xA;I started by building out wireframes based on the 2016 election and 2020 midterms which provided the foundation. We discussed what worked from those interactives and what needed to change and iterated on those in the design. It was important to find the right balance between clear topline information while giving the appropriate context in detail.</description>
+    </item>
     <item>
       <title>Election by Communication</title>
       <link>https://joseph-c100.github.io/work/election/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/election/</guid>
-      <description>drawingmachine.py
-Python program that draws based on live tweets on the 2016 US election depending on specific keywords.
-The bottom image depicts just a snapshot of the constant stream of content that was being used to draw these shapes.</description>
+      <description>drawingmachine.py&#xA;Python program that draws based on live tweets on the 2016 US election depending on specific keywords.&#xA;The bottom image depicts just a snapshot of the constant stream of content that was being used to draw these shapes.</description>
     </item>
-    
     <item>
       <title>Elevator pitch</title>
       <link>https://joseph-c100.github.io/work/elevator_pitch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/elevator_pitch/</guid>
       <description>Self-published zine on non-verbal communication and anxiety.</description>
     </item>
-    
     <item>
       <title>Enhanced Vision.OTF</title>
       <link>https://joseph-c100.github.io/work/enhanced_vision_typeface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/enhanced_vision_typeface/</guid>
-      <description>Enhanced Vision is a typeface (Uppercase only) built from the components of Enhanced Flight Vision System screens.
-Download</description>
+      <description>Enhanced Vision is a typeface (Uppercase only) built from the components of Enhanced Flight Vision System screens.&#xA;Download</description>
     </item>
-    
     <item>
       <title>Estimated building damage in Gaza</title>
       <link>https://joseph-c100.github.io/work/gaza_damage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/gaza_damage/</guid>
       <description>Mapping Israel&amp;rsquo;s war in Gaza building by building. Built for the Data Journalism team at The Economist.</description>
     </item>
-    
     <item>
       <title>Exhibitions/Residencies/Publications</title>
       <link>https://joseph-c100.github.io/work/exhibitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/exhibitions/</guid>
-      <description>Joya: Artist in Residence (2022)
-University College London - Multimedia Anthropology Lab collaborative exhibition (virtual) - uclmal.com/exhibition
-&amp;lsquo;Open Fragments&amp;rsquo; - Pragamata Collective (online)
-&amp;lsquo;Gaps between gaps&amp;rsquo; - Solo Exhibition Stallan-Brand Architects (Glasgow)
-&amp;lsquo;Fantôme/Aave&amp;rsquo; - Vaapan Taiteen Tila (Helsinki)/Galerie au Medicis (Paris)
-‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
-‘Rooted’ - Where People Sleep (Glasgow)
-‘Sobremesa’ - Wasps Studios (Glasgow)
-‘More is Less’ - Laurieston Arches (Glasgow)
-‘Feedback Loop’ - GSA Photography studio</description>
+      <description>Joya: Artist in Residence (2022)&#xA;University College London - Multimedia Anthropology Lab collaborative exhibition (virtual) - uclmal.com/exhibition&#xA;&amp;lsquo;Open Fragments&amp;rsquo; - Pragamata Collective (online)&#xA;&amp;lsquo;Gaps between gaps&amp;rsquo; - Solo Exhibition Stallan-Brand Architects (Glasgow)&#xA;&amp;lsquo;Fantôme/Aave&amp;rsquo; - Vaapan Taiteen Tila (Helsinki)/Galerie au Medicis (Paris)&#xA;‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)&#xA;‘Rooted’ - Where People Sleep (Glasgow)&#xA;‘Sobremesa’ - Wasps Studios (Glasgow)&#xA;‘More is Less’ - Laurieston Arches (Glasgow)&#xA;‘Feedback Loop’ - GSA Photography studio</description>
     </item>
-    
     <item>
       <title>Fantôme/Aave</title>
       <link>https://joseph-c100.github.io/work/fantome_aave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/fantome_aave/</guid>
-      <description>&amp;lsquo;This is Fiction&amp;rsquo; - Single Channel Video Projection (First Image)
-In collaboration with Mensonge Collectif, co-curated with Cesar Kaci and Aliha Thalien
-Vapaan Taiteen Tila Helsinki/Galerie au Medicis
-Helsinki - 2019
-Link to full video </description>
+      <description>&amp;lsquo;This is Fiction&amp;rsquo; - Single Channel Video Projection (First Image)&#xA;In collaboration with Mensonge Collectif, co-curated with Cesar Kaci and Aliha Thalien&#xA;Vapaan Taiteen Tila Helsinki/Galerie au Medicis&#xA;Helsinki - 2019&#xA;Link to full video </description>
     </item>
-    
     <item>
       <title>Gaps between gaps</title>
       <link>https://joseph-c100.github.io/work/gaps_between_gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/gaps_between_gaps/</guid>
-      <description>Stallan-Brand (Glasgow)
-March 12 - April 3 2020
-An exhibition on conspiracy and world-building.</description>
+      <description>Stallan-Brand (Glasgow)&#xA;March 12 - April 3 2020&#xA;An exhibition on conspiracy and world-building.</description>
     </item>
-    
     <item>
       <title>Generated glitch model paintings</title>
       <link>https://joseph-c100.github.io/work/ggm_paintings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/ggm_paintings/</guid>
-      <description>Generated, Glitch, Model (GGM) Paintings - 3D Digital Render - Ongoing
-Experimenting with a visual medium developed using a variety of online AI text generators, picture editing phone apps and Maya software which I named Generated, Glitch, Model (GGM) paintings.
-blue systems, 2022
-spacing, 2022</description>
+      <description>Generated, Glitch, Model (GGM) Paintings - 3D Digital Render - Ongoing&#xA;Experimenting with a visual medium developed using a variety of online AI text generators, picture editing phone apps and Maya software which I named Generated, Glitch, Model (GGM) paintings.&#xA;blue systems, 2022&#xA;spacing, 2022</description>
     </item>
-    
     <item>
       <title>Generated Worlds</title>
       <link>https://joseph-c100.github.io/work/generated_worlds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/generated_worlds/</guid>
-      <description>Python script that generates random terms for world building - making use of terms from politics, philosophy, ecology, computing, psychology and geography.
-Find the code here</description>
+      <description>Python script that generates random terms for world building - making use of terms from politics, philosophy, ecology, computing, psychology and geography.&#xA;Find the code here</description>
     </item>
-    
     <item>
       <title>Keywords - Poster Series</title>
       <link>https://joseph-c100.github.io/work/keywords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/keywords/</guid>
       <description>A series of five posters on leaked keywords used in NSA Surveillance software.</description>
     </item>
-    
     <item>
       <title>Population Density Maps</title>
       <link>https://joseph-c100.github.io/work/pop_density/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/pop_density/</guid>
       <description>Series of maps indicating population density in parts of America, Europe and Asia. Created using QGIS and edited using Pixelmator Pro.</description>
     </item>
-    
     <item>
       <title>Pretend Ai, Pretending to be People</title>
       <link>https://joseph-c100.github.io/work/pretend_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/pretend_ai/</guid>
-      <description>Collaborative exhibition with UCL&amp;rsquo;s Multimedia Anthropology Lab (2021)
-This virtual space presents an ongoing conversation and collaboration between artists Zach Mason and Joseph Clark both who are interested in data collection, visualisation and the transformations of artificial intelligence.
-In a bedroom, inspired by the setting that many conversations between us have taken place, we will take on the role of AI where we limit ourselves to responding only to what has been said through the information present in the room, without the context of each others prior intentions or personal lives.</description>
+      <description>Collaborative exhibition with UCL&amp;rsquo;s Multimedia Anthropology Lab (2021)&#xA;This virtual space presents an ongoing conversation and collaboration between artists Zach Mason and Joseph Clark both who are interested in data collection, visualisation and the transformations of artificial intelligence.&#xA;In a bedroom, inspired by the setting that many conversations between us have taken place, we will take on the role of AI where we limit ourselves to responding only to what has been said through the information present in the room, without the context of each others prior intentions or personal lives.</description>
     </item>
-    
     <item>
       <title>Savvy</title>
       <link>https://joseph-c100.github.io/work/savvy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/savvy/</guid>
-      <description>Case Study Project - Savvy &amp;ldquo;We are Savvy, an online financial advice hub and community aimed at helping younger adults improve their lives and careers with financial literacy.
-Our Mission - Partner with a generation of young, independent and creative individuals to reach their full potential by improving their understanding of finance.
-So much financial advice can be out of date, dull and inaccessible to a younger generation - Savvy aims to change that.</description>
+      <description>Case Study Project - Savvy &amp;ldquo;We are Savvy, an online financial advice hub and community aimed at helping younger adults improve their lives and careers with financial literacy.&#xA;Our Mission - Partner with a generation of young, independent and creative individuals to reach their full potential by improving their understanding of finance.&#xA;So much financial advice can be out of date, dull and inaccessible to a younger generation - Savvy aims to change that.</description>
     </item>
-    
     <item>
       <title>Spatial Finance</title>
       <link>https://joseph-c100.github.io/work/spatial_finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/spatial_finance/</guid>
       <description>In the back of my mind for some time has been this article about Spatial Software and it got me thinking about some use cases. Most instances of spatial software seem to be communication or visual design related but after doing some data visualisation work I thought wouldn&amp;rsquo;t it be useful if trading/personal finance applications had an infinite canvas as well? This may be wrong but I started drawing up some mockups of what an application could look like.</description>
     </item>
-    
     <item>
       <title>Starfish</title>
       <link>https://joseph-c100.github.io/work/starfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/starfish/</guid>
-      <description>Self-published zine - 2021
-Starfish Press began as a continuation to the publication of &amp;lsquo;Starfish&amp;rsquo; in 2021.
-Still in the process of being established, the aim of Starfish is to create visual work which encounters new ideas that bridge print and digital culture.
-Co-editor and photographer - Annie Joy Boothroyd</description>
+      <description>Self-published zine - 2021&#xA;Starfish Press began as a continuation to the publication of &amp;lsquo;Starfish&amp;rsquo; in 2021.&#xA;Still in the process of being established, the aim of Starfish is to create visual work which encounters new ideas that bridge print and digital culture.&#xA;Co-editor and photographer - Annie Joy Boothroyd</description>
     </item>
-    
     <item>
       <title>starfish.systems - a tiny design studio</title>
       <link>https://joseph-c100.github.io/work/starfish-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/starfish-systems/</guid>
-      <description>Case Study Project A tiny, experimental design studio activated by Joseph. starfish.systems is designed to run in digital spaces utilising a variety of tech and design stacks.
-Mood board and colour palette First step was to put together a moodboard which I had already partly accumulated on are.na. I was looking for retro, low poly shapes mixed with high tech ‘clean’ sci-fi tech. Based on some images I found I started building my colour palette.</description>
+      <description>Case Study Project A tiny, experimental design studio activated by Joseph. starfish.systems is designed to run in digital spaces utilising a variety of tech and design stacks.&#xA;Mood board and colour palette First step was to put together a moodboard which I had already partly accumulated on are.na. I was looking for retro, low poly shapes mixed with high tech ‘clean’ sci-fi tech. Based on some images I found I started building my colour palette.</description>
     </item>
-    
     <item>
       <title>The secret deal that saved the Barclays</title>
       <link>https://joseph-c100.github.io/work/barclay_twins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/barclay_twins/</guid>
-      <description>I designed a diagram for the Economist explaining the fraudulant financial transactions carried out by the Barclay brothers.
-Read the full investigation here</description>
+      <description>I designed a diagram for the Economist explaining the fraudulant financial transactions carried out by the Barclay brothers.&#xA;Read the full investigation here</description>
     </item>
-    
     <item>
       <title>You Do You - Homeware</title>
       <link>https://joseph-c100.github.io/work/youdoyou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/work/youdoyou/</guid>
-      <description>Speculative homeware brand - &amp;lsquo;You Do You&amp;rsquo; Launch
-&amp;lsquo;This small independent homeware company is dedicated to creating high quality and sustainable products that reflect the tastes and styles of local creatives. Operating out of their retail shop in London, they believe in supporting local artisans and makers while promoting sustainability in their production methods.
-With a variety of items ranging from furniture to decor, all of their products are designed with a special focus on craftsmanship.</description>
+      <description>Speculative homeware brand - &amp;lsquo;You Do You&amp;rsquo; Launch&#xA;&amp;lsquo;This small independent homeware company is dedicated to creating high quality and sustainable products that reflect the tastes and styles of local creatives. Operating out of their retail shop in London, they believe in supporting local artisans and makers while promoting sustainability in their production methods.&#xA;With a variety of items ranging from furniture to decor, all of their products are designed with a special focus on craftsmanship.</description>
     </item>
-    
   </channel>
 </rss>
