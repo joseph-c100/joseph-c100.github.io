@@ -212,6 +212,13 @@
       <description>Case Study Project - Savvy &amp;ldquo;We are Savvy, an online financial advice hub and community aimed at helping younger adults improve their lives and careers with financial literacy.&#xA;Our Mission - Partner with a generation of young, independent and creative individuals to reach their full potential by improving their understanding of finance.&#xA;So much financial advice can be out of date, dull and inaccessible to a younger generation - Savvy aims to change that.</description>
     </item>
     <item>
+      <title>Small boats API</title>
+      <link>https://joseph-c100.github.io/work/small_boats_api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joseph-c100.github.io/work/small_boats_api/</guid>
+      <description>I noticed that the UK government website keeps a live updated table of refugee small boat arrivals for the last 7 days. There wasn&amp;rsquo;t an API for this data and I thought it could use one. Using Val Town I created an API that fetches this data so it can be easily more easily accessed and immplemented into research projects.&#xA;Link to API here</description>
+    </item>
+    <item>
       <title>Spatial Finance</title>
       <link>https://joseph-c100.github.io/work/spatial_finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
