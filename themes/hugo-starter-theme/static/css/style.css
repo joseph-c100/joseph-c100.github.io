@@ -1,11 +1,11 @@
 /* LAYOUT */
 
 /* typefaces */
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
 @font-face {
   font-family: JetBrains;
-  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+  src: url("/fonts/JetBrainsMono-Regular.woff2") format("woff2");
 }
 
 body {
@@ -31,14 +31,13 @@ img {
   object-fit: contain;
 }
 
-
 p {
   font-family: Space Grotesk, sans-serif;
   line-height: 1.8;
   max-width: 500px;
 }
 
-h2{
+h2 {
   font-size: 1rem;
   color: rgb(27, 27, 27);
   /* background-color: rgb(247, 247, 247); */
@@ -46,7 +45,7 @@ h2{
   border-radius: 4px;
 }
 
-h3{
+h3 {
   font-size: 1rem;
 }
 
@@ -54,10 +53,10 @@ section {
   padding-bottom: 10px;
 }
 
-.site-header{
+.site-header {
   z-index: 999;
   padding: 0.6rem;
-  display:block;
+  display: block;
   /* position: sticky; top: 0; */
   background-color: #fff;
   /* border-bottom: solid 1px #2a2a2a; */
@@ -65,7 +64,7 @@ section {
 }
 
 /* Caption underneath header 'Interface designer...' */
-.site-header h3{
+.site-header h3 {
   font-style: bold;
 }
 
@@ -80,7 +79,6 @@ section {
   line-height: 1.8;
 }
 
-
 .row {
   border-bottom: solid 1px #ccc;
   padding-bottom: 40px;
@@ -88,7 +86,7 @@ section {
 }
 
 .row h4 {
-  margin-bottom:-12px;
+  margin-bottom: -12px;
 }
 
 /* NAVIGATION */
@@ -117,7 +115,7 @@ a {
 .site-nav a {
   display: flex;
   /* padding: 1rem; */
-  margin-right:20px;
+  margin-right: 20px;
   text-decoration: none;
   font-family: JetBrains;
 }
@@ -134,12 +132,12 @@ a {
   list-style: none;
   margin: 0;
   padding: 0;
-  margin-left:auto;
+  margin-left: auto;
 }
 
 /* MAIN CONTENT SECTIONS */
 
-.work-list{
+.work-list {
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
   font-family: Space Grotesk, sans-serif;
@@ -150,8 +148,8 @@ a {
 } */
 
 /* .work-item:hover{ */
-  /* border-bottom: solid 1px #30de00; */
-  /* margin-left: 40px; */
+/* border-bottom: solid 1px #30de00; */
+/* margin-left: 40px; */
 /* } */
 
 .services {
@@ -159,9 +157,8 @@ a {
   margin-top: 20px;
 }
 
-
 .footer-section {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .footer-section p {
@@ -178,20 +175,11 @@ twitter-tweet {
   z-index: 0;
 }
 
-
-
-
-
-
-@media screen and (max-width: 48rem){
-
-
-
+@media screen and (max-width: 48rem) {
   .display-image img {
     height: auto;
     width: 100%;
   }
-
 
   .site-nav,
   .main-menu {
@@ -210,7 +198,7 @@ twitter-tweet {
     color: inherit;
   }
 
-  h2{
+  h2 {
     font-size: 0.8rem;
   }
 
@@ -219,7 +207,7 @@ twitter-tweet {
   }
 
   .work-item {
-    margin:5px;
+    margin: 5px;
     margin-left: 20px;
   }
 
@@ -231,7 +219,6 @@ twitter-tweet {
     margin-bottom: 20px;
     max-width: 20rem;
   } */
-
 }
 
 /* LISTS */
@@ -243,4 +230,3 @@ twitter-tweet {
 .post-snippet h3 {
   margin-bottom: 0.25rem;
 }
-
