@@ -49,6 +49,10 @@ Orbits -
     </div>
   </section> -->
 
+#### Skills
+
+SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
+
 #### Currently working on
 
 - An archive about undersea internet infrastructure
