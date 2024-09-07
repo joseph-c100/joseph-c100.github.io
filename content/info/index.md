@@ -49,18 +49,9 @@ Orbits -
     </div>
   </section> -->
 
-#### Reading
+#### Currently working on
 
-- The Signal and the Noise - Nate Silver
-
-#### Working on
-
-- A film about undersea internet infrastructure
+- An archive about undersea internet infrastructure
 - 'Pre-server' - short sci-fi about lichen computer interfaces, planetary intelligence, and ghosts
-
-#### Recent work
-
-- Detailed structural damage map of Gaza Strip for The Economist
-- Visuals for a investigative piece on the Barclay brothers
 
 I also occasionally write some art criticism on my blog [Generated Worlds](https://generated-worlds.tumblr.com/)
