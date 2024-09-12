@@ -7,11 +7,7 @@ images = ['/images/election1.png']
 
 
 [menu]
-  [[menu.main]]
-    identifier = "writing"
-    name = "Writing"
-    url = "/writing"
-    weight = 10
+
 
   [[menu.main]]
     identifier = "info"
