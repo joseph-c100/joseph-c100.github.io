@@ -258,7 +258,7 @@
       <link>https://joseph-c100.github.io/work/us_forecast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joseph-c100.github.io/work/us_forecast/</guid>
-      <description>This project represents the final results of our work to design and build the interactive visualisations for the Economist&amp;rsquo;s 2024 US election forecast.&#xA;My part began by building out wireframes based on the 2016 election and 2020 midterms which served as the initial framework. We discussed what worked from those interactives and what needed to change and iterated on those in the design. It was important to find the right balance between clear topline information while giving the appropriate context in detail.</description>
+      <description>This project represents the final results of our work to design and build the interactive visualisations for the Economist&amp;rsquo;s 2024 US election forecast. This prediction model includes visualisations for the Presidential race as well as the House and Senate.&#xA;My part began by building out wireframes based on the 2016 election and 2020 midterms which served as the initial framework. We discussed what worked from those interactives and what needed to change and iterated on those in the design.</description>
     </item>
     <item>
       <title>The secret deal that saved the Barclays</title>
