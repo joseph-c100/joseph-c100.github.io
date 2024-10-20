@@ -56,6 +56,6 @@ SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Geolocation,
 #### Currently working on
 
 - An archive about undersea internet infrastructure
-- 'Pre-server' - short sci-fi about lichen computer interfaces, planetary intelligence, and ghosts
+- US election prediction-model visualisations
 
 I also occasionally write some art criticism on my blog [Generated Worlds](https://generated-worlds.tumblr.com/)
