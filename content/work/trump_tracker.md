@@ -2,7 +2,7 @@
 title: "Tracking the presidency"
 ---
 
-Built the tracker page for The Economist's monitoring the first 100 days of Trump's presidency as well as his favourability rating.
+Built the tracker page for The Economist monitoring the first 100 days of Trump's presidency as well as a breakdown of his favourability rating.
 
 [Link to the tracker page](https://www.economist.com/interactive/trump-approval-tracker/)
 
