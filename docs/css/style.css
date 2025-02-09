@@ -3,14 +3,9 @@
 /* typefaces */
 @import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
-@font-face {
-  font-family: JetBrains;
-  src: url("/fonts/JetBrainsMono-Regular.woff2") format("woff2");
-}
-
 body {
   /* font-family: JetBrains, sans-serif; */
-  font-family: Space Grotesk, sans-serif;
+  font-family: serif, Space Grotesk, sans-serif;
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
@@ -21,7 +16,7 @@ body {
 }
 
 span {
-  font-family: Space Grotesk, sans-serif;
+  font-family: serif, Space Grotesk, sans-serif;
   font-style: italic;
 }
 
@@ -32,7 +27,7 @@ img {
 }
 
 p {
-  font-family: Space Grotesk, sans-serif;
+  font-family: serif, Space Grotesk, sans-serif;
   line-height: 1.8;
   max-width: 600px;
 }
