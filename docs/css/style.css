@@ -5,7 +5,7 @@
 
 body {
   /* font-family: JetBrains, sans-serif; */
-  font-family: serif, Space Grotesk, sans-serif;
+  font-family: serif, sans-serif;
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
@@ -16,7 +16,7 @@ body {
 }
 
 span {
-  font-family: serif, Space Grotesk, sans-serif;
+  font-family: serif, sans-serif;
   font-style: italic;
 }
 
@@ -27,7 +27,7 @@ img {
 }
 
 p {
-  font-family: serif, Space Grotesk, sans-serif;
+  font-family: serif, sans-serif;
   line-height: 1.8;
   max-width: 600px;
 }
@@ -103,7 +103,7 @@ a {
 } */
 
 .intro a {
-  font-family: Space Grotesk, sans-serif;
+  font-family: serif, sans-serif;
   line-height: 1.8;
 }
 
@@ -112,7 +112,7 @@ a {
   /* padding: 1rem; */
   margin-right: 20px;
   text-decoration: none;
-  font-family: JetBrains;
+  font-family: serif;
 }
 
 .site-nav .logo {
@@ -135,7 +135,7 @@ a {
 .work-list {
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
-  font-family: Space Grotesk, sans-serif;
+  font-family: serif, sans-serif;
 }
 
 /* .work-item {
