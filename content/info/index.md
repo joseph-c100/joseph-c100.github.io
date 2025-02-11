@@ -9,12 +9,11 @@ img {
 }
 </style> -->
 
-Visual journalist, Data wrangler, Artist and sometimes a Writer and Curator. My interests are in visual storytelling, data collection, visualisation and OSINT.
+Visual journalist, Data wrangler, artist and sometimes a writer and curator. My interests are in visual storytelling, data collection, visualisation and OSINT.
 
 Currently I'm working as an Interactive Visual Journalist at The Economist.
 
 Orbits -
-[Trust](https://trust.support)
 [UCL MAL](https://www.uclmal.com)
 [The New Design Congress](https://newdesigncongress.org/en/)
 [Campaign Lab](https://www.campaignlab.uk/)
@@ -53,9 +52,10 @@ Orbits -
 
 SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
 
-#### Currently working on
+I also occasionally write some art criticism on my blog [Generated Worlds](https://generated-worlds.tumblr.com/).
 
-- An archive about undersea internet infrastructure
-- US election prediction-model visualisations
+### Currently working on
 
-I also occasionally write some art criticism on my blog [Generated Worlds](https://generated-worlds.tumblr.com/)
+- Turning my sci-fi story into an interactive text based game
+- Planning my youtube channel, simple vlogs maybe or guides
+- Just finished The Economist's Trump approval tracker, will be working on a piece about the Myanmar civil war shortly.

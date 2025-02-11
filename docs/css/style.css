@@ -5,7 +5,7 @@
 
 body {
   /* font-family: JetBrains, sans-serif; */
-  font-family: serif, sans-serif;
+  font-family: Times, serif, sans-serif;
   font-size: 0.9rem;
   color: #333;
   line-height: 1.5;
@@ -16,7 +16,7 @@ body {
 }
 
 span {
-  font-family: serif, sans-serif;
+  font-family: Times, serif, sans-serif;
   font-style: italic;
 }
 
@@ -27,7 +27,7 @@ img {
 }
 
 p {
-  font-family: serif, sans-serif;
+  font-family: Times, serif, sans-serif;
   line-height: 1.8;
   max-width: 600px;
 }
@@ -103,7 +103,7 @@ a {
 } */
 
 .intro a {
-  font-family: serif, sans-serif;
+  font-family: Times, serif, sans-serif;
   line-height: 1.8;
 }
 
