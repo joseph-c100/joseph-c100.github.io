@@ -58,4 +58,4 @@ I also occasionally write some art criticism on my blog [Generated Worlds](https
 
 - Turning my sci-fi story into an interactive text based game
 - Planning my youtube channel, simple vlogs maybe or guides
-- Just finished The Economist's Trump approval tracker, will be working on a piece about the Myanmar civil war shortly.
+- Just finished The Economist's presidential tracker, will be working on a piece about the Myanmar civil war shortly.
