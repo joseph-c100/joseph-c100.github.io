@@ -10,8 +10,7 @@ body {
   color: #333;
   line-height: 1.5;
   max-width: 600px;
-  /* margin-left:20px;  */
-  /* margin-right: auto; */
+  margin: 2rem auto;
   border-width: 2px;
 }
 
@@ -142,10 +141,9 @@ a {
   margin-left: 20px;
 } */
 
-/* .work-item:hover{ */
-/* border-bottom: solid 1px #30de00; */
-/* margin-left: 40px; */
-/* } */
+.work-item:hover {
+  margin-left: 20px;
+}
 
 .services {
   margin-left: 20px;
