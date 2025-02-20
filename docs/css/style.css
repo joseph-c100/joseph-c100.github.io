@@ -1,7 +1,6 @@
 /* LAYOUT */
 
 /* typefaces */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
 body {
   /* font-family: JetBrains, sans-serif; */
@@ -10,8 +9,8 @@ body {
   color: #333;
   line-height: 1.5;
   max-width: 600px;
-  margin: 2rem auto;
   border-width: 2px;
+  margin: 2rem auto;
 }
 
 span {
@@ -134,7 +133,7 @@ a {
 .work-list {
   padding-bottom: 50px;
   border-bottom: solid 1px #ccc;
-  font-family: serif, sans-serif;
+  font-family: Times, sans-serif;
 }
 
 /* .work-item {
@@ -171,6 +170,7 @@ twitter-tweet {
 @media screen and (max-width: 48rem) {
   .display-image img {
     height: auto;
+    max-width: 200px;
   }
 
   .site-nav,
@@ -179,8 +179,11 @@ twitter-tweet {
   }
 
   .site-nav a {
-    padding: 0.3rem;
     padding-left: 0;
+  }
+
+  .content {
+    padding: 0.8rem;
   }
 
   .site-nav .logo {
@@ -196,6 +199,7 @@ twitter-tweet {
 
   .site-header {
     margin-top: 0;
+    padding: 0.8rem;
   }
 
   .work-item {
