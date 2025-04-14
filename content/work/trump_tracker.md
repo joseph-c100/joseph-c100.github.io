@@ -11,3 +11,5 @@ Built the tracker page for The Economist monitoring the first 100 days of Trump'
 ![image](/images/trump_tracker03.png)
 ![image](/images/trump_tracker04.png)
 ![image](/images/trump_tracker06.png)
+![image](/images/trump_tracker07.png)
+![image](/images/trump_tracker08.png)
