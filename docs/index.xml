@@ -6,8 +6,15 @@
     <description>Recent content on Joseph C</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Feb 2025 07:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:57:08 +0100</lastBuildDate>
     <atom:link href="https://joseph-c100.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet outage globe map</title>
+      <link>https://joseph-c100.github.io/writing/internet_outage_globe/</link>
+      <pubDate>Mon, 14 Apr 2025 15:57:08 +0100</pubDate>
+      <guid>https://joseph-c100.github.io/writing/internet_outage_globe/</guid>
+      <description>I&amp;rsquo;ve been working on a small side project that maps internet outages from the past week/three months. This is a continuation of sorts from my lightweight internet outages tracker. I used Svelte and Globe.gl for the 3D globe visualisation which allows the user to rotate around the earth and hover over countries to get more detail on the nature of the internet outage. You can run this yourself locally to try it out.</description>
+    </item>
     <item>
       <title>Introduction to OSINT for The Economist&#39;s Off the Charts newsletter</title>
       <link>https://joseph-c100.github.io/writing/osint_newsletter/</link>
