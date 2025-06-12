@@ -5,56 +5,43 @@
     <link>https://joseph-c100.github.io/writing/</link>
     <description>Recent content in Writings on Joseph C</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 15:57:08 +0100</lastBuildDate><atom:link href="https://joseph-c100.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Apr 2025 15:57:08 +0100</lastBuildDate>
+    <atom:link href="https://joseph-c100.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internet outage globe map</title>
       <link>https://joseph-c100.github.io/writing/internet_outage_globe/</link>
       <pubDate>Mon, 14 Apr 2025 15:57:08 +0100</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/internet_outage_globe/</guid>
       <description>I&amp;rsquo;ve been working on a small side project that maps internet outages from the past week/three months. This is a continuation of sorts from my lightweight internet outages tracker. I used Svelte and Globe.gl for the 3D globe visualisation which allows the user to rotate around the earth and hover over countries to get more detail on the nature of the internet outage. You can run this yourself locally to try it out.</description>
     </item>
-    
     <item>
       <title>Introduction to OSINT for The Economist&#39;s Off the Charts newsletter</title>
       <link>https://joseph-c100.github.io/writing/osint_newsletter/</link>
       <pubDate>Wed, 19 Feb 2025 07:26:13 +0000</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/osint_newsletter/</guid>
-      <description>This is an extract from my writing for The Economist&amp;rsquo;s Off the Charts newsletter. I wrote briefly about OSINT and how we have used it in our data journalism and interactive projects.
-Newsletter below:
-I remember when I first heard of OSINT. It was the winter of 2019 and I was attending a lecture delivered by Forensic Architecture, a research outfit that utilises architectural tools and software development as well as legal, scientific and journalistic expertise for digital investigations.</description>
+      <description>This is an extract from my writing for The Economist&amp;rsquo;s Off the Charts newsletter. I wrote briefly about OSINT and how we have used it in our data journalism and interactive projects.&#xA;Newsletter below:&#xA;I remember when I first heard of OSINT. It was the winter of 2019 and I was attending a lecture delivered by Forensic Architecture, a research outfit that utilises architectural tools and software development as well as legal, scientific and journalistic expertise for digital investigations.</description>
     </item>
-    
     <item>
       <title>Enhanced Vision Systems</title>
       <link>https://joseph-c100.github.io/writing/efvs_displays/</link>
       <pubDate>Mon, 20 Feb 2023 09:27:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/efvs_displays/</guid>
-      <description>Interested in EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot&amp;rsquo;s peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.
-It made me think how an interface such as this can be used in day to day activities.</description>
+      <description>Interested in EFVS displays (Enhanced Flight Vision Systems) and their use of an interface that is conformal to the scene around it - i.e. elements displayed are exactly in the right position relative to the real world. The interface is contextual, is aware of the pilot&amp;rsquo;s peripheral vision, does not limit the pilot to completely rely on it and only shows specific information in a dense space.&#xA;It made me think how an interface such as this can be used in day to day activities.</description>
     </item>
-    
     <item>
       <title>Generated Worlds - an app concept</title>
       <link>https://joseph-c100.github.io/writing/generated_worlds/</link>
       <pubDate>Sat, 10 Dec 2022 14:43:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/generated_worlds/</guid>
-      <description>On the train from Lancaster to London I designed an app on Figma based on an art piece that I created two years ealier. This piece was called &amp;lsquo;Generated_worlds&amp;rsquo; and was a python program that I wrote which essentially combined lots of different words randomly and put them together to create a new way of describing a world.
-For example the words: &amp;lsquo;Nano&amp;rsquo; &amp;lsquo;Ecology&amp;rsquo; and &amp;lsquo;Condition&amp;rsquo; would create &amp;lsquo;Nano-ecology Condition&amp;rsquo;. Or &amp;lsquo;Relapse&amp;rsquo; &amp;lsquo;Planetary&amp;rsquo; and &amp;lsquo;Language&amp;rsquo; would create &amp;lsquo;Relapse Planetary Language&amp;rsquo;.</description>
+      <description>On the train from Lancaster to London I designed an app on Figma based on an art piece that I created two years ealier. This piece was called &amp;lsquo;Generated_worlds&amp;rsquo; and was a python program that I wrote which essentially combined lots of different words randomly and put them together to create a new way of describing a world.&#xA;For example the words: &amp;lsquo;Nano&amp;rsquo; &amp;lsquo;Ecology&amp;rsquo; and &amp;lsquo;Condition&amp;rsquo; would create &amp;lsquo;Nano-ecology Condition&amp;rsquo;. Or &amp;lsquo;Relapse&amp;rsquo; &amp;lsquo;Planetary&amp;rsquo; and &amp;lsquo;Language&amp;rsquo; would create &amp;lsquo;Relapse Planetary Language&amp;rsquo;.</description>
     </item>
-    
     <item>
       <title>Late night manifesto for starfish.systems</title>
       <link>https://joseph-c100.github.io/writing/starfish-systems-manifesto/</link>
       <pubDate>Sat, 05 Nov 2022 13:11:00 +0700</pubDate>
-      
       <guid>https://joseph-c100.github.io/writing/starfish-systems-manifesto/</guid>
-      <description>OK so a few ideas are coming together and it&amp;rsquo;s starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I&amp;rsquo;ve called &amp;lsquo;starfish.systems&amp;rsquo; (named after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -
-1 - build components not complete designs</description>
+      <description>OK so a few ideas are coming together and it&amp;rsquo;s starting to take a shape. The form it’s taking is as a tiny, experimental design studio which I&amp;rsquo;ve called &amp;lsquo;starfish.systems&amp;rsquo; (named after a publication I designed a year ago). How I’m going to draw a frame around this form is through a brief manifesto that I wrote late at night quickly and without overthinking it. Here it goes -&#xA;1 - build components not complete designs</description>
     </item>
-    
   </channel>
 </rss>
