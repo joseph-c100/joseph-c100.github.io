@@ -1,6 +1,6 @@
 baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
-title = 'Pehtheme'
+title = 'Joseph C'
 
 pagination.pagerSize = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
