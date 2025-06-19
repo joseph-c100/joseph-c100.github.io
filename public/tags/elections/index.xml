@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elections on Joseph C</title>
+    <link>http://localhost:1313/tags/elections/</link>
+    <description>Recent content in Elections on Joseph C</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking the presidency</title>
+      <link>http://localhost:1313/posts/2025/trump-approval-tracker/</link>
+      <pubDate>Mon, 20 Jan 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/trump-approval-tracker/</guid>
+      <description>&lt;p&gt;Built the tracker page for The Economist monitoring the first 100 days of Trump&amp;rsquo;s presidency as well as a breakdown of his favourability rating.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

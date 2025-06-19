@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecasts &amp; Modelling on Joseph C</title>
+    <link>http://localhost:1313/tags/forecasts--modelling/</link>
+    <description>Recent content in Forecasts &amp; Modelling on Joseph C</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/forecasts--modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Economist US election forecast</title>
+      <link>http://localhost:1313/posts/2024/us-election-forecast-2024/</link>
+      <pubDate>Tue, 05 Nov 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/us-election-forecast-2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/briefing/2024/08/29/satellite-images-siege-sudan-darfur-el-fasher?app=core&#34;&gt;Read the full piece here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Built the graphics for this piece showing the war-related fires in Darfur as well as the destruction in el-Fasher and neighbouring villages and camps. Part of a series of articles and films from The Economist about the disaster taking place in Sudan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

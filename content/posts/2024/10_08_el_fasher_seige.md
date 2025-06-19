@@ -1,6 +1,6 @@
 ---
 title: "“Hell on earth”: satellite images document the siege of a Sudanese city"
-date: 2024-07-10T13:03:07+07:00
+date: 2024-08-10T13:03:07+07:00
 slug: /sudan-conflict/
 description: Visual story explaining the seige of El-Fasher
 image: images/sudan1.png
