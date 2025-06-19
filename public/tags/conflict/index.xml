@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conflict on Joseph C</title>
+    <link>http://localhost:1313/tags/conflict/</link>
+    <description>Recent content in Conflict on Joseph C</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jun 2025 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/conflict/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Israel-Iran war tracker</title>
+      <link>http://localhost:1313/posts/2025/israel-iran-war-tracker/</link>
+      <pubDate>Thu, 19 Jun 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/israel-iran-war-tracker/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/middle-east-and-africa/2025/06/13/tracking-the-israel-iran-war?app=core&#34;&gt;Link to the tracker page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Hell on earth”: satellite images document the siege of a Sudanese city</title>
+      <link>http://localhost:1313/posts/2025/sudan-conflict/</link>
+      <pubDate>Wed, 10 Jul 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/sudan-conflict/</guid>
+      <description>&lt;p&gt;Built the graphics for this piece showing the war-related fires in Darfur as well as the destruction in el-Fasher and neighbouring villages and camps. Part of a series of articles and films from The Economist about the disaster taking place in Sudan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
