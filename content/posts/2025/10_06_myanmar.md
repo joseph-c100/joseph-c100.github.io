@@ -5,7 +5,7 @@ slug: /myanmar-civil-war/
 description: Follow an oil-and-gas pipeline through three conflict zones
 image: images/myanmar1.png
 categories:
-  - trackers
+  - visual storytelling
 tags:
   - visual storytelling
   - conflict

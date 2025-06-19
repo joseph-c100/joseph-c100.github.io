@@ -5,7 +5,7 @@ slug: /sudan-conflict/
 description: Visual story explaining the seige of El-Fasher
 image: images/sudan1.png
 categories:
-  - trackers
+  - visual storytelling
 tags:
   - conflict
   - africa
