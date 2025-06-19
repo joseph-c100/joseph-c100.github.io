@@ -1045,7 +1045,7 @@ video {
   --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
   --tw-prose-invert-th-borders: #4b5563;
   --tw-prose-invert-td-borders: #374151;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.75;
 }
 
@@ -1691,7 +1691,7 @@ video {
 }
 
 .text-2xl {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 2rem;
 }
 
@@ -1804,7 +1804,7 @@ video {
 
 @media (min-width: 1024px) {
   .lg\:prose-lg {
-    font-size: 1.125rem;
+    font-size: 1rem;
     line-height: 1.7777778;
   }
 
@@ -2336,8 +2336,8 @@ video {
   }
 
   .md\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
   }
 
   .md\:text-3xl {
