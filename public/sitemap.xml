@@ -38,8 +38,17 @@
     <loc>http://localhost:1313/tags/feature/</loc>
     <lastmod>2025-06-10T13:03:07+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/maps/</loc>
+    <lastmod>2025-06-10T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/visual-storytelling/</loc>
+    <lastmod>2025-06-10T13:03:07+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/visual-storytelling/</loc>
     <lastmod>2025-06-10T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/china-myanmar-projects/</loc>
+    <lastmod>2025-02-14T13:03:07+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/elections/</loc>
     <lastmod>2025-01-20T13:03:07+07:00</lastmod>
@@ -50,8 +59,17 @@
     <loc>http://localhost:1313/tags/united-states/</loc>
     <lastmod>2025-01-20T13:03:07+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/2025/internet-outages-map/</loc>
+    <lastmod>2025-01-04T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
+    <lastmod>2025-01-04T13:03:07+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2024/us-election-forecast-2024/</loc>
     <lastmod>2024-11-05T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/gaza-damage-map/</loc>
+    <lastmod>2024-10-10T13:03:07+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/sudan-conflict/</loc>
     <lastmod>2024-08-10T13:03:07+07:00</lastmod>
@@ -61,6 +79,24 @@
   </url><url>
     <loc>http://localhost:1313/posts/2024/us-election-forecast-2024/</loc>
     <lastmod>2024-08-05T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/finance/</loc>
+    <lastmod>2024-02-14T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/finance/</loc>
+    <lastmod>2024-02-14T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/barclay-files/</loc>
+    <lastmod>2024-02-14T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/design/</loc>
+    <lastmod>2024-01-01T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2024-01-01T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/enhanced-vision-typeface/</loc>
+    <lastmod>2024-01-01T13:03:07+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-10-06T20:37:29+07:00</lastmod>

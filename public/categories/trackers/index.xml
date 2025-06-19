@@ -16,11 +16,11 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/middle-east-and-africa/2025/06/13/tracking-the-israel-iran-war?app=core&#34;&gt;Link to the tracker page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>China calls the shots in Myanmar&#39;s civil war</title>
-      <link>http://localhost:1313/posts/2025/myanmar-civil-war/</link>
-      <pubDate>Tue, 10 Jun 2025 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2025/myanmar-civil-war/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/asia/2025/05/30/china-calls-the-shots-in-myanmars-civil-war?app=core&#34;&gt;Read the full piece here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/myanmar2.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/myanmar3.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/myanmar4.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+      <title>China projects and infrastructure in Myanmar map</title>
+      <link>http://localhost:1313/posts/2025/china-myanmar-projects/</link>
+      <pubDate>Fri, 14 Feb 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/china-myanmar-projects/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/u/0/viewer?mid=1jvaItYYwm-HsB-N93PRCMRExEeGOA1g&#34;&gt;Link to the map&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tracking the presidency</title>
@@ -30,6 +30,13 @@
       <description>&lt;p&gt;Built the tracker page for The Economist monitoring the first 100 days of Trump&amp;rsquo;s presidency as well as a breakdown of his favourability rating.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Global internet outages map</title>
+      <link>http://localhost:1313/posts/2025/internet-outages-map/</link>
+      <pubDate>Sat, 04 Jan 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/internet-outages-map/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/u/0/viewer?mid=1jvaItYYwm-HsB-N93PRCMRExEeGOA1g&#34;&gt;Link to the project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Still under development.&lt;/p&gt;&#xA;&lt;p&gt;Development of the &lt;a href=&#34;https://internetoutages.netlify.app/&#34;&gt;lightweight internet outages tracker&lt;/a&gt; using the globe.gl library. Outages data are sourced from Cloudflare Radar.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Economist US election results</title>
       <link>http://localhost:1313/posts/2024/us-election-forecast-2024/</link>
       <pubDate>Tue, 05 Nov 2024 13:03:07 +0700</pubDate>
@@ -37,11 +44,11 @@
       <description>&lt;p&gt;After the release of our prediction-model we started working on the results pages to visualise the results live as they came in. We utilised the same map components for the forecast for the results so it was fairly easy to get set up. These I built along with the topline elements for the Presidential, Senate and House results which you can see in the images below. However there were lots of other visual components too that you can see on the site.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“Hell on earth”: satellite images document the siege of a Sudanese city</title>
-      <link>http://localhost:1313/posts/2024/sudan-conflict/</link>
-      <pubDate>Sat, 10 Aug 2024 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2024/sudan-conflict/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/briefing/2024/08/29/satellite-images-siege-sudan-darfur-el-fasher?app=core&#34;&gt;Read the full piece here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Built the graphics for this piece showing the war-related fires in Darfur as well as the destruction in el-Fasher and neighbouring villages and camps. Part of a series of articles and films from The Economist about the disaster taking place in Sudan.&lt;/p&gt;</description>
+      <title>Estimated building damage in Gaza</title>
+      <link>http://localhost:1313/posts/2024/gaza-damage-map/</link>
+      <pubDate>Thu, 10 Oct 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/gaza-damage-map/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.economist.com/interactive/israel-gaza-building-damage-map?app=core&#34;&gt;Read the full piece here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gaza_damage1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Economist US election forecast</title>

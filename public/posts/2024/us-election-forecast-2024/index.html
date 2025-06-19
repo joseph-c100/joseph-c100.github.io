@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>The Economist US election forecast | Joseph C</title>
+<title>The Economist US election results | Joseph C</title>
 
-<meta name="description" content="Prediction model visualisations for presidential, senate and house elections.">
+<meta name="description" content="Live updating results page for the 2024 US presidential election">
     <link rel="stylesheet" href="/css/main.css">
 
 <link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg"> 
@@ -15,13 +18,13 @@
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32.png"> 
 <link rel="icon" type="image/png" sizes="64x64" href="http://localhost:1313/favicon-64.png"> 
 
-</head>
-<body>
-  <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+  </head>
+  <body>
+    <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
   <div class="flex items-center">
     <div class="flex items-center">
       <button
-        class="flex items-center space-x-2 border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button"
+        class="flex items-center space-x-4 border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button"
         data-target="menu-bar"
       >
         <svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
@@ -30,7 +33,7 @@
             d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"
           ></path>
         </svg>
-        <span class="bg-blue-500 fill-white p-1.5"> </span>
+        <span class="bg-black fill-white p-1.5"> </span>
       </button>
       <div class="relative py-1.5 px-6 0 h text-xl font-bold uppercase mx-2">
         
@@ -70,7 +73,7 @@
 </div>
 </div>
 </header>
-  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+    <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
 	<ul class="flex space-x-4 text-sm text-zinc-500">
 		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
 			<a href="http://localhost:1313/">Joseph C</a>
@@ -82,10 +85,10 @@
 </div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
   <article class="md:col-span-2 prose lg:prose-lg">
     <header class="not-prose">
-      <h1 id="title" class="text-4xl font-bold leading-normal">The Economist US election forecast</h1>
+      <h1 id="title" class="text-2xl font-bold leading-normal">The Economist US election results</h1>
 
-      <div id="lead" class="my-6">
-        <p class="font-bold">Prediction model visualisations for presidential, senate and house elections.</p>
+      <div id="lead" class="my-2">
+        <p class="font-bold">Live updating results page for the 2024 US presidential election</p>
       </div>
 
       <div id="writer" class="flex items-center space-x-4"><ul
@@ -98,22 +101,23 @@
 
     <figure id="featureimage" class="rounded-xl aspect-video">
       <img
-        src="http://localhost:1313/images/us_election3_hu_592a166bb685c6c.png"
+        src="http://localhost:1313/images/us_results1_hu_bc26947eb573b77f.png"
         alt=""
         width="750"
-        height="531"
+        height="523"
       />
     </figure>
 
     <div id="content" class="mb-14">
-      <p>This project represents the final results of our work to design and build the interactive visualisations for the Economist&rsquo;s 2024 US election forecast. This prediction model includes visualisations for the Presidential race as well as the House and Senate.</p>
-<p>My part began by building out wireframes based on the 2016 election and 2020 midterms which served as the initial framework. We discussed what worked from those interactives and what needed to change and iterated on those in the design. It was important to find the right balance between clear topline information while giving the appropriate context in detail.</p>
-<p>We wanted the demographics of each state to play a role so I prototyped a simple beeswarm chart that was used in the final model. I also built the &lsquo;key states to watch&rsquo; section and the main state map. The map was a tricky challenge as there were more conditions and varying states than I first thought. Especially with Maine and Nebraska which has a different electoral college system than the other states so needed to be represented slightly differently. Overall I was happy to work on this element as it was great practice for building a robust component that can manage data that is consistently changing.</p>
-<p><a href="https://www.economist.com/interactive/us-2024-election/prediction-model/president/">Link to the US forecast</a></p>
-<p><img src="/images/us_election2.png" alt="image">
-<img src="/images/us_election3.png" alt="image">
-<img src="/images/us_election4.png" alt="image">
-<img src="/images/us_election5.png" alt="image"></p>
+      <p>After the release of our prediction-model we started working on the results pages to visualise the results live as they came in. We utilised the same map components for the forecast for the results so it was fairly easy to get set up. These I built along with the topline elements for the Presidential, Senate and House results which you can see in the images below. However there were lots of other visual components too that you can see on the site.</p>
+<p>Most of the complications were on the back-end, handling formatting and edge cases from the data pipeline. It was important to handle edge cases well - races were there was only one candidate running, or multiple candidates from the same party as well as independents that were likely to win (in the case of Vermont or Maine).</p>
+<p>Vigorous testing using fake data was essential to see how the data may visualise on the night - before the election we would run tests frequently and capture any issues. Other than some small tweaks that had to be made on the night of the election (which was always going to happen) it was success and signified the end of a long but rewarding project of visualising US politics.</p>
+<p><a href="https://www.economist.com/interactive/us-2024-election/results/president/">Link to the US results 2024</a></p>
+<p><img src="/images/us_results2.png" alt="image">
+<img src="/images/us_results3.png" alt="image">
+<img src="/images/us_results4.png" alt="image">
+<img src="/images/us_results5.png" alt="image">
+<img src="/images/us_results6.png" alt="image"></p>
 
 
 <ul
@@ -123,21 +127,21 @@
   <li class="font-semibold my-4">Tags:</li>
   <li>
     <a
-      class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300"
+      class="py-0 px-6 border hover:bg-zinc-100 active:bg-zinc-300"
       href="/tags/trackers/"
       >Trackers</a
     >
   </li>
   <li>
     <a
-      class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300"
+      class="py-0 px-6 border hover:bg-zinc-100 active:bg-zinc-300"
       href="/tags/united-states/"
       >United States</a
     >
   </li>
   <li>
     <a
-      class="py-2 px-6 border rounded-full hover:bg-zinc-100 active:bg-zinc-300"
+      class="py-0 px-6 border hover:bg-zinc-100 active:bg-zinc-300"
       href="/tags/elections/"
       >Elections</a
     >
@@ -153,15 +157,8 @@
 
     <article class="relative group flex flex-row">
   <a class="insert-link" href="http://localhost:1313/posts/2025/israel-iran-war-tracker/"></a>
-  <figure class="basis-1/3 aspect-square overflow-hidden bg-zinc-100"><img
-      class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
-      src="http://localhost:1313/images/israel-iran1_hu_36e0123b1e5da3d9.png"
-      alt="Israel-Iran war tracker"
-      width="250"
-      height="250"
-    />
-  </figure>
-  <div class="basis-2/3 self-center ml-4">
+
+  <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
       Israel-Iran war tracker
     </h3>
@@ -169,65 +166,37 @@
 </article>
 <article class="relative group flex flex-row">
   <a class="insert-link" href="http://localhost:1313/posts/2025/myanmar-civil-war/"></a>
-  <figure class="basis-1/3 aspect-square overflow-hidden bg-zinc-100"><img
-      class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
-      src="http://localhost:1313/images/myanmar1_hu_f9f8349126d1af99.png"
-      alt="China calls the shots in Myanmar&#39;s civil war"
-      width="250"
-      height="250"
-    />
-  </figure>
-  <div class="basis-2/3 self-center ml-4">
+
+  <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
       China calls the shots in Myanmar&#39;s civil war
     </h3>
   </div>
 </article>
 <article class="relative group flex flex-row">
+  <a class="insert-link" href="http://localhost:1313/posts/2025/china-myanmar-projects/"></a>
+
+  <div class="">
+    <h3 class="font-bold group-hover:underline decoration-auto">
+      China projects and infrastructure in Myanmar map
+    </h3>
+  </div>
+</article>
+<article class="relative group flex flex-row">
   <a class="insert-link" href="http://localhost:1313/posts/2025/trump-approval-tracker/"></a>
-  <figure class="basis-1/3 aspect-square overflow-hidden bg-zinc-100"><img
-      class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
-      src="http://localhost:1313/images/trump_tracker01_hu_600b2020a3023eb1.png"
-      alt="Tracking the presidency"
-      width="250"
-      height="250"
-    />
-  </figure>
-  <div class="basis-2/3 self-center ml-4">
+
+  <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
       Tracking the presidency
     </h3>
   </div>
 </article>
 <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2024/us-election-forecast-2024/"></a>
-  <figure class="basis-1/3 aspect-square overflow-hidden bg-zinc-100"><img
-      class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
-      src="http://localhost:1313/images/us_results1_hu_716008b9ba70e16a.png"
-      alt="The Economist US election results"
-      width="250"
-      height="250"
-    />
-  </figure>
-  <div class="basis-2/3 self-center ml-4">
+  <a class="insert-link" href="http://localhost:1313/posts/2025/internet-outages-map/"></a>
+
+  <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
-      The Economist US election results
-    </h3>
-  </div>
-</article>
-<article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2024/sudan-conflict/"></a>
-  <figure class="basis-1/3 aspect-square overflow-hidden bg-zinc-100"><img
-      class="object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
-      src="http://localhost:1313/images/sudan1_hu_83ad22f2adb749e.png"
-      alt="“Hell on earth”: satellite images document the siege of a Sudanese city"
-      width="250"
-      height="250"
-    />
-  </figure>
-  <div class="basis-2/3 self-center ml-4">
-    <h3 class="font-bold group-hover:underline decoration-auto">
-      “Hell on earth”: satellite images document the siege of a Sudanese city
+      Global internet outages map
     </h3>
   </div>
 </article>
@@ -238,7 +207,7 @@
 </div>
 
 </main>
-  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+    <footer class="bg-zinc-50 py-8 md:py-10"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
   <div class="flex-wrap space-y-6 mb-4">
     <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
       <a class="flex items-center group" href="http://localhost:1313/">
@@ -268,6 +237,26 @@
       >
         <path
           d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"
+        />
+      </svg>
+    </a>
+  </li>
+  <li>
+    <a
+      class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2"
+      href="https://bsky.app/profile/josephc.net"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <svg
+        id="Layer_1"
+        xmlns="http://www.w3.org/2000/svg"
+        width="26.21"
+        height="23.15"
+        viewBox="0 0 26.21 23.15"
+      >
+        <path
+          d="M6.87,2.05c2.52,2.15,5.24,6.51,6.23,8.85,1-2.34,3.71-6.7,6.23-8.85,1.82-1.55,4.77-2.75,4.77,1.07,0,.76-.39,6.41-.61,7.33-.79,3.19-3.65,4-6.19,3.51,4.45.86,5.58,3.71,3.14,6.56-4.64,5.41-6.67-1.36-7.19-3.09-.1-.32-.14-.47-.14-.34,0-.13-.05.02-.14.34-.52,1.73-2.55,8.5-7.19,3.09-2.44-2.85-1.31-5.7,3.14-6.56-2.55.49-5.41-.32-6.19-3.51-.23-.92-.61-6.56-.61-7.33,0-3.82,2.95-2.62,4.77-1.07h0Z"
         />
       </svg>
     </a>
@@ -316,5 +305,5 @@
 </div>
 </footer>
       <script src="/js/insertoggle.js"></script>
-</body>
+  </body>
 </html>

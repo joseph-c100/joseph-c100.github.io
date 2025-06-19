@@ -44,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Maps</title>
+      <link>http://localhost:1313/tags/maps/</link>
+      <pubDate>Tue, 10 Jun 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/maps/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Visual Storytelling</title>
       <link>http://localhost:1313/tags/visual-storytelling/</link>
       <pubDate>Tue, 10 Jun 2025 13:03:07 +0700</pubDate>
@@ -65,10 +72,31 @@
       <description></description>
     </item>
     <item>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/tags/infrastructure/</link>
+      <pubDate>Sat, 04 Jan 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Africa</title>
       <link>http://localhost:1313/tags/africa/</link>
       <pubDate>Sat, 10 Aug 2024 13:03:07 +0700</pubDate>
       <guid>http://localhost:1313/tags/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Wed, 14 Feb 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Mon, 01 Jan 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on Joseph C</title>
+    <link>http://localhost:1313/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on Joseph C</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2025 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global internet outages map</title>
+      <link>http://localhost:1313/posts/2025/internet-outages-map/</link>
+      <pubDate>Sat, 04 Jan 2025 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/internet-outages-map/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/u/0/viewer?mid=1jvaItYYwm-HsB-N93PRCMRExEeGOA1g&#34;&gt;Link to the project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Still under development.&lt;/p&gt;&#xA;&lt;p&gt;Development of the &lt;a href=&#34;https://internetoutages.netlify.app/&#34;&gt;lightweight internet outages tracker&lt;/a&gt; using the globe.gl library. Outages data are sourced from Cloudflare Radar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
