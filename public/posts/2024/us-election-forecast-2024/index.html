@@ -3,20 +3,20 @@
   lang="en-us"
   dir="ltr"
 >
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>The Economist US election results | Joseph C</title>
+<title>The Economist US election forecast | Joseph C</title>
 
-<meta name="description" content="Live updating results page for the 2024 US presidential election">
-    <link rel="stylesheet" href="/css/main.css">
+<meta name="description" content="Prediction model visualisations for presidential, senate and house elections.">
+      <link rel="stylesheet" href="/css/main.min.5feed2cb8db67325e1d6928088a5288ab3be9a594b45ff8de69f7c9e951009f4.css" integrity="sha256-X&#43;7Sy422cyXh1pKAiKUoirO&#43;mllLRf&#43;N5p98npUQCfQ=" crossorigin="anonymous">
 
-<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg"> 
-<link rel="icon" type="image/x-icon" href="http://localhost:1313/favicon.ico"> 
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon.png"> 
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32.png"> 
-<link rel="icon" type="image/png" sizes="64x64" href="http://localhost:1313/favicon-64.png"> 
+<link rel="icon" type="image/svg+xml" href="https://joseph-c100.github.io/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://joseph-c100.github.io/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://joseph-c100.github.io/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://joseph-c100.github.io/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://joseph-c100.github.io/favicon-64.png"> 
 
   </head>
   <body>
@@ -40,7 +40,7 @@
         <h2>
           <a
             class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto"
-            href="http://localhost:1313/"
+            href="https://joseph-c100.github.io/"
             >Joseph C</a
           >
         </h2>
@@ -76,19 +76,19 @@
     <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
 	<ul class="flex space-x-4 text-sm text-zinc-500">
 		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
-			<a href="http://localhost:1313/">Joseph C</a>
+			<a href="https://joseph-c100.github.io/">Joseph C</a>
 		</li>
 		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase">
-			<a href="http://localhost:1313/posts/">Posts</a>
+			<a href="https://joseph-c100.github.io/posts/">Posts</a>
 		</li>
 	</ul>
 </div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
   <article class="md:col-span-2 prose lg:prose-lg">
     <header class="not-prose">
-      <h1 id="title" class="text-2xl font-bold leading-normal">The Economist US election results</h1>
+      <h1 id="title" class="text-2xl font-bold leading-normal">The Economist US election forecast</h1>
 
       <div id="lead" class="my-2">
-        <p class="font-bold">Live updating results page for the 2024 US presidential election</p>
+        <p class="font-bold">Prediction model visualisations for presidential, senate and house elections.</p>
       </div>
 
       <div id="writer" class="flex items-center space-x-4"><ul
@@ -101,23 +101,22 @@
 
     <figure id="featureimage" class="rounded-xl aspect-video">
       <img
-        src="http://localhost:1313/images/us_results1_hu_bc26947eb573b77f.png"
+        src="https://joseph-c100.github.io/images/us_election3_hu_592a166bb685c6c.png"
         alt=""
         width="750"
-        height="523"
+        height="531"
       />
     </figure>
 
     <div id="content" class="mb-14">
-      <p>After the release of our prediction-model we started working on the results pages to visualise the results live as they came in. We utilised the same map components for the forecast for the results so it was fairly easy to get set up. These I built along with the topline elements for the Presidential, Senate and House results which you can see in the images below. However there were lots of other visual components too that you can see on the site.</p>
-<p>Most of the complications were on the back-end, handling formatting and edge cases from the data pipeline. It was important to handle edge cases well - races were there was only one candidate running, or multiple candidates from the same party as well as independents that were likely to win (in the case of Vermont or Maine).</p>
-<p>Vigorous testing using fake data was essential to see how the data may visualise on the night - before the election we would run tests frequently and capture any issues. Other than some small tweaks that had to be made on the night of the election (which was always going to happen) it was success and signified the end of a long but rewarding project of visualising US politics.</p>
-<p><a href="https://www.economist.com/interactive/us-2024-election/results/president/">Link to the US results 2024</a></p>
-<p><img src="/images/us_results2.png" alt="image">
-<img src="/images/us_results3.png" alt="image">
-<img src="/images/us_results4.png" alt="image">
-<img src="/images/us_results5.png" alt="image">
-<img src="/images/us_results6.png" alt="image"></p>
+      <p>This project represents the final results of our work to design and build the interactive visualisations for the Economist&rsquo;s 2024 US election forecast. This prediction model includes visualisations for the Presidential race as well as the House and Senate.</p>
+<p>My part began by building out wireframes based on the 2016 election and 2020 midterms which served as the initial framework. We discussed what worked from those interactives and what needed to change and iterated on those in the design. It was important to find the right balance between clear topline information while giving the appropriate context in detail.</p>
+<p>We wanted the demographics of each state to play a role so I prototyped a simple beeswarm chart that was used in the final model. I also built the &lsquo;key states to watch&rsquo; section and the main state map. The map was a tricky challenge as there were more conditions and varying states than I first thought. Especially with Maine and Nebraska which has a different electoral college system than the other states so needed to be represented slightly differently. Overall I was happy to work on this element as it was great practice for building a robust component that can manage data that is consistently changing.</p>
+<p><a href="https://www.economist.com/interactive/us-2024-election/prediction-model/president/">Link to the US forecast</a></p>
+<p><img src="/images/us_election2.png" alt="image">
+<img src="/images/us_election3.png" alt="image">
+<img src="/images/us_election4.png" alt="image">
+<img src="/images/us_election5.png" alt="image"></p>
 
 
 <ul
@@ -156,7 +155,7 @@
     <h2 class="font-bold text-xl mb-8">Recent Projects</h2>
 
     <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2025/israel-iran-war-tracker/"></a>
+  <a class="insert-link" href="https://joseph-c100.github.io/posts/2025/israel-iran-war-tracker/"></a>
 
   <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
@@ -165,7 +164,7 @@
   </div>
 </article>
 <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2025/myanmar-civil-war/"></a>
+  <a class="insert-link" href="https://joseph-c100.github.io/posts/2025/myanmar-civil-war/"></a>
 
   <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
@@ -174,7 +173,7 @@
   </div>
 </article>
 <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2025/china-myanmar-projects/"></a>
+  <a class="insert-link" href="https://joseph-c100.github.io/posts/2025/china-myanmar-projects/"></a>
 
   <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
@@ -183,7 +182,7 @@
   </div>
 </article>
 <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2025/trump-approval-tracker/"></a>
+  <a class="insert-link" href="https://joseph-c100.github.io/posts/2025/trump-approval-tracker/"></a>
 
   <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
@@ -192,7 +191,7 @@
   </div>
 </article>
 <article class="relative group flex flex-row">
-  <a class="insert-link" href="http://localhost:1313/posts/2025/internet-outages-map/"></a>
+  <a class="insert-link" href="https://joseph-c100.github.io/posts/2025/internet-outages-map/"></a>
 
   <div class="">
     <h3 class="font-bold group-hover:underline decoration-auto">
@@ -210,7 +209,7 @@
     <footer class="bg-zinc-50 py-8 md:py-10"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
   <div class="flex-wrap space-y-6 mb-4">
     <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
-      <a class="flex items-center group" href="http://localhost:1313/">
+      <a class="flex items-center group" href="https://joseph-c100.github.io/">
         
 
         <span class="text-2xl font-semibold uppercase">Joseph C</span>
@@ -304,6 +303,6 @@
   </div>
 </div>
 </footer>
-      <script src="/js/insertoggle.js"></script>
+      <script defer src="/js/insertoggle.474f9b0e08021c6519cff4e46df14ccf148285b2d3a23d6321d6e10f25c291fb.js" integrity="sha256-R0&#43;bDggCHGUZz/TkbfFMzxSChbLToj1jIdbhDyXCkfs=" crossorigin="anonymous"></script>
   </body>
 </html>
