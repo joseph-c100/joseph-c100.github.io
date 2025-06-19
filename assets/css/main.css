@@ -745,7 +745,7 @@ video {
 
 .prose :where(h1):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-  font-weight: 800;
+  font-weight: 700;
   font-size: 2.25em;
   margin-top: 0;
   margin-bottom: 0.8888889em;
@@ -760,7 +760,7 @@ video {
 
 .prose :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.5em;
   margin-top: 2em;
   margin-bottom: 1em;

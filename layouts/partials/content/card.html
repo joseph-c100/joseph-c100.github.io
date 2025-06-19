@@ -25,9 +25,9 @@
 
 	<div class="p-6">
 
-		<time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ .Date.Format "Jan 02, 2006" }}</time>
+		<time class="text-sm text-zinc-500" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ .Date.Format "Jan 02, 2006" }}</time>
 
-		<h3 class="my-4 text-2xl font-bold">{{ .LinkTitle }}</h3>
+		<h3 class="my-4 text-1xl font-bold">{{ .LinkTitle }}</h3>
 
 		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">{{ .Params.description }}</p>
 

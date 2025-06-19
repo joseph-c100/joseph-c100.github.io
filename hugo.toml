@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://joseph-c100.github.io'
 languageCode = 'en-us'
 title = 'Joseph C'
 
@@ -8,14 +8,12 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+	description = 'Visual Journalist'
 	mainSections = 'posts'
 
 [author]
-	name = 'Anthony Arphan'
-	bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
-	avatar = '/images/nasa-astronaut-unsplash.jpg'
-	twitter = 'https://twitter.com/insertapps'
+	name = 'Joseph C'
+	bio = 'Visual journalist'
 
 [menu] # Menu management
 	[[menu.main]]
