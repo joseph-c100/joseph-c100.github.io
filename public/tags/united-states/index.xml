@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Built the tracker page for The Economist monitoring the first 100 days of Trump&amp;rsquo;s presidency as well as a breakdown of his favourability rating.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Economist US election results</title>
+      <link>http://localhost:1313/posts/2024/us-election-forecast-2024/</link>
+      <pubDate>Tue, 05 Nov 2024 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2024/us-election-forecast-2024/</guid>
+      <description>&lt;p&gt;After the release of our prediction-model we started working on the results pages to visualise the results live as they came in. We utilised the same map components for the forecast for the results so it was fairly easy to get set up. These I built along with the topline elements for the Presidential, Senate and House results which you can see in the images below. However there were lots of other visual components too that you can see on the site.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Economist US election forecast</title>
       <link>http://localhost:1313/posts/2024/us-election-forecast-2024/</link>
       <pubDate>Mon, 05 Aug 2024 13:03:07 +0700</pubDate>
