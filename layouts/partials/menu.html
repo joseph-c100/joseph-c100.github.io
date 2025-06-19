@@ -22,8 +22,8 @@ Renders a menu for the given menu ID.
   {{- $page := .page }}
   {{- range .menuEntries }}
     {{- $attrs := dict "href" .URL }}
-    {{- /* Add the "rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" class to all links */}}
-    {{- $attrs = merge $attrs (dict "class" "rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200") }}
+    {{- /* Add the " border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" class to all links */}}
+    {{- $attrs = merge $attrs (dict "class" " border px-6 py-2 bg-zinc-100 hover:bg-zinc-200") }}
     
     {{- if $page.IsMenuCurrent .Menu . }}
       {{- /* Add the "active:bg-zinc-300" class if the link is the current page */}}
