@@ -37,3 +37,8 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
