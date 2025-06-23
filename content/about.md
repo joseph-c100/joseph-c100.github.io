@@ -22,3 +22,17 @@ SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Ge
 - [The New Design Congress](https://newdesigncongress.org/en/)
 - [Campaign Lab](https://campaignlab.uk/)
 - g0v.london
+
+## Selected exhibitions
+
+- Joya: Artist in Residence (2022)
+
+- University College London - Multimedia Anthropology Lab collaborative exhibition (virtual) - uclmal.com/exhibition
+
+- 'Open Fragments' - Pragamata Collective (online)
+
+- 'Gaps between gaps' - Solo Exhibition Stallan-Brand Architects (Glasgow)
+
+- 'Fantôme/Aave' - Vaapan Taiteen Tila (Helsinki)/Galerie au Medicis (Paris)
+
+- ‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
