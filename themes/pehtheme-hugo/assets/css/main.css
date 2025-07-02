@@ -553,3 +553,15 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.relative {
+  position: relative;
+}
+
+.block {
+  display: block;
+}
+
+.border {
+  border-width: 1px;
+}
