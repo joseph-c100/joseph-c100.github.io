@@ -1,5 +1,5 @@
 ---
-title: "The Economist US election forecast"
+title: The Economist US election forecast
 date: 2024-08-05T13:03:07+07:00
 slug: /us-election-forecast-2024/
 description: Prediction model visualisations for presidential, senate and house elections.
@@ -10,6 +10,8 @@ tags:
   - trackers
   - united states
   - elections
+  - feature
+
 draft: false
 ---
 

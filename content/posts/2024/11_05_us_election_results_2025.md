@@ -1,7 +1,7 @@
 ---
 title: "The Economist US election results"
 date: 2024-11-05T13:03:07+07:00
-slug: /us-election-forecast-2024/
+slug: /us-election-results-2024/
 description: Live updating results page for the 2024 US presidential election
 image: images/us_results1.png
 categories:
