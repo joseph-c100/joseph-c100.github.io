@@ -2,32 +2,41 @@
 
 <!-- Feature post by tag = "feature" -->
 
-{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 1 -}}
-<section class="block md:flex relative group  space-y-6 md:space-x-6 my-14 bg-zinc-50  hover:bg-black">
-  <figure class="basis-1/2 w-full aspect-video overflow-hidden ">
+{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" )
+| first 1 -}}
+<section
+  class="block md:flex relative group space-y-6 md:space-x-6 my-14 bg-zinc-50 hover:bg-black"
+>
+  <figure class="basis-1/2 w-full aspect-video overflow-hidden">
+    {{- if .Params.image }} {{- if (strings.HasPrefix .Params.image "http") }}
 
-    {{- if .Params.image }}
+    <img
+      class="object-cover cursor-pointer"
+      src="{{ .Params.image }}"
+      alt="{{ $.Name }}"
+      style="width: 100%; height: 100%; object-fit: cover"
+    />
 
-      {{- if (strings.HasPrefix .Params.image "http") }}
-
-        <img class="object-cover cursor-pointer" src="{{ .Params.image }}" alt="{{ $.Name }}" style="width: 100%; height: 100%; object-fit: cover;">
-
-      {{- else }}
-
-        {{- with $imgfeature := resources.Get .Params.image }}
-          {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
-          <img class="object-cover " src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width }}" height="{{ $imgfeature.Height }}">
-        {{- end }}
-
-      {{- end }}
-
-    {{- end }}
-
+    {{- else }} {{- with $imgfeature := resources.Get .Params.image }} {{
+    $imgfeature := $imgfeature.Resize "720x Q85" -}}
+    <img
+      class="object-cover"
+      src="{{ $imgfeature.Permalink }}"
+      alt="{{ $.Name }}"
+      width="{{ $imgfeature.Width }}"
+      height="{{ $imgfeature.Height }}"
+    />
+    {{- end }} {{- end }} {{- end }}
   </figure>
-  <div class="basis-1/2 ">
+  <div class="basis-1/2">
     <h3 class="text-1lg">Featured</h3>
-    <h2 class="text-1xl md:text-2xl lg:text-3xl font-bold mb-4"><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="{{ .Permalink }}">{{ .Title}}</a></h2>
-    <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"><span class="font-bold">{{ .Date.Format "Jan 02, 2006" }}</span></time>
+    <h2 class="text-sm md:text-md lg:text-1xl mb-4">
+      <a
+        class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto"
+        href="{{ .Permalink }}"
+        >{{ .Title}}</a
+      >
+    </h2>
   </div>
 </section>
 
@@ -35,47 +44,40 @@
 
 <!-- / End feature post  -->
 
-
-
-<!-- / End category post --> 
-<hr class="my-8">
+<!-- / End category post -->
+<hr class="my-8" />
 <!-- Start recent post  -->
 
-  <section class="mb-16">
+<section class="mb-16">
+  <div class="flex items-center mb-6">
+    <h2 class="text-1xl md:text-2xl font-bold mr-auto">Recent Projects</h2>
+  </div>
 
-    <div class="flex items-center mb-6">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
+    {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
+    site.Params.mainSections) }} {{ range $paginator.Pages }} {{- partial
+    "content/card" . -}} {{ end }}
+  </div>
 
-      <h2 class="text-1xl md:text-2xl font-bold mr-auto">Recent Projects</h2>
+  <!-- Paginate here -->
 
-    </div>
-
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
-
-    {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.mainSections) }}
-
-    {{ range $paginator.Pages }}
-
-      {{- partial "content/card" . -}}
-
-    {{ end }}
-
-    </div>
-
-    <!-- Paginate here -->
-
-    <div class="flex items-center mt-10">
-      {{- if $paginator.HasPrev -}}
-        <a class="border px-6 py-2 hover:bg-zinc-200 mr-auto" href="{{ $paginator.Prev.URL }}">← Previous</a>
-      {{- end -}}
-
-      {{- if $paginator.HasNext -}}
-        <a class="border px-6 py-2 hover:bg-zinc-200" href="{{ $paginator.Next.URL }}">Next →</a>
-      {{- end -}}
-    </div>
-
-  </section>
+  <div class="flex items-center mt-10">
+    {{- if $paginator.HasPrev -}}
+    <a
+      class="border px-6 py-2 hover:bg-zinc-200 mr-auto"
+      href="{{ $paginator.Prev.URL }}"
+      >← Previous</a
+    >
+    {{- end -}} {{- if $paginator.HasNext -}}
+    <a
+      class="border px-6 py-2 hover:bg-zinc-200"
+      href="{{ $paginator.Next.URL }}"
+      >Next →</a
+    >
+    {{- end -}}
+  </div>
+</section>
 
 <!-- / End recent post  -->
-
 
 {{ end }}
