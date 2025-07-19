@@ -15,4 +15,7 @@ draft: false
 
 [Link to the tracker page](https://www.economist.com/interactive/middle-east-and-africa/2025/06/13/tracking-the-israel-iran-war?app=core)
 
-I was part of the small team that quickly built this tracker page and fires map. I built the visual components for the dynamically updating fires map using Maplibre to display strategic sites with fires detected near by.
+I was part of the small team that quickly built this tracker page and fires map. I built the visual components for the dynamically updating fires map using Maplibre to display strategic sites with fires detected nearby. The data within the component updated automatically every day.
+
+This is what the map looked like after the final data update:
+![image](/images/israel-iran2.png)
