@@ -2,7 +2,7 @@ baseURL = 'https://joseph-c100.github.io'
 languageCode = 'en-us'
 title = 'Joseph C'
 
-pagination.pagerSize = '6' # <- Set the desired number of posts per page 
+pagination.pagerSize = '8' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
 
 
