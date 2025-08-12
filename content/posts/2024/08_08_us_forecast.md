@@ -10,7 +10,6 @@ tags:
   - trackers
   - united states
   - elections
-  - feature
 
 draft: false
 ---
