@@ -13,7 +13,7 @@ SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Ge
 
 ## Side projects
 
-- [Datum Research](https://datumgraphics.com/)
+- [Semblance Geospatial](https://semblancegeospatial.net/)
 - [Undersea Transmissions Archive](https://josephc.net/undersea_transmissions_archive/)
 
 ## Orbits
