@@ -2,7 +2,7 @@
 title: "Tracking the presidency"
 date: 2025-01-20T13:03:07+07:00
 slug: /trump-approval-tracker/
-description: Worked on building The Economist's live tracker page and fires map
+description: Worked on building The Economist's presidential tracker page
 image: images/trump_tracker09.png
 categories:
   - trackers
