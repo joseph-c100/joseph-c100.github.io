@@ -16,5 +16,3 @@ draft: false
 [Link to the piece](https://www.economist.com/interactive/graphic-detail/2025/06/25/mapping-irans-nuclear-programme?fsrc=core-app-economist)
 
 Simple scroll interactive map marking the locations of Iran's nuclear facilities along with diagram of a centrifuge and satellite imagery.
-
-![image](/images/iran-nuclear1.png)
