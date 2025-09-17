@@ -1,0 +1,21 @@
+---
+title: "Photography"
+description: "A collection of photographic work"
+image: "images/gaps_series2.jpg"
+images:
+  - "images/gaps_series2.jpg"
+  - "images/gaps_series3.jpg"
+  - "images/gaps_series4.jpg"
+  - "images/gaps_series5.jpeg"
+  - "images/gaps_series6.jpg"
+  - "images/gaps_series7.jpg"
+  - "images/gaps_series8.jpeg"
+  - "images/gaps_series9.jpeg"
+  - "images/gaps_series10.jpeg"
+  - "images/gaps_series11.jpeg"
+  - "images/gaps_series12.jpeg"
+  - "images/gaps_series13.jpeg"
+  - "images/gaps_series15.JPG"
+  - "images/gaps_series16.jpeg"
+layout: "photography/single"
+---

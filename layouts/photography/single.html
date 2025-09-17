@@ -1,0 +1,90 @@
+{{ define "main" }}
+
+<div class="photography-gallery">
+  <div class="gallery-container">
+    <!-- Main image display -->
+    <div class="image-frame">
+      <img
+        id="main-image"
+        src="{{ .Params.image | relURL }}"
+        alt="{{ .Title }}"
+      />
+      <div class="image-overlay">
+        <div class="image-info">
+          {{ if .Params.description }}
+          <p class="image-description">{{ .Params.description }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation controls -->
+    <div class="gallery-controls">
+      <button id="prev-btn" class="nav-btn" aria-label="Previous image">
+        <svg
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <polyline points="15,18 9,12 15,6"></polyline>
+        </svg>
+      </button>
+
+      <div class="image-counter">
+        <span id="current-image">1</span> /
+        <span id="total-images">{{ len .Params.images }}</span>
+      </div>
+
+      <button id="next-btn" class="nav-btn" aria-label="Next image">
+        <svg
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <polyline points="9,18 15,12 9,6"></polyline>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Thumbnail navigation -->
+    <div class="thumbnail-nav">
+      {{ range $index, $image := .Params.images }}
+      <button
+        class="thumbnail-btn {{ if eq $index 0 }}active{{ end }}"
+        data-image="{{ $image | relURL }}"
+        data-index="{{ $index }}"
+        aria-label="View image {{ add $index 1 }}"
+      >
+        <img src="{{ $image | relURL }}" alt="Thumbnail {{ add $index 1 }}" />
+      </button>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Content section -->
+  {{ if .Content }}
+  <div class="photography-content">
+    <div class="prose lg:prose-lg max-w-4xl mx-auto">{{- .Content -}}</div>
+  </div>
+  {{ end }}
+</div>
+
+<!-- Store images data for JavaScript -->
+<script>
+  window.photographyData = {
+    images: [
+      {{ range $index, $image := .Params.images }}
+        {{ if $index }},{{ end }}"{{ $image | relURL }}"
+      {{ end }}
+    ],
+    currentIndex: 0
+  };
+</script>
+
+{{ end }}
