@@ -8,7 +8,7 @@ categories:
 tags:
   - writing
   - osint
-draft: false
+draft: true
 ---
 
 _This is an extract from my writing for The Economist's Off the Charts newsletter. I wrote briefly about OSINT and how we have used it in our data journalism and interactive projects._

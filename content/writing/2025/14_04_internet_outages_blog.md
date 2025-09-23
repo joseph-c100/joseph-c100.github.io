@@ -9,7 +9,7 @@ categories:
 tags:
   - writing
   - trackers
-draft: false
+draft: true
 ---
 
 I've been working on a small side project that maps internet outages from the past week/three months. This is a continuation of sorts from my [lightweight internet outages tracker](https://internetoutages.netlify.app/). I used Svelte and Globe.gl for the 3D globe visualisation which allows the user to rotate around the earth and hover over countries to get more detail on the nature of the internet outage. You can run this yourself locally to try it out.
