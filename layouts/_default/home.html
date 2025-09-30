@@ -5,7 +5,7 @@
 {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" )
 | first 1 -}}
 <section class="block space-y-6 md:space-x-6 my-14" style="max-width: 800px">
-  <p>
+  <p class="text-sm">
     I am a visual journalist at The Economist, working on visual investigations,
     data graphics, political and conflict tracking, and more. My interests are
     in remote sensing, open source geographic data and satellite imagery. Also

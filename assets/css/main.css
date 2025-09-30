@@ -1760,7 +1760,7 @@ video {
 
 .text-blue-600 {
   --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity, 1));
+  color: rgb(5 56 137 / var(--tw-text-opacity, 1));
 }
 
 .decoration-auto {
@@ -2235,7 +2235,7 @@ video {
 
 .hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity, 1));
+  color: rgb(5 56 137 / var(--tw-text-opacity, 1));
 }
 
 .hover\:underline:hover {
