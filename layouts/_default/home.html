@@ -67,12 +67,11 @@
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-4 gap-x-6 gap-y-10">
-    {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
+    <!-- {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
     site.Params.mainSections) }} {{ range $paginator.Pages }} {{- partial
     "content/card" . -}} {{ end }}
   </div>
 
-  <!-- Paginate here -->
 
   <div class="flex items-center mt-10">
     {{- if $paginator.HasPrev -}}
@@ -87,7 +86,9 @@
       href="{{ $paginator.Next.URL }}"
       >Next →</a
     >
-    {{- end -}}
+    {{- end -}} -->
+    {{ range where site.RegularPages "Type" "in" site.Params.mainSections }} {{-
+    partial "content/card" . -}} {{ end }}
   </div>
 </section>
 
