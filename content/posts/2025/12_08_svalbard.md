@@ -11,6 +11,7 @@ tags:
   - conflict
   - climate
   - europe
+  - arctic
   - maps
 draft: false
 ---

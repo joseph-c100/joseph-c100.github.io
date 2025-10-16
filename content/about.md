@@ -1,7 +1,7 @@
 ---
 title: "Info"
 date: 2023-10-06T20:37:29+07:00
-image: images/popdensity-cover.png
+image: images/profile.jpeg
 draft: false
 ---
 
@@ -9,7 +9,7 @@ Visual journalism and data graphics at The Economist. Interested in remote sensi
 
 ## Skills
 
-SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
+SvelteKit, R, D3, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
 
 ## Side projects
 
@@ -22,6 +22,7 @@ SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Ge
 - [The New Design Congress](https://newdesigncongress.org/en/)
 - [Campaign Lab](https://campaignlab.uk/)
 - g0v.london
+- Royal Geographic Society
 
 ## Selected exhibitions
 
@@ -36,3 +37,9 @@ SvelteKit, R, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Ge
 - 'Fantôme/Aave' - Vaapan Taiteen Tila (Helsinki)/Galerie au Medicis (Paris)
 
 - ‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
+
+<style>
+    img {
+        max-width: 50% !important;
+    }
+<style>
