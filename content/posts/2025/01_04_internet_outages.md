@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-[Link to the project](https://www.google.com/maps/d/u/0/viewer?mid=1jvaItYYwm-HsB-N93PRCMRExEeGOA1g)
+[Link to the project](https://github.com/joseph-c100/internet-status-globe)
 
 Still under development.
 
