@@ -11,3 +11,6 @@ tags:
   - maps
 draft: false
 ---
+
+![image](/images/greenland2.png)
+![image](/images/greenland3.png)
