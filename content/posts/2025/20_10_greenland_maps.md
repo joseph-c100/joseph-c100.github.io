@@ -9,7 +9,7 @@ categories:
 tags:
   - arctic
   - maps
-draft: trueß
+draft: true
 ---
 
 ![image](/images/greenland2.png)
