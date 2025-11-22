@@ -5,9 +5,8 @@ slug: /us-detention-building-footprints/
 description: Extracting the shapes of US immigration detention centres, facilities and camps
 image: images/us_detention3.png
 categories:
-  - writing
+  - united states
 tags:
-  - writing
   - design
   - united states
 draft: false

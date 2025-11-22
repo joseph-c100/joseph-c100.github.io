@@ -39,7 +39,7 @@ SvelteKit, R, D3, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre
 - ‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
 
 <style>
-    img {
+   :global(img) {
         max-width: 50% !important;
     }
 <style>
