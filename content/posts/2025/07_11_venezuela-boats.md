@@ -16,5 +16,5 @@ draft: false
 
 [Link to the piece](https://www.economist.com/interactive/the-americas/2025/11/05/tracking-american-drug-boat-strikes-off-venezuela-coast?app=core)
 
-![image](/images/ven_boats1.png)
+![image](/images/ven_boats4.png)
 ![image](/images/ven_boats2.png)
