@@ -9,7 +9,7 @@ categories:
 tags:
   - finance
   - visual storytelling
-draft: false
+draft: true
 ---
 
 [Read the full piece here](https://www.economist.com/interactive/britain/2024/03/14/the-ancient-deal-that-saved-the-barclays?app=core)
