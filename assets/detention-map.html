@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Immigration Detention Centers</title>
+    <script src='https://unpkg.com/maplibre-gl@4.1.1/dist/maplibre-gl.js'></script>
+    <link href='https://unpkg.com/maplibre-gl@4.1.1/dist/maplibre-gl.css' rel='stylesheet' />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100vh;
+        }
+        #facility-name {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            color: #ffffff;
+            background-color: rgba(0, 0, 0, 0.7);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            pointer-events: none;
+            z-index: 1000;
+            text-align: center;
+            padding: 15px 30px;
+            border-radius: 5px;
+            max-width: 80%;
+        }
+        #facility-name.visible {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="facility-name"></div>
+    <script>
+        const map = new maplibregl.Map({
+            container: 'map',
+            style: {
+                version: 8,
+                glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
+                sources: {
+                    'carto-dark': {
+                        type: 'raster',
+                        tiles: [
+                            'https://a.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png',
+                            'https://b.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png',
+                            'https://c.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png'
+                        ],
+                        tileSize: 256,
+                        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+                    }
+                },
+                layers: [{
+                    id: 'carto-dark-layer',
+                    type: 'raster',
+                    source: 'carto-dark',
+                    minzoom: 0,
+                    maxzoom: 22
+                }]
+            },
+            center: [-98.5795, 39.8283],
+            zoom: 3.5,
+            interactive: false, // Disable all user interactions
+            dragPan: false,
+            scrollZoom: false,
+            boxZoom: false,
+            dragRotate: false,
+            keyboard: false,
+            doubleClickZoom: false,
+            touchZoomRotate: false,
+            touchPitch: false
+        });
+
+        let currentIndex = 0;
+        let features = [];
+        const facilityNameDiv = document.getElementById('facility-name');
+
+        map.on('load', async () => {
+            // Load the GeoJSON data
+            const response = await fetch('detention_centers.geojson');
+            const geojsonData = await response.json();
+            features = geojsonData.features;
+
+            // Add the detention centers source
+            map.addSource('detention-centers', {
+                type: 'geojson',
+                data: geojsonData
+            });
+
+            // Add fill layer for polygons
+            map.addLayer({
+                id: 'detention-fill',
+                type: 'fill',
+                source: 'detention-centers',
+                paint: {
+                    'fill-color': '#ff0000',
+                    'fill-opacity': 0.6
+                }
+            });
+
+            // Add outline layer
+            map.addLayer({
+                id: 'detention-outline',
+                type: 'line',
+                source: 'detention-centers',
+                paint: {
+                    'line-color': '#ffffff',
+                    'line-width': 1
+                }
+            });
+
+            // Start the loop
+            flyToNextLocation();
+        });
+
+        function flyToNextLocation() {
+            if (features.length === 0) return;
+
+            const feature = features[currentIndex];
+
+            // Get the center point of the feature
+            let center;
+            if (feature.properties.geo_point_2d) {
+                center = [feature.properties.geo_point_2d.lon, feature.properties.geo_point_2d.lat];
+            } else {
+                // Calculate centroid if geo_point_2d is not available
+                const coords = feature.geometry.coordinates;
+                if (feature.geometry.type === 'MultiPolygon') {
+                    const firstPolygon = coords[0][0];
+                    const sumCoords = firstPolygon.reduce((acc, coord) => {
+                        return [acc[0] + coord[0], acc[1] + coord[1]];
+                    }, [0, 0]);
+                    center = [sumCoords[0] / firstPolygon.length, sumCoords[1] / firstPolygon.length];
+                } else if (feature.geometry.type === 'Polygon') {
+                    const polygon = coords[0];
+                    const sumCoords = polygon.reduce((acc, coord) => {
+                        return [acc[0] + coord[0], acc[1] + coord[1]];
+                    }, [0, 0]);
+                    center = [sumCoords[0] / polygon.length, sumCoords[1] / polygon.length];
+                }
+            }
+
+            // Fly to the location
+            map.flyTo({
+                center: center,
+                zoom: 14,
+                duration: 10000,
+                essential: true,
+                minZoom: 8
+            });
+
+            // Update and fade in the facility name partway through the zoom
+            setTimeout(() => {
+                facilityNameDiv.textContent = feature.properties.name || 'Unknown Facility';
+                facilityNameDiv.classList.add('visible');
+            }, 5000);
+
+            // Fade out before moving to next location
+            setTimeout(() => {
+                facilityNameDiv.classList.remove('visible');
+            }, 9000);
+
+            // Move to next location after 10 seconds
+            currentIndex = (currentIndex + 1) % features.length;
+            setTimeout(flyToNextLocation, 10000);
+        }
+    </script>
+</body>
+</html>
