@@ -1,39 +1,20 @@
-{{ define "main" }} {{- partial "content/breadcrumb.html" . -}}
+{{ define "main" }}
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
   <article class="md:col-span-2 prose lg:prose-lg">
     <header class="not-prose">
-      <h1 id="title" class="text-2xl font-bold leading-normal">{{ .Title }}</h1>
+      <h1 id="title" class="text-2xl font-bold leading-normal mt-4">
+        {{ .Title }}
+      </h1>
 
       <div id="lead" class="my-2">
         <p class="text-1xl">{{ .Params.description }}</p>
       </div>
-
-      <div id="writer" class="flex items-center space-x-4">
-        {{- $name := .Site.Params.Author -}} {{- with $avatar := resources.Get
-        .Site.Params.Author.avatar }}
-
-        <img
-          class="w-12 h-12 bg-black rounded-full"
-          src="{{ $avatar.Permalink }}"
-          alt="{{ $name }} avatar"
-          width="{{ $avatar.Width }}"
-          height="{{ $avatar.Height }}"
-        />
-
-        {{ end -}}
-
-        <ul
-          class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto"
-        >
-          <li class="font-semibold my-2">{{ .Site.Params.Author.name }}</li>
-        </ul>
-      </div>
     </header>
 
+    {{- if .Params.image }}
     <figure id="featureimage" class="rounded-xl aspect-video">
-      {{- if .Params.image }} {{- if ( strings.HasPrefix .Params.image "http" )
-      }}
+      {{- if ( strings.HasPrefix .Params.image "http" ) }}
 
       <img
         class="rounded-lg"
@@ -49,12 +30,13 @@
         width="{{ $image.Width }}"
         height="{{ $image.Height }}"
       />
-      {{- end }} {{- end }} {{- end }} {{- if ( isset .Params "caption" ) }}
+      {{- end }} {{- end }} {{- if ( isset .Params "caption" ) }}
       <figcaption class="text-center italic text-xs">
         {{ .Params.caption }}
       </figcaption>
       {{- end }}
     </figure>
+    {{- end }}
 
     <div id="content" class="mb-14">
       <!-- Content -->
@@ -68,7 +50,9 @@
   </article>
 
   <!-- Aside -->
-  <aside class="md:col-span-1">{{- partial "content/aside.html" . -}}</aside>
+  <aside class="md:col-span-1 mt-4">
+    {{- partial "content/aside.html" . -}}
+  </aside>
 </div>
 
 {{ end }}

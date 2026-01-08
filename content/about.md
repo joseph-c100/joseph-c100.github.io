@@ -1,7 +1,6 @@
 ---
 title: "Info"
 date: 2023-10-06T20:37:29+07:00
-image: images/popdensity-cover.png
 draft: false
 ---
 

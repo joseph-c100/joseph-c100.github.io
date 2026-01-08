@@ -1340,6 +1340,7 @@ video {
 }
 
 .grid {
+  margin-top: 1rem;
   display: grid;
 }
 
@@ -1655,8 +1656,8 @@ video {
 }
 
 .py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
 }
 
 .py-2\.5 {
