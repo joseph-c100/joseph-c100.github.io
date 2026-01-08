@@ -25,10 +25,6 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 		pageRef = '/about'
 		weight = 15
 	[[menu.main]]
-		name = 'Photography'
-		pageRef = '/photography/'
-		weight = 20
-	[[menu.main]]
 		name = 'Writing'
 		pageRef = '/writing/'
 		weight = 25

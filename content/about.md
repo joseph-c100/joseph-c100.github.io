@@ -1,7 +1,7 @@
 ---
 title: "Info"
 date: 2023-10-06T20:37:29+07:00
-image: images/profile.jpeg
+image: images/popdensity-cover.png
 draft: false
 ---
 
@@ -15,6 +15,7 @@ SvelteKit, R, D3, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre
 
 - [Semblance Geospatial](https://semblancegeospatial.net/)
 - [Undersea Transmissions Archive](https://josephc.net/undersea_transmissions_archive/)
+- [mapcel](https://josephc.net/mapcel/)
 
 ## Orbits
 
@@ -39,7 +40,5 @@ SvelteKit, R, D3, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre
 - ‘How to Survive Kaamos’ exhibition at Vapaan Taiteen Tila (Helsinki)
 
 <style>
-   :global(img) {
-        max-width: 50% !important;
-    }
+
 <style>
