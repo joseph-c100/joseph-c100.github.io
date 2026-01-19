@@ -8,7 +8,7 @@ Visual journalism and data graphics at The Economist. Interested in remote sensi
 
 ## Skills
 
-SvelteKit, R, D3, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
+SvelteKit, R, D3, SQL, PostGIS, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
 
 ## Side projects
 

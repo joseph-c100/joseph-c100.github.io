@@ -10,7 +10,7 @@ tags:
   - trackers
   - maps
   - conflict
-  - OSINT
+  - osint
 draft: false
 ---
 
