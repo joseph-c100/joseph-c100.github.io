@@ -4,7 +4,7 @@ date: 2023-10-06T20:37:29+07:00
 draft: false
 ---
 
-Visual journalism and data graphics at The Economist. Interested in remote sensing, mapping, OSINT, visual investigations.
+Visual journalism and data graphics. Interested in remote sensing, mapping, OSINT, visual investigations.
 
 ## Skills
 

@@ -62,34 +62,14 @@
 <hr class="my-8" />
 <!-- Start recent post  -->
 
-<section class="mb-16">
+<section class="mb-16" style="max-width: 600px">
   <div class="flex items-center mb-6">
     <h2 class="text-sm md:text-sm font-bold mr-auto">Selected Projects</h2>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-4 gap-x-6 gap-y-10">
-    <!-- {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
-    site.Params.mainSections) }} {{ range $paginator.Pages }} {{- partial
-    "content/card" . -}} {{ end }}
-  </div>
-
-
-  <div class="flex items-center mt-10">
-    {{- if $paginator.HasPrev -}}
-    <a
-      class="border px-6 py-2 hover:bg-zinc-200 mr-auto"
-      href="{{ $paginator.Prev.URL }}"
-      >← Previous</a
-    >
-    {{- end -}} {{- if $paginator.HasNext -}}
-    <a
-      class="border px-6 py-2 hover:bg-zinc-200"
-      href="{{ $paginator.Next.URL }}"
-      >Next →</a
-    >
-    {{- end -}} -->
+  <div class="space-y-0">
     {{ range where site.RegularPages "Type" "in" site.Params.mainSections }} {{-
-    partial "content/card" . -}} {{ end }}
+    partial "content/list-item" . -}} {{ end }}
   </div>
 </section>
 

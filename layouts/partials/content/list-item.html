@@ -1,0 +1,32 @@
+<article
+  class="relative group py-3 border-b border-zinc-200 hover:text-blue-600"
+>
+  <a class="insert-link" href="{{ .Permalink }}"></a>
+
+  <div class="flex items-center justify-between">
+    <h3 class="text-base font-normal">{{ .LinkTitle }}</h3>
+
+    {{- if .Params.image }}
+    <figure
+      class="hidden group-hover:block absolute left-full ml-8 w-80 aspect-video overflow-hidden pointer-events-none z-10"
+    >
+      {{- if (strings.HasPrefix .Params.image "http") }}
+      <img
+        class="object-cover w-full h-full"
+        src="{{ .Params.image }}"
+        alt="{{ $.Name }}"
+      />
+      {{- else }} {{- with $imgcard := resources.Get .Params.image -}} {{-
+      $imgcard := $imgcard.Process "resize 640x" -}}
+      <img
+        class="object-cover w-full h-full"
+        src="{{ $imgcard.Permalink }}"
+        alt="{{ $.Name }}"
+        width="{{ $imgcard.Width }}"
+        height="{{ $imgcard.Height }}"
+      />
+      {{- end }} {{- end }}
+    </figure>
+    {{- end }}
+  </div>
+</article>
