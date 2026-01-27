@@ -25,4 +25,5 @@ It made me think how an interface such as this can be used in day to day activit
 ![image](/images/efvs_comps.png)
 ![image](/images/diagrams.png)
 
-These vision systems seemed the perfect combination of functionality and aesthetic - beauty and performance.
+I thought it would make an interesting experimental typeface using each visual element to represent a letter.
+![image](/images/enhanced_vision_typeface.png)
