@@ -9,7 +9,7 @@ categories:
 tags:
   - design
   - infrastructure
-draft: false
+draft: true
 ---
 
 Link to archive [here](https://josephc.net/undersea_transmissions_archive/)

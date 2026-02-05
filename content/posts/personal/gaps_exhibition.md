@@ -10,7 +10,7 @@ categories:
 tags:
   - design
   - exhibitions
-draft: false
+draft: true
 ---
 
 Stallan-Brand (Glasgow)
