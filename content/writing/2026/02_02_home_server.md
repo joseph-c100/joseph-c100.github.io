@@ -17,3 +17,5 @@ I configured it with Tailscale for remote access from anywhere, and when I SSH i
 
 ![image](/images/blog-img-6.png)
 
+I'm still thinking about what other uses I can get from it other than a simple file server or VPN but what I did do is set up a BOINC client to run in the background as I like the idea of using the hardware, as old and low powered as it is, to contribute to scientific projects. If you haven't heard about it have a look [here](https://boinc.berkeley.edu/).  
+
