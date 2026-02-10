@@ -8,7 +8,7 @@ Visual journalism and data graphics. Interested in remote sensing, mapping, OSIN
 
 ## Skills
 
-SvelteKit, R, D3, SQL, PostGIS, Observable, QGIS, APIs, ArchieML, ThreeJs, (Blender), Maplibre, Geolocation, Remote sensing, Figma, Information architecture, data graphics, data cleaning and analysis
+JS/Svelte, R, D3, SQL, PostGIS, ThreeJs, Blender, Maplibre, Observable, QGIS, ArchieML, Geolocation, Remote sensing, Information architecture, data graphics, data wrangling and analysis, front-end design, HTML/CSS
 
 ## Side projects
 
