@@ -27,7 +27,7 @@ I read this research paper that I thought if I reproduced at work it could be ve
 
 My side research project - [Semblance Geospatial ](semblancegeospatial.net) has been on the back burner for a while but I've been thinking about some ideas which I have been putting up on [Are.na](https://www.are.na/semblance-geospatial-ag7lvt39m_m/channels). This research project is a space for me to work on my own interests and research topics that utilises remote sensing, geospatial modelling techniques, design and 3D modelling but more to come on this.
 
-A couple personal projects I've completed have been fixing this coffee machine I found, a very nice Sage Barista Express which just needed it's solenoid valve replaced as the older one had rusted possibly due to limescale buildup. The other one was fixing this Sony CD player which wasn't ejecting properly but I replaced the loading band and it worked! My next project I think will be upgrading my Thinkpad T420 laptop with a SSD and more RAM, and building a homelab to experiment with network infrastructure.
+A couple hardware projects I've completed have been fixing this coffee machine I found, a very nice Sage Barista Express which just needed it's solenoid valve replaced as the older one had rusted possibly due to limescale buildup. The other one was fixing this Sony CD player which wasn't ejecting properly but I replaced the loading band and it worked. My next hardware project I think building a homelab to experiment with network infrastructure.
 
 ![image](/images/blog-img-1.jpg)
 ![image](/images/blog-img-2.jpg)
