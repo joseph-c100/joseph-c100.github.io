@@ -17,7 +17,7 @@ draft: false
 >
 > - A Primer for Understanding the Principles and Practices of Disaster Surveillance in the United States
 
-disasterGIS is a imagined field of research I'm exploring about the tensions that are entangled in GIS technology. Geographic Information Systems are increasingly used to respond to disasters - open source datasets and volunteer community groups can use the technology to map damaged infrastructure, or areas where supplies are most requred - like Humanitarian OpenStreetMap Team (HOT). The anti-eviction mapping project is another example of GIS as a source of counter mapping technology.
+disasterGIS is an imagined field of research I'm exploring about the tensions that are entangled in GIS technology. Geographic Information Systems are increasingly used to respond to disasters - open source datasets and volunteer community groups can use the technology to map damaged infrastructure, or areas where supplies are most requred - like Humanitarian OpenStreetMap Team (HOT). The anti-eviction mapping project is another example of GIS as a source of counter mapping technology.
 
 GIS is heavily involved and influenced by defence contracts - often spatial intelligence companies both provide military intelligence through their satellite networks, aiding in drone/air strikes, territorial surveillance or strategic planning that itself contributes to human-induced disaster. These same companies then often provide satellite imagery for free for relief efforts.
 
