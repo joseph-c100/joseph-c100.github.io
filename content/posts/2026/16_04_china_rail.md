@@ -9,7 +9,7 @@ categories:
 tags:
   - asia
   - maps
-draft: false
+draft: true
 ---
 
 As part of my Spatial Data Analytics coursework, I chose to investigate whether population density and proximity to existing regular railway lines could predict how close a location in China is to a high speed rail line. Using a 30km grid square dataset covering mainland China in 2019 (this was the most recent year where I could get a complete railway infrastructure dataset), I developed a regression model that was respecified from OLS to a spatial error model to account for the inherently spatial nature of transport infrastructure.
