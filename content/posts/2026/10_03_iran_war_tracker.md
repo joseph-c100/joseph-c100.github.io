@@ -1,5 +1,5 @@
 ---
-title: "The Iran war in maps and charts"
+title: "Iran war tracker"
 date: 2026-03-10T13:03:07+07:00
 slug: /iran-war-in-maps-and-charts/
 description: Live tracker page of the Iran war

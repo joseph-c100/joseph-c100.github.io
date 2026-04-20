@@ -10,7 +10,7 @@ tags:
   - visual storytelling
   - conflict
   - africa
-draft: false
+draft: true
 ---
 
 [Link to the piece](https://www.economist.com/interactive/middle-east-and-africa/2025/12/18/seen-from-above-el-fasher-is-a-ghost-town?app=core)

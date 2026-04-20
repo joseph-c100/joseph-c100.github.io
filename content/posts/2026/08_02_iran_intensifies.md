@@ -10,7 +10,7 @@ tags:
   - middle east
   - maps
   - satellite imagery
-draft: false
+draft: true
 ---
 
 ![image](/images/iran-intensifies3.png)

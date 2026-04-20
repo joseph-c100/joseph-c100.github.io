@@ -11,7 +11,7 @@ tags:
   - maps
   - conflict
   - osint
-draft: false
+draft: true
 ---
 
 [Link to the piece](https://www.economist.com/interactive/the-americas/2025/11/05/tracking-american-drug-boat-strikes-off-venezuela-coast?app=core)
