@@ -2,7 +2,8 @@
 module.exports = {
   content: [
       "content/**/*.md",
-      "./themes/pehtheme-hugo/**/*.{html,js}"
+      "./themes/pehtheme-hugo/**/*.{html,js}",
+      "./layouts/**/*.html"
     ],
   theme: {
     extend: {},

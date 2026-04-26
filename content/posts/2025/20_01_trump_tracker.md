@@ -1,5 +1,5 @@
 ---
-title: "Trump approval tracker"
+title: "Presidential approval"
 date: 2025-01-20T13:03:07+07:00
 slug: /trump-approval-tracker/
 description: Worked on building The Economist's presidential tracker page

@@ -8,7 +8,7 @@ categories:
   - design
 tags:
   - maps
-draft: false
+draft: true
 ---
 
 [Link to the project](https://josephc.net/ascii-earth/)

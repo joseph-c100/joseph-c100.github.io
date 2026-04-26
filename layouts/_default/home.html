@@ -6,12 +6,12 @@
 | first 1 -}}
 <section class="block space-y-6 md:space-x-6 my-14" style="max-width: 600px">
   <p class="text-sm">
-    I am a Visual Journalist at The Economist, working on data graphics, visual
-    investigations, election forecasts and conflict tracking.
+    Joseph is a designer, researcher and Visual Journalist at The Economist, working on data graphics, visual
+    investigations, election forecasts and conflict tracking. 
     <br />
     <br />
-    My background is in photography and my interests are in remote sensing,
-    computational journalism and satellite imagery. Currently, I'm also studying
+    Interested in remote sensing,
+    computational journalism and satellite imagery. Currently studying
     a MSc in Geographic Data Science and building
     <a
       style="text-decoration: underline"
@@ -74,7 +74,7 @@
     <h2 class="text-sm md:text-sm font-bold mr-auto">Selected Projects</h2>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-4 gap-x-6 gap-y-10">
+  <div>
     <!-- {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
     site.Params.mainSections) }} {{ range $paginator.Pages }} {{- partial
     "content/card" . -}} {{ end }}
@@ -95,8 +95,13 @@
       >Next →</a
     >
     {{- end -}} -->
-    {{ range where site.RegularPages "Type" "in" site.Params.mainSections }} {{-
-    partial "content/card" . -}} {{ end }}
+    {{/* {{ range where site.RegularPages "Type" "in" site.Params.mainSections }} {{-
+    partial "content/card" . -}} {{ end }} */}}
+    <ul class="text-sm" style="display:flex; flex-direction:column; gap:6px;">
+      {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
+      <li><a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
   </div>
 </section>
 

@@ -4,8 +4,6 @@ date: 2023-10-06T20:37:29+07:00
 draft: false
 ---
 
-Visual journalism and data graphics. Interested in remote sensing, mapping, OSINT, visual investigations.
-
 ## Skills
 
 JS/Svelte, R, D3, SQL, PostGIS, ThreeJs, Blender, Maplibre, Observable, QGIS, ArchieML, Geolocation, Remote sensing, Information architecture, data graphics, data wrangling and analysis, front-end design, HTML/CSS
@@ -16,10 +14,9 @@ JS/Svelte, R, D3, SQL, PostGIS, ThreeJs, Blender, Maplibre, Observable, QGIS, Ar
 - [Undersea Transmissions Archive](https://josephc.net/undersea_transmissions_archive/)
 - [mapcel](https://josephc.net/mapcel/)
 
-## Orbits
+## Associations/Collaborations
 
 - [UCL MAL](https://www.uclmal.com/)
-- [The New Design Congress](https://newdesigncongress.org/en/)
 - [Campaign Lab](https://campaignlab.uk/)
 - g0v.london
 - Royal Geographic Society
