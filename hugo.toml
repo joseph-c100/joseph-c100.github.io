@@ -47,6 +47,11 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
   	target = 'static'
 
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
