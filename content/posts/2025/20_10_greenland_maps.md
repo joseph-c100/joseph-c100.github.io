@@ -1,16 +1,16 @@
 ---
-title: "Mapping Greenland - Ongoing"
+title: "Mapping Greenland"
 date: 2025-10-20T13:03:07+07:00
 slug: /mapping-greenland/
-description: Personal project focusing on Greenland's resources and exploitation
-image: images/greenland.png
+description: Ongoing personal project focusing on Greenland's resources and mining infrastructure
 categories:
   - arctic
 tags:
   - arctic
   - maps
-draft: true
+draft: false
 ---
 
+![image](/images/greenland.png)
 ![image](/images/greenland2.png)
 ![image](/images/greenland3.png)
