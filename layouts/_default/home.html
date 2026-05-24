@@ -100,7 +100,7 @@
     <ul class="text-sm" style="display: flex; flex-direction: column; gap: 6px">
       {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
       <li>
-        <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
+        <a class="hover:bg-zinc-200" href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
       {{ end }}
     </ul>

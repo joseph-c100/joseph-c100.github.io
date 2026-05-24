@@ -15,14 +15,16 @@
       </button> -->
       <div class="relative py-1.5 0 h text-md mx-2">
         {{ if .IsHome}}
-        <h1>
+        <h1 style="font-weight: 700">
           <a
             class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto"
             href="{{ .Site.BaseURL }}"
             >{{ .Site.Title }}</a
           >
         </h1>
-        <p class="text-sm">Visual journalism — data graphics — GIS</p>
+        <p class="text-sm">
+          Visual journalism — data graphics — spatial analysis
+        </p>
         {{ else }}
         <h2>
           <a
