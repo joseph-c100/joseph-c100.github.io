@@ -9,7 +9,7 @@ categories:
 tags:
   - trackers
   - infrastructure
-draft: false
+draft: true
 ---
 
 [Link to the tracker](https://internetoutages.netlify.app/)
