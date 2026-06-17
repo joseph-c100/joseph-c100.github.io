@@ -15,5 +15,6 @@ draft: false
 [Link to the project](https://www.economist.com/interactive/europe/2026/06/09/ukrainian-strikes-are-inflicting-pain-deep-inside-russia?app=core)
 
 <video src="/videos/ukraine-capture.mp4" autoplay muted loop playsinline style="width:100%"></video>
+![image](/images/ukraine-oil3.png)
 ![image](/images/ukraine-oil1.png)
 ![image](/images/ukraine-oil2.png)
