@@ -1,5 +1,5 @@
 ---
-title: "Mapping vegetation loss from Sudan civil war"
+title: "Mapping vegetation loss in Sudan"
 date: 2026-07-16T13:03:08+07:00
 slug: /sudan_vegetation_loss/
 description: Median vegetation change (NDVI) of period before and during Sudan civil war
