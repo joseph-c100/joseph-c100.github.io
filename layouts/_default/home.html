@@ -74,36 +74,20 @@
     <h2 class="text-sm md:text-sm font-bold mr-auto">Selected Projects</h2>
   </div>
 
-  <div>
-    <!-- {{ $paginator := .Paginate ( where site.RegularPages "Type" "in"
-    site.Params.mainSections) }} {{ range $paginator.Pages }} {{- partial
-    "content/card" . -}} {{ end }}
-  </div>
+  <div class="home-projects">
+    <div class="home-projects__media">
+      {{ partial "content/image-loop" . }}
+    </div>
 
-
-  <div class="flex items-center mt-10">
-    {{- if $paginator.HasPrev -}}
-    <a
-      class="border px-6 py-2 hover:bg-zinc-200 mr-auto"
-      href="{{ $paginator.Prev.URL }}"
-      >← Previous</a
-    >
-    {{- end -}} {{- if $paginator.HasNext -}}
-    <a
-      class="border px-6 py-2 hover:bg-zinc-200"
-      href="{{ $paginator.Next.URL }}"
-      >Next →</a
-    >
-    {{- end -}} -->
-    {{/* {{ range where site.RegularPages "Type" "in" site.Params.mainSections
-    }} {{- partial "content/card" . -}} {{ end }} */}}
-    <ul class="text-sm" style="display: flex; flex-direction: column; gap: 6px">
-      {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
-      <li>
-        <a class="hover:bg-zinc-200" href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
+    <div class="home-projects__list">
+      <ul class="text-sm" style="display: flex; flex-direction: column; gap: 6px">
+        {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
+        <li>
+          <a class="hover:bg-zinc-200" href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 </section>
 

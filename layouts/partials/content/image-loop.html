@@ -1,0 +1,51 @@
+<!-- hand-picked images, cycled one per second with a hard cut -->
+{{ $images := slice "images/ukraine-strikes1.png" "images/svalbard2.png"
+"images/egypt2.png" "images/sudan-ndvi1.png" "images/sudan1.png"
+"images/sudan-darfur2.png" "images/trump_tracker02.png" "images/ven_boats1.png"
+"images/popdensity-cover.png" "images/ukraine-oil2.png" "images/map2.jpg"
+"images/sudan-nightlights.png" "images/china-rail1.png" "images/hormuz.png"
+"images/us_detention3.png" "images/scam-compound.png" "images/us_election1.png"
+"images/shipping-routes.png" "images/iran-war-gd.png" "images/myanmar3.png"
+"images/trump_tracker09.png" "images/us_results4.png"
+"images/uk_election_results4.png" "images/west-bank1.png" }}
+
+<div class="image-loop" aria-hidden="true">
+  {{- range $i, $p := $images -}} {{- with resources.Get $p -}} {{- $img :=
+  .Process "resize 750x" }}
+  <img
+    src="{{ $img.RelPermalink }}"
+    width="{{ $img.Width }}"
+    height="{{ $img.Height }}"
+    alt=""
+    loading="eager"
+    decoding="async"
+    class="{{ if eq $i 0 }}is-active{{ end }}"
+  />
+  {{- end -}} {{- end }}
+</div>
+
+<script>
+  (function () {
+    var el = document.querySelector(".image-loop");
+    if (!el) return;
+    var frames = el.querySelectorAll("img");
+    if (frames.length < 2) return;
+
+    // decode every frame up front, otherwise the first pass through the
+    // cycle shows each image blank for a beat while it decodes
+    var ready = Array.prototype.map.call(frames, function (img) {
+      return img.decode
+        ? img.decode().catch(function () {})
+        : Promise.resolve();
+    });
+
+    Promise.all(ready).then(function () {
+      var i = 0;
+      setInterval(function () {
+        frames[i].classList.remove("is-active");
+        i = (i + 1) % frames.length;
+        frames[i].classList.add("is-active");
+      }, 800);
+    });
+  })();
+</script>
