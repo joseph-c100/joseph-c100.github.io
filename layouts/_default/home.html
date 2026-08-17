@@ -6,9 +6,9 @@
 | first 1 -}}
 <section class="block space-y-6 md:space-x-6 my-14" style="max-width: 600px">
   <p class="text-sm">
-    I am a researcher, designer and Visual Journalist at The Economist, working
-    on data graphics, visual investigations, election forecasts and conflict
-    tracking.
+    I am an independent researcher and designer as well as a visual journalist
+    at The Economist where I work on data graphics, visual investigations,
+    election forecasts and conflict tracking.
     <br />
     <br />
     Interested in remote sensing, computational journalism and satellite
@@ -71,16 +71,19 @@
 
 <section class="mb-16">
   <div class="flex items-center mb-6">
-    <h2 class="text-sm md:text-sm font-bold mr-auto">Selected Projects</h2>
+    <h2 class="text-sm md:text-sm font-bold mr-auto">
+      Selected visual journalism
+    </h2>
   </div>
 
   <div class="home-projects">
-    <div class="home-projects__media">
-      {{ partial "content/image-loop" . }}
-    </div>
+    <div class="home-projects__media">{{ partial "content/image-loop" . }}</div>
 
     <div class="home-projects__list">
-      <ul class="text-sm" style="display: flex; flex-direction: column; gap: 6px">
+      <ul
+        class="text-sm"
+        style="display: flex; flex-direction: column; gap: 6px"
+      >
         {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
         <li>
           <a class="hover:bg-zinc-200" href="{{ .Permalink }}">{{ .Title }}</a>
