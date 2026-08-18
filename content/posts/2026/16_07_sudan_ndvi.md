@@ -9,7 +9,7 @@ tags:
   - africa
   - conflict
   - maps
-draft: true
+draft: false
 ---
 
 [Link to the project](https://josephc.net/sudan-ndvi/)
