@@ -3,6 +3,7 @@ title: "The ruin of Sudan"
 date: 2026-08-16T13:03:08+07:00
 slug: /the-ruin-of-sudan/
 description: Analysing median nightlights before start of civil war compared with present
+image: images/sudan-nightlights.png
 categories:
   - visual storytelling
 tags:

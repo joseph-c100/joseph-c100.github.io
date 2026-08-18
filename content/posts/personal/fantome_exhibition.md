@@ -9,7 +9,7 @@ categories:
 tags:
   - design
   - exhibitions
-draft: true
+draft: false
 ---
 
 'This is Fiction' - Single Channel Video Projection (First Image)
@@ -26,5 +26,3 @@ Helsinki - 2019
 ![image](/images/fantome2.JPG)
 ![image](/images/fantome3.JPG)
 ![image](/images/fantome4.JPG)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IDnlAu7sXVw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

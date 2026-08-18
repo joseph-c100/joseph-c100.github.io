@@ -3,6 +3,7 @@ title: "China calls the shots in Myanmar's civil war"
 date: 2025-06-10T13:03:07+07:00
 slug: /myanmar-civil-war/
 description: Follow an oil-and-gas pipeline through three conflict zones
+image: images/myanmar3.png
 categories:
   - visual storytelling
 tags:

@@ -4,27 +4,6 @@
 
 {{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" )
 | first 1 -}}
-<section class="block space-y-6 md:space-x-6 my-14" style="max-width: 600px">
-  <p class="text-sm">
-    I am an independent researcher and designer as well as a visual journalist
-    at The Economist where I work on data graphics, visual investigations,
-    election forecasts and conflict tracking.
-    <br />
-    <br />
-    Interested in remote sensing, computational journalism and satellite
-    imagery. Currently studying a MSc in Geographic Data Science and building
-    <a
-      style="text-decoration: underline"
-      href="https://semblancegeospatial.net/"
-      >Semblance Geospatial.</a
-    >
-    <br />
-    <br />
-    Previous associations and collaborations - UCL Multimedia Anthropology Lab,
-    Campaign Lab (Newspeak House), g0v.London, Joya AiR, Stallan-Brand
-    architects
-  </p>
-</section>
 <!-- <section
   class="block md:flex relative group space-y-6 md:space-x-6 my-14 bg-zinc-50 hover:text-blue-600"
 >
@@ -66,33 +45,57 @@
 <!-- / End feature post  -->
 
 <!-- / End category post -->
-<hr class="my-8" />
 <!-- Start recent post  -->
 
-<section class="mb-16">
-  <div class="flex items-center mb-6">
+{{ $all := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ $personal := where $all "File.Dir" "posts/personal/" }}
+{{ $journalism := complement $personal $all }}
+
+<div class="home-top my-14">
+  <div class="home-top__heading flex items-center mb-6">
     <h2 class="text-sm md:text-sm font-bold mr-auto">
       Selected visual journalism
     </h2>
   </div>
 
   <div class="home-projects">
-    <div class="home-projects__media">{{ partial "content/image-loop" . }}</div>
-
-    <div class="home-projects__list">
-      <ul
-        class="text-sm"
-        style="display: flex; flex-direction: column; gap: 6px"
-      >
-        {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
-        <li>
-          <a class="hover:bg-zinc-200" href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
+    {{ range $journalism }}{{ partial "home/project-thumb.html" . }}{{ end }}
   </div>
-</section>
+
+  <section class="home-bio">
+    <p class="text-sm font-semibold">
+      I am an independent researcher and designer as well as a visual journalist
+      at The Economist where I work on data graphics, visual investigations,
+      election forecasts and conflict tracking.
+      <br />
+      <br />
+      Interested in remote sensing, computational journalism and satellite
+      imagery. Currently studying a MSc in Geographic Data Science and building
+      <a
+        style="text-decoration: underline"
+        href="https://semblancegeospatial.net/"
+        >Semblance Geospatial.</a
+      >
+      <br />
+      <br />
+      Previous associations and collaborations - UCL Multimedia Anthropology
+      Lab, Campaign Lab (Newspeak House), g0v.London, Joya AiR, Stallan-Brand
+      architects
+    </p>
+  </section>
+</div>
+
+<!-- other projects: everything in content/posts/personal -->
+
+<div class="home-top my-14">
+  <div class="home-top__heading flex items-center mb-6">
+    <h2 class="text-sm md:text-sm font-bold mr-auto">Other projects</h2>
+  </div>
+
+  <div class="home-projects">
+    {{ range $personal }}{{ partial "home/project-thumb.html" . }}{{ end }}
+  </div>
+</div>
 
 <!-- / End recent post  -->
 

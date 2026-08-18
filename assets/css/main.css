@@ -134,7 +134,7 @@ html,
   -o-tab-size: 4;
   tab-size: 4;
   font-family:
-    serif, "Arial Unicode MS", ui-sans-serif, system-ui, sans-serif,
+    sans-serif, "Arial Unicode MS", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-feature-settings: normal;
   font-variation-settings: normal;
@@ -2516,71 +2516,79 @@ footer * {
     sans-serif;
 }
 
-/* home: selected projects list + looping image panel */
+/* home: selected projects thumbnail grid */
 .home-projects {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 1rem 0.75rem;
 }
 
-/* image sits above the list on mobile */
-.home-projects__media {
+.project-thumb {
+  display: block;
+  font-size: 0.6875rem;
+  line-height: 1.25;
+}
+
+.project-thumb__media {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #f4f4f5; /* zinc-100 placeholder if a post has no image */
+  margin-bottom: 0.375rem;
+}
+
+.project-thumb__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.project-thumb__title {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.project-thumb:hover .project-thumb__title {
+  color: #2563eb; /* matches the blue-600 hover used elsewhere */
+}
+
+/* home: projects grid (70%) beside the bio (30%) on desktop. the heading sits
+   on its own row in the left column so the bio starts level with the top of
+   the grid rather than the title */
+.home-top {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0 2.5rem;
+}
+
+/* bio reads first on mobile, sits to the right on desktop */
+.home-bio {
   order: -1;
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 768px) {
-  .home-projects {
-    grid-template-columns: 1fr 1fr;
-    align-items: start;
+  .home-top {
+    grid-template-columns: 7fr 3fr;
   }
 
-  .home-projects__list {
+  .home-top__heading {
     grid-column: 1;
     grid-row: 1;
   }
 
-  .home-projects__media {
+  .home-projects {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .home-bio {
     grid-column: 2;
-    grid-row: 1;
+    grid-row: 2;
     order: 0;
-  }
-}
-
-.image-loop {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  overflow: hidden;
-}
-
-.image-loop img {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  visibility: hidden;
-}
-
-.image-loop img.is-active {
-  visibility: visible;
-}
-
-/* desktop: box height follows each image's natural height instead of a
-   fixed 16:9 crop. the active frame comes out of absolute positioning so
-   it defines the container height; the rest stay stacked behind it. */
-@media (min-width: 768px) {
-  .image-loop {
-    aspect-ratio: auto;
-  }
-
-  .image-loop img {
-    inset: 0 0 auto 0;
-    height: auto;
-    object-fit: contain;
-  }
-
-  .image-loop img.is-active {
-    position: relative;
+    margin-bottom: 0;
   }
 }

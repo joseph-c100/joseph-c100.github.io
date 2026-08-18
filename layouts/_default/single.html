@@ -12,32 +12,6 @@
       </div>
     </header>
 
-    {{- if .Params.image }}
-    <figure id="featureimage" class="rounded-xl aspect-video">
-      {{- if ( strings.HasPrefix .Params.image "http" ) }}
-
-      <img
-        class="rounded-lg"
-        src="{{ .Params.image }}"
-        alt="{{ .Params.title }}"
-      />
-
-      {{- else }} {{- with $image := resources.Get .Params.image }} {{- $image
-      := $image.Resize "750x" }}
-      <img
-        src="{{ $image.Permalink }}"
-        alt="{{ .Params.title }}"
-        width="{{ $image.Width }}"
-        height="{{ $image.Height }}"
-      />
-      {{- end }} {{- end }} {{- if ( isset .Params "caption" ) }}
-      <figcaption class="text-center italic text-xs">
-        {{ .Params.caption }}
-      </figcaption>
-      {{- end }}
-    </figure>
-    {{- end }}
-
     <div id="content" class="mb-14">
       <!-- Content -->
 

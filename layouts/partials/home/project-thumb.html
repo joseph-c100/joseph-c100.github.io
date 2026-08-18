@@ -1,0 +1,18 @@
+<a class="project-thumb" href="{{ .Permalink }}">
+  <figure class="project-thumb__media">
+    {{- with .Params.image }} {{- if strings.HasPrefix . "http" }}
+    <img src="{{ . }}" alt="" loading="lazy" decoding="async" />
+    {{- else }} {{- with resources.Get (strings.TrimPrefix "/" .) }} {{- $t
+    := .Process "fill 200x200 q80 smart" }}
+    <img
+      src="{{ $t.RelPermalink }}"
+      width="{{ $t.Width }}"
+      height="{{ $t.Height }}"
+      alt=""
+      loading="lazy"
+      decoding="async"
+    />
+    {{- end }} {{- end }} {{- end }}
+  </figure>
+  <span class="project-thumb__title">{{ .Title }}</span>
+</a>

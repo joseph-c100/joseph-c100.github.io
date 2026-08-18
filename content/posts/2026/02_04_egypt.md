@@ -3,6 +3,7 @@ title: "Egypt's new pyramid scheme"
 date: 2026-04-02T13:03:08+07:00
 slug: /egypts-new-pyramid-scheme/
 description: Visual storytelling for 1843 magazine
+image: images/egypt2.png
 categories:
   - visual storytelling
 tags:

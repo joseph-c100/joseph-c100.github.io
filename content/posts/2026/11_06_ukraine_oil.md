@@ -3,6 +3,7 @@ title: "Ukrainian strikes are inflicting pain deep inside Russia"
 date: 2026-06-11T13:03:07+07:00
 slug: /ukrainian-strikes-are-inflicting-pain-deep-inside-russia/
 description: Visual investigation into Ukrainian deep strikes
+image: images/ukraine-oil2.png
 categories:
   - europe
 tags:
