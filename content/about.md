@@ -6,13 +6,7 @@ draft: false
 
 ## Skills
 
-JS/Svelte, R, D3, SQL, PostGIS, ThreeJs, Blender, Maplibre, Observable, QGIS, ArchieML, Geolocation, Remote sensing, Information architecture, data graphics, data wrangling and analysis, front-end design, HTML/CSS
-
-## Side projects
-
-- [Semblance Geospatial](https://semblancegeospatial.net/)
-- [Undersea Transmissions Archive](https://josephc.net/undersea_transmissions_archive/)
-- [mapcel](https://josephc.net/mapcel/)
+JS/Svelte, R, D3, SQL, HTML/CSS, PostGIS, Spatial databases, ThreeJs, Blender, Maplibre, Observable, QGIS, OpenStreetMaps, ArchieML, Geolocation, Remote sensing, Google Earth Engine, Information architecture, data graphics, data wrangling and analysis, front-end design, Adobe Illustrator, machine learning
 
 ## Associations/Collaborations
 
