@@ -6,7 +6,7 @@ draft: false
 
 ## Skills
 
-JS/Svelte, R, D3, SQL, HTML/CSS, PostGIS, Spatial databases, ThreeJs, Blender, Maplibre, Observable, QGIS, OpenStreetMaps, ArchieML, Geolocation, Remote sensing, Google Earth Engine, Information architecture, data graphics, data wrangling and analysis, front-end design, Adobe Illustrator, machine learning
+JS/Svelte, R, D3, SQL, HTML/CSS, PostGIS, Spatial databases, ThreeJs, Blender, Maplibre, Observable, QGIS, OpenStreetMaps, ArchieML, Geolocation, Remote sensing, Google Earth Engine, Information architecture, data graphics, data wrangling and analysis, front-end design, Adobe Illustrator, machine learning, soldering, 3D printing
 
 ## Associations/Collaborations
 
