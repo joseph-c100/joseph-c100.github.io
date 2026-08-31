@@ -15,6 +15,8 @@ draft: false
 
 Enhanced Vision is a typeface (Uppercase only) built from the components of Enhanced Flight Vision System screens.
 
+![image](/images/enhanced_vision_typeface.png)
+
 ![image](/images/efvs1.png)
 ![image](/images/efvs2.png)
 ![image](/images/efvs3.png)

@@ -47,9 +47,9 @@
 <!-- / End category post -->
 <!-- Start recent post  -->
 
-{{ $all := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{ $personal := where $all "File.Dir" "posts/personal/" }}
-{{ $journalism := complement $personal $all }}
+{{ $all := where site.RegularPages "Type" "in" site.Params.mainSections }} {{
+$personal := where $all "File.Dir" "posts/personal/" }} {{ $journalism :=
+complement $personal $all }}
 
 <div class="home-top my-14">
   <div class="home-top__heading flex items-center mb-6">
@@ -64,13 +64,13 @@
 
   <section class="home-bio">
     <p class="text-sm font-semibold">
-      I am an independent researcher and designer as well as a visual journalist
-      at The Economist where I work on data graphics, visual investigations,
+      I am an independent researcher, designer, multimedia artist as well as a
+      visual journalist where I work on data graphics, visual investigations,
       election forecasts and conflict tracking.
       <br />
       <br />
-      Interested in remote sensing, computational journalism and satellite
-      imagery. Currently studying a MSc in Geographic Data Science and building
+      Interested in remote sensing, satellite imagery, human infrastructure and
+      networks. Currently studying a MSc in Geographic Data Science and building
       <a
         style="text-decoration: underline"
         href="https://semblancegeospatial.net/"
