@@ -7,10 +7,9 @@ image: images/belarus.jpg
 categories:
   - visual storytelling
 tags:
-  - trackers
-  - infrastructure
-  - middle east
-  - maps
+  - visual storytelling
+  - scroller
+  - europe
 draft: false
 ---
 
